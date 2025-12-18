@@ -155,10 +155,147 @@
     "Affiliation": "Federation",
     "Category": "Starship",
     "Era": "24th century (TNG era)",
-    "Tagline": "",
-    "Review": "",
-    "Notes": "",
-    "ImageURL": ""
+    "Tagline": "The Galaxy-class flagship that turned exploration into a lived-in place—equal parts diplomatic stage, family neighborhood, and the setting where the Borg, Q, and fate itself kept knocking.",
+    "AtAGlance": {
+      "WhatFansRemember": [
+        "The warm, lived-in aesthetic: carpeted decks, soft lighting, and that unmistakable “this is home” ambience",
+        "Ten Forward’s forward windows and Guinan’s calm presence when the ship (and the crew) needed perspective",
+        "Saucer separation—less a gimmick than a statement about protecting civilians first",
+        "Locutus on the viewscreen and the uneasy feeling that the Federation finally met something it couldn’t talk down",
+        "The three-nacelle future refit from “All Good Things...” and the idea that the ship could grow old with its crew",
+        "The Veridian III crash: the most iconic starship ‘death’ shot of the era, equal parts spectacle and heartbreak"
+      ],
+      "CrewComplement": "Built to carry a large Starfleet crew plus civilians and families—often portrayed as a small city in space rather than a purely military vessel.",
+      "TopSpeed": "Designed for sustained deep-space cruising and rapid crisis response; the show leans on capability more than hard numbers.",
+      "FleetRole": "Federation flagship / deep-space explorer / mobile diplomatic headquarters."
+    },
+    "WhyItMatters": {
+      "InUniverse": "The Enterprise-D is the Federation at peak confidence: a ship designed not just to survive the frontier, but to bring civilization with it—schools, families, concerts, diplomacy, and a lot of science. When trouble hits, that same choice raises the stakes: every red alert is about protecting a community, not just a crew.",
+      "InFranchiseHistory": "It redefined what a hero ship could feel like. Earlier Enterprises were adventurous and lean; the D is expansive and humane. The result is a setting that can hold courtroom drama, first-contact wonder, and existential horror—sometimes in the same week—without ever losing its identity."
+    },
+    "SignatureLook": {
+      "SilhouetteAndDetails": "A broad, elegant saucer with a long, graceful neck and a tucked secondary hull—the Galaxy-class profile reads as ‘civilization’ as much as ‘starship.’ The nacelles sit wide and steady, giving the ship a relaxed posture even when it’s bristling with phaser fire.",
+      "InteriorsAndMood": "Comfort-forward Starfleet design: warm neutrals, wood-tone accents, generous windows, and spaces that look like people actually live there. Even the bridge feels like a workplace built for long conversations, not just combat decisions."
+    },
+    "OnScreenCanon": {
+      "FirstOnScreenUse": "Introduced as Captain Jean-Luc Picard’s newly commissioned command in TNG’s “Encounter at Farpoint,” with the ship’s dedication plaque establishing a 2363 launch/commission window during the shakedown period.",
+      "NotableCanonWindows": [
+        "2363–2371: active service as the Federation flagship under Picard (with brief command periods by other officers during major crises)",
+        "2364–2370: the primary setting of The Next Generation’s eight-year run of first contacts, scientific mysteries, and political flashpoints",
+        "2371: crippled and lost in the Battle of Veridian III (Star Trek Generations), with the stardrive section destroyed and the saucer crash-landing on the planet",
+        "2370 (frame story): used as the holodeck setting for the Enterprise finale “These Are the Voyages...” (Riker/Troi aboard during the time of TNG’s “The Pegasus”)",
+        "2401: restored as a museum ship and briefly returned to action during a Borg crisis (Star Trek: Picard)"
+      ],
+      "AnchorMomentsForFans": [
+        {
+          "Moment": "The first saucer separation in “Encounter at Farpoint.”",
+          "WhyItSticks": "It tells you what kind of ship this is: protect the people, then handle the threat. The D’s ‘big idea’ is baked into the visuals."
+        },
+        {
+          "Moment": "Picard’s capture and transformation into Locutus during “The Best of Both Worlds,” with Riker forced into command.",
+          "WhyItSticks": "The flagship becomes vulnerable, the crew fractures under pressure, and the show proves it can do genuine horror without abandoning its optimism."
+        },
+        {
+          "Moment": "The war-scarred alternate Enterprise-D of “Yesterday’s Enterprise.”",
+          "WhyItSticks": "Same ship, different universe—suddenly it’s a battleship. The contrast makes the prime timeline feel precious."
+        },
+        {
+          "Moment": "The future refit Enterprise-D in “All Good Things...”",
+          "WhyItSticks": "A love letter to longevity: the ship looks older, tougher, and still unmistakably itself—like the crew’s history made visible."
+        },
+        {
+          "Moment": "The Battle of Veridian III and the saucer’s crash landing (Star Trek Generations).",
+          "WhyItSticks": "It’s the rare hero-ship defeat that feels personal. You don’t just lose a vehicle—you lose a place you lived in for seven seasons."
+        }
+      ]
+    },
+    "RoleAndDoctrine": {
+      "StrategicRole": "As the flagship, the Enterprise-D functions as Starfleet’s best face forward: first contact platform, diplomatic venue, scientific powerhouse, and a visible promise that the Federation’s ideals travel with its technology.",
+      "TypicalMissions": "Deep-space exploration and survey work; first contact and treaty support; humanitarian evacuation and relief; high-level negotiations; rapid response to existential threats when ‘send the Enterprise’ is the message you want the quadrant to hear."
+    },
+    "SystemsAndCapabilities": {
+      "Weapons": {
+        "Primary": [
+          "Phaser arrays (broad coverage and sustained fire, used for everything from precision ‘shoot the thing off the hull’ to full combat exchanges)",
+          "Photon torpedoes (the escalation button when phasers aren’t enough)"
+        ],
+        "HowItFights": "The D rarely ‘duels’ like a smaller warship; it endures, adapts, and keeps options open. When it has to fight, it leans on coverage, power, and crew coordination—then pivots back to problem-solving the moment a shooting solution isn’t the best solution."
+      },
+      "Defenses": {
+        "Shields": "Robust defensive shielding portrayed as capable of taking sustained punishment—until the story needs you to feel what it means when even the flagship is outmatched.",
+        "SeparationAsAProtectionMove": "Saucer separation turns the ship into a strategy: remove noncombatants, then commit the stardrive section to the dangerous work."
+      },
+      "Propulsion": {
+        "Warp": "A long-range warp drive built for extended missions and sustained cruising rather than constant ‘redline’ dramatics.",
+        "Sublight": "Impulse handling that sells mass and momentum—the ship feels big, but it can still maneuver decisively when the moment demands it."
+      },
+      "MissionFlex": {
+        "FacilitiesDepth": "The Enterprise-D’s real ‘superpower’ is how much it can carry: labs, medical capacity, holodecks, diplomatic spaces, and living areas that let the ship function as a roaming piece of the Federation.",
+        "BattleBridge": "When separated, the stardrive section can be commanded from the Galaxy-class battle bridge—an on-screen reminder that the ship’s architecture was built around contingencies."
+      }
+    },
+    "LifeAboard": {
+      "DailyLife": "It’s one of the few hero ships routinely depicted as a place where people have actual lives: families raise kids, officers rehearse music, crewmates meet for drinks, and the ship hosts visitors without everything turning into a security incident (well… not every time).",
+      "FamiliesAndCivilians": "The presence of families changes the tone of everything. Ten Forward becomes the social heart, and the ship’s comfort isn’t decorative—it’s policy, reflecting a Starfleet that expects to explore for years without becoming isolated or brittle.",
+      "CrisisMode": "When the alarms hit, the D flips from ‘floating city’ to ‘trained machine.’ The contrast is part of the drama: you feel what’s being threatened because you’ve seen the ship at peace."
+    },
+    "NotableShipsAndSightings": [
+      {
+        "Name": "USS Enterprise (NCC-1701-D) — prime service (2363–2371)",
+        "ClaimToFame": "Picard’s flagship through the defining crises of the era—Q’s trials, the Borg’s arrival, and the Federation’s hardest moral and political dilemmas.",
+        "PeopleConnected": [
+          "Jean-Luc Picard",
+          "William T. Riker",
+          "Data",
+          "Geordi La Forge",
+          "Worf",
+          "Beverly Crusher",
+          "Deanna Troi"
+        ],
+        "WhyFansCare": "Because it’s the ship where ‘the Federation ideal’ gets tested weekly—and somehow usually survives."
+      },
+      {
+        "Name": "USS Enterprise (NCC-1701-D) — future refit (“All Good Things...”)",
+        "ClaimToFame": "A possible future version of the ship, visibly upgraded for a harsher era and used in the finale’s time-spanning crisis.",
+        "PeopleConnected": [
+          "Jean-Luc Picard",
+          "William T. Riker",
+          "Data"
+        ],
+        "WhyFansCare": "It makes the Enterprise feel like it has a lifespan and a future—like the ship can age, adapt, and keep going."
+      },
+      {
+        "Name": "USS Enterprise (NCC-1701-D) — restored museum ship (2401)",
+        "ClaimToFame": "Recovered and rebuilt after Veridian III, preserved as a museum piece, then briefly returned to service during a Borg emergency.",
+        "PeopleConnected": [
+          "Jean-Luc Picard",
+          "William T. Riker",
+          "Geordi La Forge"
+        ],
+        "WhyFansCare": "It’s the emotional payoff of a long goodbye: the ship that ‘died’ comes back with history etched into every familiar line."
+      }
+    ],
+    "BehindTheScenes": {
+      "DesignIntent": "Designed by Andrew Probert as the next evolutionary step from earlier Enterprises—sleeker, more spacious, and visually ‘civil’ rather than militaristic, matching a show that wanted diplomacy and discovery to feel like the default mode.",
+      "VisualInspiration": "Production built multiple filming models over the series’ run, refining details and proportions while keeping the instantly readable Galaxy-class silhouette—one reason the ship looks both consistent and subtly ‘improved’ as seasons progress.",
+      "ProductionTriviaForFans": [
+        "The Enterprise-D’s interiors intentionally emphasize comfort and usability; the ship needed to sell long-duration life, not just adventure.",
+        "The battle bridge exists on screen largely because saucer separation was meant to be a real, repeatable capability—not just a pilot-episode stunt.",
+        "The ship’s return in Star Trek: Picard leans hard into visual memory: familiar spaces, familiar lines, and a deliberate ‘welcome back’ vibe for long-time viewers."
+      ]
+    },
+    "FanNotes": {
+      "IfYouOnlyReadOneThing": "The Enterprise-D isn’t just a setting—it’s a promise. It looks like the Federation believes the future is worth living in, and that choice makes every threat feel like it’s trying to take a home away.",
+      "WhyItStillWorksToday": [
+        "It’s aspirational without being sterile: a starship that feels warm, communal, and genuinely livable.",
+        "It can host any story genre—mystery, horror, politics, romance—because the ship itself is stable and human.",
+        "Its ‘comfort’ isn’t fluff; it’s thematic. The D embodies what Starfleet is trying to protect.",
+        "When it finally falls, it hurts—because the show spent years teaching you the ship is a place, not a prop."
+      ]
+    },
+    "Review": "Enterprise-D is the rare hero ship that feels like a place you could actually miss. It isn’t built to look intimidating; it’s built to look confident—an enormous, elegant statement that exploration doesn’t require austerity. The corridors are wide, the lighting is warm, and the vibe is almost disarmingly domestic for a vessel that keeps stumbling into godlike beings, time fractures, and hostile empires.\n\nThat comfort is the point. The ship carries families and civilians, and it hosts diplomacy as often as it hosts danger. When Picard makes a case for principle in an observation lounge, when Guinan talks someone down in Ten Forward, when Data quietly tries to understand humanity—those moments land because the Enterprise-D feels like a working society. It’s Starfleet’s optimism rendered in architecture.\n\nThen the show weaponizes that optimism. When the Borg arrive and Picard becomes Locutus, the flagship is suddenly fragile. The Enterprise-D doesn’t just get threatened; it gets violated. Riker taking command isn’t a routine ‘captain of the week’ change—it’s a stress test of the crew’s identity, and by extension the ship’s role as the Federation’s standard-bearer.\n\nThe D’s best stories use scale as drama. It can be a courtroom, a laboratory, a refugee ship, a battlefield, and a haunted house depending on the week—and the ship never feels like it’s changing masks to fit the plot. Instead, the plot collides with what the ship already is: a community trying to stay itself under pressure.\n\nEven its ‘gimmicks’ are character. Saucer separation isn’t cool because it’s a trick shot; it’s cool because it’s a moral decision made mechanical. Separate the civilians. Take the risk with the part of the ship designed for it. That’s the Enterprise-D in one move: ethics expressed as systems design.\n\nAnd when it finally goes down at Veridian III, the loss hits with unusual weight. You’ve seen this ship at rest, you’ve watched people fall in love and raise children aboard it, you’ve lived in its spaces for years. The crash is spectacle, sure—but it’s also the end of a home. The later restoration doesn’t erase that; it reframes it as history, the way real places become museums: preserved, honored, and haunted in the best way.",
+    "Notes": "Some ships in Trek are remembered for being fast or deadly. Enterprise-D is remembered for being inhabited. It’s the first hero ship that routinely shows the Federation’s ‘everyday future’—kids in school, people off duty, friends meeting for a drink—so when the episode turns dark, you feel the cost immediately.\n\nIf you want a quick litmus test for what makes the D special, watch how often the important scenes aren’t in Engineering or on the bridge. They’re in lounges, conference rooms, sickbay, and quiet corridors. The ship’s power is that it creates space for conversations, not just confrontations.\n\nThe other enduring trick is contrast. In alternate timelines (“Yesterday’s Enterprise”) the same hull suddenly feels oppressive and grim, and the show doesn’t need exposition to sell it—you already know what the ship is ‘supposed’ to feel like. When the D is wrong, you notice.\n\nFinally, the Enterprise-D has one of Trek’s best ‘afterlives.’ The destruction in Generations is definitive, but the later restoration doesn’t cheapen it; it treats the ship the way fans do: as something with a past worth preserving, and a presence powerful enough that, when it shows up again, the room gets quiet.",
+    "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Enterprise-D%20(Final).png"
   },
   {
     "ID": "uss-enterprise-ncc-1701-e",
