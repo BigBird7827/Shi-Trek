@@ -125,7 +125,7 @@
     },
     "Review": "The D7-class battlecruiser is the Klingon Empire’s most famous “hello,” and it’s never meant to be friendly. Its silhouette does half the storytelling: wings spread like a hunter’s stance, a narrow neck, and a forward command pod that reads as a head poised to strike. Even before a captain speaks, the ship communicates intent—pressure, pride, and a willingness to escalate.\n\nWhat makes the D7 so satisfying for fans is that it isn’t just a pile of specs; it’s a mood. When one appears, the scene changes shape. Starfleet’s optimism suddenly feels negotiable. Every hail becomes a test: do you answer politely, do you posture back, do you stand your ground, or do you maneuver in a way that looks like fear? The ship’s presence turns routine space into a stage.\n\nIt’s also a perfect “Klingon doctrine in miniature.” The D7 doesn’t need to be subtle. It arrives close, it holds position, it makes you react. The class is portrayed as fast enough to matter and heavy enough to demand attention—ideal for border pressure, rapid responses, and the kind of tactical probing where the real goal is to learn how an opponent thinks under stress.\n\nThen the franchise proves how iconic the D7 really is by letting it play against type—without losing credibility. The K‑7 incident is the ultimate example: a warship arrives as a diplomatic threat, and the episode pivots into tribble chaos. The joke works because the D7 is so deadly serious as an image; the comedy lands harder when it’s bouncing off something that looks like it was built for conquest.\n\nOne of the smartest uses of the design is the Romulan twist. Seeing the same hull under a different banner is instant subtext: alliances, bargains, and political debt you can feel without a speech explaining it. It’s a rare case where a production quirk becomes a storytelling advantage, because the audience’s recognition does the work.\n\nDecades later, the D7 still functions as pure visual time travel. Put that silhouette on screen and fans immediately know the era, the tone, and the stakes. That’s the real ‘spec’: readability. The D7 isn’t just remembered—it’s useful, a piece of Star Trek’s visual language that can trigger tension (or nostalgia) in a single shot.",
     "Notes": "If you want one ‘classic Klingon’ entry to anchor a ships library, the D7 is it: war, politics, reputation, and legacy—sometimes without firing a shot.\n\nFor fans, the fun is how many different kinds of Trek stories it supports. In a straight confrontation, a D7 makes Starfleet’s confidence feel earned rather than assumed—because you can’t talk your way out of a weapons lock. In a diplomacy episode, it becomes the visual embodiment of brinkmanship: the ship isn’t attacking, it’s daring you to misstep.\n\nAnd then there’s the tonal whiplash that only Star Trek pulls off: a D7 can walk into an episode as a credible threat and walk out as the most famous unwilling carrier of tribbles in the quadrant. That contrast doesn’t weaken the design—it strengthens it, because the ship remains formidable even when the plot turns absurd.\n\nWhen you expand this library, the D7 is also a great ‘bridge’ entry: it links the TOS era to later nostalgia hits, it connects Klingon doctrine to Romulan political twists, and it gives you a baseline for comparing later Klingon ships—what changed, what stayed, and what the silhouette still tells the audience at a glance.",
-    "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Klingon%20D7%20(Final).png"
+    "ImageURL": ""
   },
   {
     "ID": "uss-enterprise-ncc-1701",
@@ -155,147 +155,10 @@
     "Affiliation": "Federation",
     "Category": "Starship",
     "Era": "24th century (TNG era)",
-    "Tagline": "The Galaxy-class flagship that turned exploration into a lived-in place—equal parts diplomatic stage, family neighborhood, and the setting where the Borg, Q, and fate itself kept knocking.",
-    "AtAGlance": {
-      "WhatFansRemember": [
-        "The warm, lived-in aesthetic: carpeted decks, soft lighting, and that unmistakable “this is home” ambience",
-        "Ten Forward’s forward windows and Guinan’s calm presence when the ship (and the crew) needed perspective",
-        "Saucer separation—less a gimmick than a statement about protecting civilians first",
-        "Locutus on the viewscreen and the uneasy feeling that the Federation finally met something it couldn’t talk down",
-        "The three-nacelle future refit from “All Good Things...” and the idea that the ship could grow old with its crew",
-        "The Veridian III crash: the most iconic starship ‘death’ shot of the era, equal parts spectacle and heartbreak"
-      ],
-      "CrewComplement": "Built to carry a large Starfleet crew plus civilians and families—often portrayed as a small city in space rather than a purely military vessel.",
-      "TopSpeed": "Designed for sustained deep-space cruising and rapid crisis response; the show leans on capability more than hard numbers.",
-      "FleetRole": "Federation flagship / deep-space explorer / mobile diplomatic headquarters."
-    },
-    "WhyItMatters": {
-      "InUniverse": "The Enterprise-D is the Federation at peak confidence: a ship designed not just to survive the frontier, but to bring civilization with it—schools, families, concerts, diplomacy, and a lot of science. When trouble hits, that same choice raises the stakes: every red alert is about protecting a community, not just a crew.",
-      "InFranchiseHistory": "It redefined what a hero ship could feel like. Earlier Enterprises were adventurous and lean; the D is expansive and humane. The result is a setting that can hold courtroom drama, first-contact wonder, and existential horror—sometimes in the same week—without ever losing its identity."
-    },
-    "SignatureLook": {
-      "SilhouetteAndDetails": "A broad, elegant saucer with a long, graceful neck and a tucked secondary hull—the Galaxy-class profile reads as ‘civilization’ as much as ‘starship.’ The nacelles sit wide and steady, giving the ship a relaxed posture even when it’s bristling with phaser fire.",
-      "InteriorsAndMood": "Comfort-forward Starfleet design: warm neutrals, wood-tone accents, generous windows, and spaces that look like people actually live there. Even the bridge feels like a workplace built for long conversations, not just combat decisions."
-    },
-    "OnScreenCanon": {
-      "FirstOnScreenUse": "Introduced as Captain Jean-Luc Picard’s newly commissioned command in TNG’s “Encounter at Farpoint,” with the ship’s dedication plaque establishing a 2363 launch/commission window during the shakedown period.",
-      "NotableCanonWindows": [
-        "2363–2371: active service as the Federation flagship under Picard (with brief command periods by other officers during major crises)",
-        "2364–2370: the primary setting of The Next Generation’s eight-year run of first contacts, scientific mysteries, and political flashpoints",
-        "2371: crippled and lost in the Battle of Veridian III (Star Trek Generations), with the stardrive section destroyed and the saucer crash-landing on the planet",
-        "2370 (frame story): used as the holodeck setting for the Enterprise finale “These Are the Voyages...” (Riker/Troi aboard during the time of TNG’s “The Pegasus”)",
-        "2401: restored as a museum ship and briefly returned to action during a Borg crisis (Star Trek: Picard)"
-      ],
-      "AnchorMomentsForFans": [
-        {
-          "Moment": "The first saucer separation in “Encounter at Farpoint.”",
-          "WhyItSticks": "It tells you what kind of ship this is: protect the people, then handle the threat. The D’s ‘big idea’ is baked into the visuals."
-        },
-        {
-          "Moment": "Picard’s capture and transformation into Locutus during “The Best of Both Worlds,” with Riker forced into command.",
-          "WhyItSticks": "The flagship becomes vulnerable, the crew fractures under pressure, and the show proves it can do genuine horror without abandoning its optimism."
-        },
-        {
-          "Moment": "The war-scarred alternate Enterprise-D of “Yesterday’s Enterprise.”",
-          "WhyItSticks": "Same ship, different universe—suddenly it’s a battleship. The contrast makes the prime timeline feel precious."
-        },
-        {
-          "Moment": "The future refit Enterprise-D in “All Good Things...”",
-          "WhyItSticks": "A love letter to longevity: the ship looks older, tougher, and still unmistakably itself—like the crew’s history made visible."
-        },
-        {
-          "Moment": "The Battle of Veridian III and the saucer’s crash landing (Star Trek Generations).",
-          "WhyItSticks": "It’s the rare hero-ship defeat that feels personal. You don’t just lose a vehicle—you lose a place you lived in for seven seasons."
-        }
-      ]
-    },
-    "RoleAndDoctrine": {
-      "StrategicRole": "As the flagship, the Enterprise-D functions as Starfleet’s best face forward: first contact platform, diplomatic venue, scientific powerhouse, and a visible promise that the Federation’s ideals travel with its technology.",
-      "TypicalMissions": "Deep-space exploration and survey work; first contact and treaty support; humanitarian evacuation and relief; high-level negotiations; rapid response to existential threats when ‘send the Enterprise’ is the message you want the quadrant to hear."
-    },
-    "SystemsAndCapabilities": {
-      "Weapons": {
-        "Primary": [
-          "Phaser arrays (broad coverage and sustained fire, used for everything from precision ‘shoot the thing off the hull’ to full combat exchanges)",
-          "Photon torpedoes (the escalation button when phasers aren’t enough)"
-        ],
-        "HowItFights": "The D rarely ‘duels’ like a smaller warship; it endures, adapts, and keeps options open. When it has to fight, it leans on coverage, power, and crew coordination—then pivots back to problem-solving the moment a shooting solution isn’t the best solution."
-      },
-      "Defenses": {
-        "Shields": "Robust defensive shielding portrayed as capable of taking sustained punishment—until the story needs you to feel what it means when even the flagship is outmatched.",
-        "SeparationAsAProtectionMove": "Saucer separation turns the ship into a strategy: remove noncombatants, then commit the stardrive section to the dangerous work."
-      },
-      "Propulsion": {
-        "Warp": "A long-range warp drive built for extended missions and sustained cruising rather than constant ‘redline’ dramatics.",
-        "Sublight": "Impulse handling that sells mass and momentum—the ship feels big, but it can still maneuver decisively when the moment demands it."
-      },
-      "MissionFlex": {
-        "FacilitiesDepth": "The Enterprise-D’s real ‘superpower’ is how much it can carry: labs, medical capacity, holodecks, diplomatic spaces, and living areas that let the ship function as a roaming piece of the Federation.",
-        "BattleBridge": "When separated, the stardrive section can be commanded from the Galaxy-class battle bridge—an on-screen reminder that the ship’s architecture was built around contingencies."
-      }
-    },
-    "LifeAboard": {
-      "DailyLife": "It’s one of the few hero ships routinely depicted as a place where people have actual lives: families raise kids, officers rehearse music, crewmates meet for drinks, and the ship hosts visitors without everything turning into a security incident (well… not every time).",
-      "FamiliesAndCivilians": "The presence of families changes the tone of everything. Ten Forward becomes the social heart, and the ship’s comfort isn’t decorative—it’s policy, reflecting a Starfleet that expects to explore for years without becoming isolated or brittle.",
-      "CrisisMode": "When the alarms hit, the D flips from ‘floating city’ to ‘trained machine.’ The contrast is part of the drama: you feel what’s being threatened because you’ve seen the ship at peace."
-    },
-    "NotableShipsAndSightings": [
-      {
-        "Name": "USS Enterprise (NCC-1701-D) — prime service (2363–2371)",
-        "ClaimToFame": "Picard’s flagship through the defining crises of the era—Q’s trials, the Borg’s arrival, and the Federation’s hardest moral and political dilemmas.",
-        "PeopleConnected": [
-          "Jean-Luc Picard",
-          "William T. Riker",
-          "Data",
-          "Geordi La Forge",
-          "Worf",
-          "Beverly Crusher",
-          "Deanna Troi"
-        ],
-        "WhyFansCare": "Because it’s the ship where ‘the Federation ideal’ gets tested weekly—and somehow usually survives."
-      },
-      {
-        "Name": "USS Enterprise (NCC-1701-D) — future refit (“All Good Things...”)",
-        "ClaimToFame": "A possible future version of the ship, visibly upgraded for a harsher era and used in the finale’s time-spanning crisis.",
-        "PeopleConnected": [
-          "Jean-Luc Picard",
-          "William T. Riker",
-          "Data"
-        ],
-        "WhyFansCare": "It makes the Enterprise feel like it has a lifespan and a future—like the ship can age, adapt, and keep going."
-      },
-      {
-        "Name": "USS Enterprise (NCC-1701-D) — restored museum ship (2401)",
-        "ClaimToFame": "Recovered and rebuilt after Veridian III, preserved as a museum piece, then briefly returned to service during a Borg emergency.",
-        "PeopleConnected": [
-          "Jean-Luc Picard",
-          "William T. Riker",
-          "Geordi La Forge"
-        ],
-        "WhyFansCare": "It’s the emotional payoff of a long goodbye: the ship that ‘died’ comes back with history etched into every familiar line."
-      }
-    ],
-    "BehindTheScenes": {
-      "DesignIntent": "Designed by Andrew Probert as the next evolutionary step from earlier Enterprises—sleeker, more spacious, and visually ‘civil’ rather than militaristic, matching a show that wanted diplomacy and discovery to feel like the default mode.",
-      "VisualInspiration": "Production built multiple filming models over the series’ run, refining details and proportions while keeping the instantly readable Galaxy-class silhouette—one reason the ship looks both consistent and subtly ‘improved’ as seasons progress.",
-      "ProductionTriviaForFans": [
-        "The Enterprise-D’s interiors intentionally emphasize comfort and usability; the ship needed to sell long-duration life, not just adventure.",
-        "The battle bridge exists on screen largely because saucer separation was meant to be a real, repeatable capability—not just a pilot-episode stunt.",
-        "The ship’s return in Star Trek: Picard leans hard into visual memory: familiar spaces, familiar lines, and a deliberate ‘welcome back’ vibe for long-time viewers."
-      ]
-    },
-    "FanNotes": {
-      "IfYouOnlyReadOneThing": "The Enterprise-D isn’t just a setting—it’s a promise. It looks like the Federation believes the future is worth living in, and that choice makes every threat feel like it’s trying to take a home away.",
-      "WhyItStillWorksToday": [
-        "It’s aspirational without being sterile: a starship that feels warm, communal, and genuinely livable.",
-        "It can host any story genre—mystery, horror, politics, romance—because the ship itself is stable and human.",
-        "Its ‘comfort’ isn’t fluff; it’s thematic. The D embodies what Starfleet is trying to protect.",
-        "When it finally falls, it hurts—because the show spent years teaching you the ship is a place, not a prop."
-      ]
-    },
-    "Review": "Enterprise-D is the rare hero ship that feels like a place you could actually miss. It isn’t built to look intimidating; it’s built to look confident—an enormous, elegant statement that exploration doesn’t require austerity. The corridors are wide, the lighting is warm, and the vibe is almost disarmingly domestic for a vessel that keeps stumbling into godlike beings, time fractures, and hostile empires.\n\nThat comfort is the point. The ship carries families and civilians, and it hosts diplomacy as often as it hosts danger. When Picard makes a case for principle in an observation lounge, when Guinan talks someone down in Ten Forward, when Data quietly tries to understand humanity—those moments land because the Enterprise-D feels like a working society. It’s Starfleet’s optimism rendered in architecture.\n\nThen the show weaponizes that optimism. When the Borg arrive and Picard becomes Locutus, the flagship is suddenly fragile. The Enterprise-D doesn’t just get threatened; it gets violated. Riker taking command isn’t a routine ‘captain of the week’ change—it’s a stress test of the crew’s identity, and by extension the ship’s role as the Federation’s standard-bearer.\n\nThe D’s best stories use scale as drama. It can be a courtroom, a laboratory, a refugee ship, a battlefield, and a haunted house depending on the week—and the ship never feels like it’s changing masks to fit the plot. Instead, the plot collides with what the ship already is: a community trying to stay itself under pressure.\n\nEven its ‘gimmicks’ are character. Saucer separation isn’t cool because it’s a trick shot; it’s cool because it’s a moral decision made mechanical. Separate the civilians. Take the risk with the part of the ship designed for it. That’s the Enterprise-D in one move: ethics expressed as systems design.\n\nAnd when it finally goes down at Veridian III, the loss hits with unusual weight. You’ve seen this ship at rest, you’ve watched people fall in love and raise children aboard it, you’ve lived in its spaces for years. The crash is spectacle, sure—but it’s also the end of a home. The later restoration doesn’t erase that; it reframes it as history, the way real places become museums: preserved, honored, and haunted in the best way.",
-    "Notes": "Some ships in Trek are remembered for being fast or deadly. Enterprise-D is remembered for being inhabited. It’s the first hero ship that routinely shows the Federation’s ‘everyday future’—kids in school, people off duty, friends meeting for a drink—so when the episode turns dark, you feel the cost immediately.\n\nIf you want a quick litmus test for what makes the D special, watch how often the important scenes aren’t in Engineering or on the bridge. They’re in lounges, conference rooms, sickbay, and quiet corridors. The ship’s power is that it creates space for conversations, not just confrontations.\n\nThe other enduring trick is contrast. In alternate timelines (“Yesterday’s Enterprise”) the same hull suddenly feels oppressive and grim, and the show doesn’t need exposition to sell it—you already know what the ship is ‘supposed’ to feel like. When the D is wrong, you notice.\n\nFinally, the Enterprise-D has one of Trek’s best ‘afterlives.’ The destruction in Generations is definitive, but the later restoration doesn’t cheapen it; it treats the ship the way fans do: as something with a past worth preserving, and a presence powerful enough that, when it shows up again, the room gets quiet.",
-    "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Enterprise-D%20(Final).png"
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
   },
   {
     "ID": "uss-enterprise-ncc-1701-e",
@@ -457,10 +320,139 @@
     "Affiliation": "Ferengi Alliance",
     "Category": "Ship class",
     "Era": "24th century",
-    "Tagline": "",
-    "Review": "",
-    "Notes": "",
-    "ImageURL": ""
+    "Tagline": "The Ferengi’s iconic horseshoe‑hull merchant‑raider—equal parts marketplace, ambush platform, and intimidation prop.",
+    "AtAGlance": {
+      "WhatFansRemember": [
+        "The unmistakable “horseshoe crab” silhouette—an arched hull with claw‑like forward prongs that reads predatory at a glance",
+        "Early‑TNG Ferengi as a serious threat: sleek ship, sharp tactics, no comedy relief yet",
+        "The strange surrender posture: the neck extends and weapon ports open, exposing “sensitive areas”",
+        "A nasty surprise weapon that can hammer shields and drain power in one hit",
+        "The vibe of a traveling bazaar with teeth—cargo, prisoners, and profit all under one roof"
+      ],
+      "CrewComplement": "Approximately 450 is stated as a standard complement on screen (with the class also shown operating with far fewer when needed).",
+      "TopSpeed": "Described as “almost as fast” as the Enterprise‑D in pursuit—fast enough that you can’t just shrug and leave.",
+      "FleetRole": "Multi‑purpose Ferengi workhorse: armed trader / raider / “attack vessel” that can negotiate, smuggle, or ambush depending on the day."
+    },
+    "WhyItMatters": {
+      "BigPicture": "This ship is the Ferengi introduction poster—before the Alliance becomes a source of satire, the D’Kora sells them as a rival power with credible hardware and a ruthless, profit‑first doctrine.",
+      "TrekEcosystem": "It’s also one of early TNG’s most memorable “new era” silhouettes: not a re-dressed movie model, not a kitbash you forget—an alien design that immediately feels like a different culture built it."
+    },
+    "SignatureLook": {
+      "Silhouette": "A broad, arched primary structure forming a hard crescent, with forward “claws” and a prow that can telescope outward. It looks less like a spear and more like a trap—something that closes around its prey.",
+      "PaintAndMarkings": "On screen it reads as warm bronze/copper lighting over darker plating, with window clusters glittering like a city built into a hull. It feels commercial and predatory at the same time."
+    },
+    "OnScreenCanon": {
+      "FirstOnScreenUse": "The Ferengi marauder debuts with DaiMon Tarr’s ship in “The Last Outpost,” immediately framed as an impressive, unfamiliar design.",
+      "NotableCanonWindows": [
+        "2364: first encounters and the Delphi Ardu/Tkon trap (“The Last Outpost”)",
+        "2365: the Kreechta exploits a Starfleet war‑game moment (“Peak Performance”)",
+        "2366: the Krayton runs a high‑profile abduction out of a trade conference (“Ménage à Troi”)",
+        "2369: Lwaxana later dismisses her captivity on the Krayton as time on a “cargo ship” (“The Forsaken”)",
+        "2370s: class identification and “marauder” labeling show up in later on‑screen references and display graphics (“Force of Nature”, “Inside Man”)"
+      ],
+      "AnchorMomentsForFans": [
+        {
+          "Moment": "The Delphi Ardu standoff—two ships trapped, both convinced the other is responsible.",
+          "WhyItSticks": "It’s a classic Trek setup that lets the D’Kora feel dangerous without winning a straight fight: it’s the unknown ship with the unknown angle."
+        },
+        {
+          "Moment": "A Ferengi D’Kora attacks a Galaxy‑class running low shields during a simulation.",
+          "WhyItSticks": "It’s a perfect Ferengi move: wait for the vulnerability, then demand a payoff."
+        },
+        {
+          "Moment": "The Krayton’s chase—almost fast enough to outrun the Enterprise‑D while hauling hostages.",
+          "WhyItSticks": "That one line about speed instantly upgrades the ship from “pirate freighter” to “problem.”"
+        }
+      ]
+    },
+    "RoleAndDoctrine": {
+      "HowFerengiUseIt": "The class is built to monetize leverage. It can arrive as a trader with holds full of goods, pivot into a coercive “attack vessel,” and leave with cargo, technology, or people—whichever has the best margin.",
+      "TacticsOnScreen": "It favors asymmetric advantage: strike when shields are down, use unfamiliar weapons to force system strain, and make the negotiation happen after the other ship is already worried.",
+      "WhatItSignals": "When a D’Kora shows up, the conversation is rarely about territory or honor—it’s about ownership, profit, and who’s about to be held hostage to a deal."
+    },
+    "SystemsAndCapabilities": {
+      "Weapons": {
+        "Primary": [
+          "Directed‑energy fire from the forward “claws” (weapon ports are visually emphasized in the class’ posture changes)",
+          "A torpedo launch capability shown from the top/peak area of the hull",
+          "A forward missile/warhead launcher is specifically seen/used in later encounters"
+        ],
+        "HowItFights": "It fights like a merchant prince with a concealed pistol: it doesn’t need sustained fleet engagements to be scary—it needs one clean opening, one crippling shot, and a price you can’t afford to refuse."
+      },
+      "Defenses": {
+        "Shields": "Demonstrated as robust enough to contest a Galaxy‑class long enough to bargain, withdraw, or reset the engagement on Ferengi terms.",
+        "NastySurprise": "An aft‑emitted electromagnetic‑style pulse attack is shown weakening shields and significantly draining ship power in a single discharge—exactly the kind of system-level “tilt” weapon that turns a duel into a mugging."
+      },
+      "Propulsion": {
+        "Warp": "Treated as a high‑performance ship for its day—close enough to Starfleet’s flagship that pursuit becomes a contest, not a formality.",
+        "Maneuvering": "The ship’s scale and shape imply big‑mass handling, but on screen it’s agile enough for tight pursuit staging and sudden turns to bring the claws to bear."
+      },
+      "MissionFlex": {
+        "CargoAndCapture": "The design reads as a traveling warehouse with built‑in coercion: space for goods, space for captives, and the tools to decide which you’re carrying today.",
+        "EmbeddedCraft": "At least one example is shown with an integrated auxiliary craft docked in an underside bay—suggesting a built‑in raiding/landing option without committing the whole ship."
+      }
+    },
+    "LifeAboard": {
+      "BridgeCulture": "The bridge is staged as a standing command environment—more trading floor than naval bridge—where presence, status, and intimidation are part of the workflow.",
+      "Tone": "It feels transactional and tense. Even when the ship is “just” a cargo vessel, the implication is that cargo can mean anything a Ferengi can price, hide, or threaten.",
+      "DetentionAndLeverage": "On screen we see the ship used for imprisonment and coercion, reinforcing that the D’Kora isn’t merely transport—it’s leverage made mobile."
+    },
+    "NotableShipsAndSightings": [
+      {
+        "Name": "Tarr’s Marauder",
+        "ClaimToFame": "First contact-era chase into the Delphi Ardu system; trapped alongside the Enterprise‑D in the Tkon field.",
+        "PeopleConnected": [
+          "DaiMon Tarr",
+          "Jean‑Luc Picard",
+          "William T. Riker"
+        ],
+        "WhyFansCare": "It’s the debut—where the ship’s look, posture tricks, and “unknown weapon” menace are introduced in one tight story."
+      },
+      {
+        "Name": "Kreechta",
+        "ClaimToFame": "Attacks the Enterprise during the Hathaway war game and tries to extort the ship as a prize.",
+        "PeopleConnected": [
+          "DaiMon Bractor",
+          "Jean‑Luc Picard"
+        ],
+        "WhyFansCare": "One of the best demonstrations of Ferengi opportunism: weaponize a rules‑bound Starfleet exercise against them."
+      },
+      {
+        "Name": "Krayton",
+        "ClaimToFame": "Abducts Lwaxana Troi, Deanna Troi, and Riker after the Betazed trade conference; runs an almost-even chase with the Enterprise‑D.",
+        "PeopleConnected": [
+          "DaiMon Tog",
+          "Lwaxana Troi",
+          "Deanna Troi",
+          "William T. Riker"
+        ],
+        "WhyFansCare": "It anchors the D’Kora as a ‘big kid’ ship—fast, confident, and brazen enough to snatch Federation VIPs."
+      },
+      {
+        "Name": "Bok’s Marauder",
+        "ClaimToFame": "Linked to Bok’s vendetta storyline and the Ferengi’s early “pirate with a plan” portrayal.",
+        "PeopleConnected": [
+          "Bok"
+        ],
+        "WhyFansCare": "It’s where Ferengi plots start to feel less like simple raiding and more like long-game grievance and manipulation."
+      }
+    ],
+    "BehindTheScenes": {
+      "DesignIntent": "Created as the first brand‑new alien starship silhouette for TNG—instantly non‑Federation, instantly memorable, and visually “other.”",
+      "VisualInspiration": "The production design drew directly on a horseshoe‑crab motif, pushing an organic curve rather than the straight lines and symmetry of many Starfleet ships.",
+      "ProductionTriviaForFans": [
+        "Andrew Probert designed the ship’s threatening ‘pincer’ front and the extendable features described in the script for its debut.",
+        "The model’s look sells Ferengi culture in one glance: commerce, predation, and utility all fused into the same shape."
+      ]
+    },
+    "FanNotes": {
+      "ReadingTheShip": "The D’Kora works because it’s culturally loud. Starfleet ships tend to advertise mission and ethos; this one advertises appetite. Even the windows feel like a marketplace lit from inside.",
+      "BestRewatchCue": "Watch how often Ferengi ‘surrender’ posture and negotiation beats happen in the same breath. The ship is basically a bargaining chip that can shoot.",
+      "CanonCaution": "Published reference numbers for the class vary across non‑screen sources; the on‑screen portrayal is the safest guide—fast, well‑armed, and purpose-built for leverage."
+    },
+    "Review": "The D’Kora-class is the ship that tells you early‑season Ferengi aren’t here to be lovable—they’re here to take something. Its first big showing is pure first‑contact tension: a sleek, unfamiliar warship shadowing the Enterprise‑D into the Delphi Ardu system, both vessels trapped in a massive, ancient field and both captains convinced the other side is running the con. The story uses the D’Kora the way Trek uses a great antagonist ship: as an unanswered question with weapons.\n\nWhat makes the class memorable isn’t just firepower. It’s presentation. The hull looks like a curved trap, the forward “claws” read like tools meant for grabbing, and the ship’s posture can change—stretching forward, opening ports, making what should be a simple silhouette suddenly feel alive. Even when the Ferengi claim surrender, the posture is unnerving: sensitive areas exposed by design, as if the ship itself is bargaining.\n\nLater encounters sharpen the point. In ‘Peak Performance,’ a D’Kora pounces at exactly the right moment—when the Enterprise is flying a simulation profile and running minimal shields—then tries to turn the whole situation into a transaction. It’s a perfect Ferengi tactic: don’t win an honorable battle; win a profitable one. And when the Krayton abducts Federation VIPs, the ship’s speed matters. Being “almost as fast” as the Enterprise‑D turns the chase into a real problem, not a quick cleanup.\n\nIn the end, the D’Kora is a culture capsule. You don’t need a technical readout to understand it. This is a ship designed to arrive with goods, leave with valuables, and make sure the definition of ‘valuable’ includes whatever you were hoping to keep.",
+    "Notes": "If you only know the Ferengi through later stories—Rules of Acquisition jokes, Quark’s hustles, and Grand Nagus politics—the D’Kora is a reminder of an earlier intent: the Alliance as a serious, predatory peer power. The ship’s scenes play like a gangster film in space, with negotiation happening under the shadow of a weapon that’s already aimed.\n\nRewatch tip: focus on how the D’Kora forces Starfleet officers to make choices. Its best moments aren’t about explosions; they’re about leverage—hostages, stolen hardware, shields compromised at the wrong time, a surrender that might be a feint. The ship is a moving test of whether the Federation can keep its principles when the other side treats principles as inventory.\n\nAlso worth appreciating: this design is one of those ‘you can’t mistake it’ shapes. Put it in a still frame with no dialogue and every fan knows what kind of scene they’re in—money is involved, someone’s being played, and the exit is going to come with a price tag.",
+    "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/D'Kora%20(Final).png"
   },
   {
     "ID": "vulcan-cruiser",
