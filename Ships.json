@@ -719,28 +719,251 @@
   "Notes": "Canon treats the bio-ship as an extension of Species 8472 itself: it’s grown from genetically similar organic material, piloted by a single 8472 individual, and built around living systems—organic conduits, electrodynamic fluids, and a neuropeptide-laced matrix that reads like biology doing the job of computing. That’s why boarding it feels like walking into anatomy rather than engineering.\n\nThe ship’s most potent ‘feature’ is less its weapon and more its refusal to cooperate with Starfleet procedure. The hull’s resistance to sensors and tractor beams, and the inability to establish a transporter lock, forces every encounter to happen on 8472’s terms. It’s a clever bit of storytelling design: the writers remove the shortcut buttons so the crew has to improvise, ethically and tactically.\n\nThe Borg–8472 war context is part of what makes the bio-ship a fan favorite. Trek rarely shows the Borg as strategically outclassed; these ships do. When the alliance with the Borg becomes necessary, the bio-ship becomes the silent justification: this is what it takes to survive a foe that the Borg themselves can’t simply absorb.\n\nIf you want to rewatch with fresh eyes, track how often the show frames the bio-ship as “alive” even in the language around it—regenerating, resisting, docking by dissolving into another vessel’s interior. It’s one of Voyager’s best examples of making ship design carry theme: the line between organism and technology is the point, and the bio-ship never lets you forget it.",
   "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Species%208472%20Bioship%20(Final).png"
 },
-  {
-    "ID": "delta-flyer",
-    "Name": "Delta Flyer",
-    "Affiliation": "Federation",
-    "Category": "Small craft",
-    "Era": "24th century (VOY era)",
-    "Tagline": "",
-    "Review": "",
-    "Notes": "",
-    "ImageURL": ""
+ {
+  "ID": "delta-flyer",
+  "Name": "Delta Flyer",
+  "Affiliation": "Federation",
+  "Category": "Small craft",
+  "Era": "24th century (VOY era)",
+  "Tagline": "Voyager’s custom-built problem-solver: the shuttle you design when the quadrant won’t stop trying to kill standard shuttles.",
+  "AtAGlance": {
+    "WhatFansRemember": [
+      "Built on Voyager, in the Delta Quadrant, because the usual shuttles kept coming back in pieces",
+      "Tom Paris’ pride project—equal parts hot-rod attitude and survival engineering",
+      "A cockpit set up for tactical/ops/engineering work, not just “pilot + passenger” runs",
+      "Borg trouble magnets: slipstreams, cubes, queens, and the kind of missions that don’t fit in a Type-6",
+      "Destroyed on the way into a Borg tactical cube—then rebuilt and back in action"
+    ],
+    "CrewComplement": "Small, mission-focused crew—often flown by senior officers when the job is too weird (or too dangerous) for a standard shuttle.",
+    "TopSpeed": "A purpose-built craft for harsh environments and high-risk sorties; the show emphasizes durability and capability over hard numbers.",
+    "FleetRole": "Long-range shuttle / hazardous-environment insertion craft / ‘get in, do the impossible, get out’ platform."
   },
-  {
-    "ID": "shuttlecraft-galileo",
-    "Name": "Shuttlecraft Galileo",
-    "Affiliation": "Federation",
-    "Category": "Small craft",
-    "Era": "23rd century (TOS era)",
-    "Tagline": "",
-    "Review": "",
-    "Notes": "",
-    "ImageURL": ""
+  "WhyItMatters": {
+    "InUniverse": "The Delta Flyer is Voyager’s improvisational genius made physical. Stranded with limited resupply, the crew stops treating shuttles as disposable errands-cars and builds something meant to survive: tougher hull, better shielding, more stations, more options. It’s a statement that Voyager isn’t just enduring the Delta Quadrant—it’s adapting to it.",
+    "InFranchiseHistory": "It’s one of the few small craft in Trek that becomes a true supporting character. The Flyer isn’t a one-off set piece; it returns, evolves, gets customized, gets wrecked, gets rebuilt—like the ship’s own mini-journey alongside Voyager."
   },
+  "SignatureLook": {
+    "SilhouetteAndDetails": "Compact, muscular, and deliberately ‘not standard issue.’ The Flyer reads as a custom build: tighter, more aggressive lines than typical Starfleet shuttles, with a cockpit and hull proportions that look like they were designed for punishment.",
+    "InteriorsAndMood": "A shuttle that feels like a working craft, not a passenger pod: stations for multiple roles, a pilot’s interface that mixes LCARS with more tactile control, and an overall ‘crew built this to live’ practicality."
+  },
+  "OnScreenCanon": {
+    "FirstOnScreenUse": "Constructed aboard USS Voyager in 2375 and first deployed in VOY’s “Extreme Risk.”",
+    "NotableCanonWindows": [
+      "2375: built and launched as Voyager’s tougher, slightly larger custom shuttle for hazardous missions",
+      "Recurring use across later Voyager seasons for high-risk missions (Borg encounters, slipstream attempts, unusual environments)",
+      "Early 2377: destroyed during the approach to a Borg tactical cube while the away team beamed over (VOY: “Unimatrix Zero”)",
+      "Shortly after: replaced by a rebuilt successor Delta Flyer with a slightly updated interior and fewer Captain Proton-style embellishments (VOY: “Drive”)"
+    ],
+    "AnchorMomentsForFans": [
+      {
+        "Moment": "The build itself in “Extreme Risk.”",
+        "WhyItSticks": "Voyager makes its own luck. The Flyer is the show acknowledging that ‘standard shuttlecraft’ wasn’t cutting it out there."
+      },
+      {
+        "Moment": "Riding ahead of Voyager during the slipstream attempt in “Timeless.”",
+        "WhyItSticks": "The Flyer becomes the tip of the spear—literally out front, sending the data that keeps Voyager alive."
+      },
+      {
+        "Moment": "The Borg chase pressure-cooker in “Dark Frontier.”",
+        "WhyItSticks": "Small craft, huge stakes: shifting power, running for the exit, and that unmistakable feeling of being hunted."
+      },
+      {
+        "Moment": "The Flyer’s destruction in “Unimatrix Zero.”",
+        "WhyItSticks": "One of those blunt Trek reminders: even the ‘special’ shuttle isn’t safe when the Queen is paying attention."
+      },
+      {
+        "Moment": "The successor craft debut in “Drive.”",
+        "WhyItSticks": "Voyager doesn’t just mourn losses—it rebuilds. The Flyer returning is a morale beat as much as a tech beat."
+      }
+    ]
+  },
+  "RoleAndDoctrine": {
+    "StrategicRole": "A field-built multi-role shuttle designed to extend Voyager’s reach into places the ship can’t safely go—hazardous atmospheres, dangerous anomalies, tight tactical situations, and missions where you want a smaller signature and faster turnaround.",
+    "TypicalMissions": "High-risk insertions and recoveries; scouting; anomaly and environmental penetration; Borg-related raids and escapes; short-range diplomacy or contact when a full starship presence is a liability; emergency rescue and retrieval."
+  },
+  "SystemsAndCapabilities": {
+    "Weapons": {
+      "Primary": [
+        "Phasers and torpedoes are treated as ‘available options’ on the type, but the show’s emphasis is on survivability and mission flexibility rather than showcasing the Flyer as a gunship."
+      ],
+      "HowItFights": "When it’s under fire, the Flyer fights like a shuttle with starship-grade problems: survive first, buy time with shields, and get the crew home. Its real advantage is that it can go where Voyager can’t—or shouldn’t."
+    },
+    "Defenses": {
+      "Shields": "The Flyer-type is explicitly described with layers of shielding options, including immersion shielding and multi-adaptive shielding, plus a reinforced hull.",
+      "WhyThatMatters": "Voyager didn’t just need a shuttle that could fly—it needed one that could keep flying after the first disaster hit."
+    },
+    "Propulsion": {
+      "Warp": "Built to keep up with Voyager’s operational needs for short-range warp work and rapid extraction.",
+      "Sublight": "The rebuilt second Delta Flyer is noted for pop-out impulse thrusters that improve sublight performance."
+    },
+    "MissionFlex": {
+      "CockpitStations": "The cockpit is described with dedicated workstations for tactical, operations, and engineering roles, with the helm featuring more tactile control than typical LCARS-only layouts.",
+      "CustomizationCulture": "The Flyer reflects its builders—up to and including aesthetic flourishes that get toned down in the rebuilt successor."
+    }
+  },
+  "LifeAboard": {
+    "DailyLife": "It’s not ‘comfortable’ so much as purposeful. The Flyer is a workspace—a mobile problem-solving room for a handful of people who expect every mission to go sideways.",
+    "CrewDynamics": "Because the craft is often flown by familiar faces (Paris, Kim, Chakotay, Torres, Seven, Janeway), the Flyer becomes a stage for tight character pairings: quiet cockpit conversations, tense decisions under pressure, and the kind of teamwork Voyager relies on to keep moving.",
+    "CrisisMode": "The Flyer’s identity is crisis. It’s the vessel you take when you expect impact, pursuit, system failure, or worse—and you want a better chance of coming back."
+  },
+  "NotableShipsAndSightings": [
+    {
+      "Name": "Delta Flyer (original, 2375–2377)",
+      "ClaimToFame": "Built by Voyager’s crew in the Delta Quadrant to handle missions too hazardous for standard shuttles; used repeatedly for high-risk operations.",
+      "PeopleConnected": [
+        "Tom Paris",
+        "B'Elanna Torres",
+        "Harry Kim",
+        "Chakotay",
+        "Seven of Nine",
+        "Kathryn Janeway"
+      ],
+      "WhyFansCare": "Because it’s Voyager’s ‘we’re still inventing’ spirit—then it dies in a very Voyager way: doing something insane near the Borg."
+    },
+    {
+      "Name": "Delta Flyer (reconstruction / second craft)",
+      "ClaimToFame": "Rebuilt after the first craft’s loss, with an updated interior and improved sublight thrust.",
+      "PeopleConnected": [
+        "Tom Paris",
+        "B'Elanna Torres",
+        "Harry Kim"
+      ],
+      "WhyFansCare": "It’s the show’s quiet promise that Voyager keeps rebuilding—ships, systems, and sometimes people—until it gets home."
+    }
+  ],
+  "BehindTheScenes": {
+    "DesignIntent": "A recurring small craft that could credibly survive Voyager’s escalating threats and give the show a flexible ‘mini-ship’ for stories that needed a separate vehicle.",
+    "ProductionCredits": "Memory Alpha notes the Delta Flyer design attribution in reference works to series production designer Richard James and senior illustrator Rick Sternbach.",
+    "ProductionTriviaForFans": [
+      "The Flyer becomes visually and narratively ‘owned’ by Voyager’s crew—unlike many Trek shuttles that function as interchangeable utility craft.",
+      "The rebuilt successor subtly signals change: slightly different interior tone, slightly different performance beats, same identity.",
+      "Because the Flyer returns often, its appearances help stitch late-era Voyager together into a more continuous ‘ongoing journey’ feel."
+    ]
+  },
+  "FanNotes": {
+    "IfYouOnlyReadOneThing": "The Delta Flyer is what happens when Starfleet ideals meet hostile reality and refuse to blink: you build the tool you need, you fly it into the nightmare, and you bring your people home anyway.",
+    "WhyItStillWorksToday": [
+      "It makes Voyager’s resourcefulness tangible—an upgrade born from hard lessons, not committee paperwork.",
+      "It’s small enough to feel personal, but capable enough to carry ‘big episode’ stakes.",
+      "It’s a character hub: the cockpit scenes feel like Voyager in miniature.",
+      "Its destruction and rebuild give it an actual arc—rare for a shuttle."
+    ]
+  },
+  "Review": "The Delta Flyer is Voyager’s refusal to keep pretending the Delta Quadrant plays by Starfleet’s comfortable assumptions. After enough shuttle missions that end in damage, missing people, or systems failing at exactly the wrong moment, the crew does something wonderfully Trek: it adapts. The Flyer is a specially designed shuttlecraft constructed aboard Voyager in 2375, built to handle environments too hazardous for a standard shuttle and to be a little larger than the usual runabout-sized errand craft.\n\nIt’s also personal. The ship treats the Flyer as a crew-made asset rather than a warehouse spare, and that changes how it feels on screen. The cockpit is described as a multi-station workspace with dedicated tactical, operations, and engineering positions, which fits the way the show uses it: not just “pilot plus passengers,” but a small team running a mission in miniature.\n\nBecause the Flyer can take more punishment, it becomes Voyager’s go-to tool for the jobs that would be reckless to ask of a standard shuttle. It charts the way ahead during the quantum slipstream attempt in “Timeless,” it dives into situations that flirt with disaster, and it keeps returning like a recurring character. The tension is always scale-based: a small craft facing threats that do not care about your size, which makes every alert and every power diversion feel intimate and immediate.\n\nThe Borg episodes seal its legend. The Flyer is used in operations that bring Voyager into direct contact with the Collective, including high-stakes runs where survival depends on shields, timing, and nerve. And then it ends in the most bluntly Voyager way possible: in early 2377, the Delta Flyer is destroyed during the approach to a Borg tactical cube as the away team beams aboard. It is a reminder that even the “special” shuttle is not safe when the Queen is paying attention.\n\nThe coda matters: the Flyer returns. A successor craft of the same name and similar design is introduced soon after, with a slightly updated interior tone and fewer Captain Proton-inspired embellishments. That rebuild makes the Flyer feel like it has an arc, not just appearances. It’s Voyager distilled: ingenuity under constraint, competence earned through scars, and the stubborn insistence that if the quadrant won’t give you the tools you need, you will build them yourself.",
+  "Notes": "Canon is unusually explicit about the Delta Flyer’s life cycle: the original craft is built and used repeatedly, then is explicitly destroyed on a Borg mission, and then a replacement Delta Flyer appears not long after. For a shuttle, that’s a rare kind of continuity, and it’s part of why fans remember it as more than set dressing.\n\nTwo practical details that fit the on-screen vibe: the Flyer is built to survive harsh environments, and the type is described with layered defensive options including immersion shielding and multi-adaptive shielding plus reinforced hull plating. Even when the show is not quoting specifications at you, the stories treat the Flyer as the shuttle you take when you expect the universe to take a swing.\n\nBehind the scenes, Memory Alpha notes that reference works attribute the design to series production designer Richard James and senior illustrator Rick Sternbach. In universe, the reason it lands is simpler: it feels like Voyager. It looks and behaves like something built by people who learned the hard way what breaks first.",
+  "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Delta%20Flyer%20(Final).png"
+},
+  {
+  "ID": "shuttlecraft-galileo",
+  "Name": "Shuttlecraft Galileo",
+  "Affiliation": "Federation",
+  "Category": "Small craft",
+  "Era": "23rd century (TOS era)",
+  "Tagline": "The shuttle that taught Trek how to strand people on a planet—and made Spock’s first command hurt in all the right ways.",
+  "AtAGlance": {
+    "WhatFansRemember": [
+      "NCC-1701/7, the name ‘Galileo’ in red script on the side, and that iconic boxy Class F profile",
+      "Spock’s first command—and the episode where logic has to learn what desperation feels like",
+      "Crash-landing on Taurus II and fighting to survive long enough to be seen",
+      "Scotty’s hand-phaser ‘fuel’ fix and the signal-flare gamble that saves the crew",
+      "The franchise’s early proof that a small craft can carry a full dramatic story"
+    ],
+    "CrewComplement": "A small away team plus pilot—built for survey work and short-range missions off the Enterprise, not extended independent operations.",
+    "TopSpeed": "Portrayed as a short-range workhorse shuttle, optimized for utility and deployment rather than headline performance.",
+    "FleetRole": "Ship-to-planet shuttle / survey craft / away-team transport."
+  },
+  "WhyItMatters": {
+    "InUniverse": "The Galileo is ‘routine Starfleet’ made real: a shuttle you send to take a closer look, run a survey, or move personnel without committing a Constitution-class starship to every detail. And because it’s ordinary, its failure becomes terrifyingly believable—one bad environmental effect, one forced landing, and suddenly you’re alone.",
+    "InFranchiseHistory": "The Galileo is a foundational Trek object. It’s tied to one of TOS’s most enduring survival stories and became shorthand for the whole ‘shuttle mission goes wrong’ template that later series would remix endlessly."
+  },
+  "SignatureLook": {
+    "SilhouetteAndDetails": "Classic Class F: a compact, boxy wedge with a tall cabin and blunt practicality. It looks like a utility vehicle scaled up for space—simple lines, big windows, and enough room to carry a team and gear without pretending it’s a starship.",
+    "InteriorsAndMood": "Functional and sparse: seats, instrumentation, and the sense that the shuttle is meant to be in service of the mission, not a place you live. That utilitarian feel makes the crash and the waiting feel harsher."
+  },
+  "OnScreenCanon": {
+    "FirstOnScreenUse": "Dispatched in 2267 to investigate Murasaki 312; the ionization effect forces a crash landing on Taurus II during the mission depicted in TOS: “The Galileo Seven.”",
+    "NotableCanonWindows": [
+      "2267: launched for the Murasaki 312 investigation; forced down on Taurus II; crew recovered but the shuttle is lost",
+      "The shuttle’s name and registry become a recurring shorthand within Trek for ‘the shuttle that got stranded’ and the story shape that follows"
+    ],
+    "AnchorMomentsForFans": [
+      {
+        "Moment": "The launch for Murasaki 312 and the forced crash landing on Taurus II.",
+        "WhyItSticks": "It flips a ‘routine science detour’ into a survival crisis and forces the crew into a pressure cooker."
+      },
+      {
+        "Moment": "Spock’s command decisions under constant threat on the surface.",
+        "WhyItSticks": "It’s the episode where you can watch logic collide with fear, fatigue, and human limits—especially under fire."
+      },
+      {
+        "Moment": "Scotty’s hand-phaser fix and the final flare gamble.",
+        "WhyItSticks": "It’s classic Trek problem-solving: take what you have, do something risky and clever, and hope the Enterprise sees you in time."
+      }
+    ]
+  },
+  "RoleAndDoctrine": {
+    "StrategicRole": "A short-range shuttle attached to the Enterprise for surveys, transport, and quick-response away missions—small enough to deploy rapidly, large enough to carry a full team and equipment.",
+    "TypicalMissions": "Scientific surveys and anomaly sampling; personnel transport; landing-party insertion/extraction; emergency retrieval; cargo runs that don’t justify starship maneuvers."
+  },
+  "SystemsAndCapabilities": {
+    "Weapons": {
+      "Primary": [
+        "The Galileo story emphasizes the away team’s hand phasers and survival improvisation rather than showcasing the shuttle as an armed combat craft."
+      ],
+      "HowItFights": "When trouble hits, the shuttle’s value is mobility and shelter—not firepower. Once grounded, the crew’s tools become whatever they carried in with them."
+    },
+    "Defenses": {
+      "Shields": "Not emphasized in ‘save the day’ terms on screen; the narrative treats the shuttle as vulnerable to environmental effects and forced down by circumstances.",
+      "StructuralReality": "The Galileo feels like a vehicle that can take a rough landing—right up until it can’t leave again."
+    },
+    "Propulsion": {
+      "Warp": "Short-range capability is implied by shuttle operations and deployment patterns; the Galileo Seven crisis hinges on fuel limits and getting back to orbit.",
+      "Sublight": "Planetary ascent becomes the central mechanical problem after the crash, pushing the crew toward a desperate last-ditch signal plan."
+    },
+    "MissionFlex": {
+      "CrewAndCargo": "Sized to move a full survey team with gear—enough space to make the mission plausible, enough confinement to make the aftermath claustrophobic.",
+      "Improvisation": "The episode turns the shuttle into a ‘resource puzzle’: every remaining component becomes potentially useful, including the fuel itself."
+    }
+  },
+  "LifeAboard": {
+    "DailyLife": "Galileo isn’t about comfort; it’s about function. You’re in it to get somewhere, do the work, and come back. That’s why the moment it becomes ‘home’—even briefly—feels so wrong.",
+    "CrewDynamics": "The shuttle’s tight quarters amplify every disagreement. The Galileo Seven crew is forced into constant, immediate decision-making where rank, expertise, and temperament collide without the stabilizing presence of the ship.",
+    "CrisisMode": "Once grounded, the shuttle becomes shelter and liability at once: protection from the elements and a reminder that escape is not guaranteed."
+  },
+  "NotableShipsAndSightings": [
+    {
+      "Name": "Galileo (NCC-1701/7) — 2267",
+      "ClaimToFame": "Assigned to USS Enterprise and dispatched to investigate Murasaki 312; forced to crash on Taurus II during Spock’s first command; crew recovered but the shuttle is lost.",
+      "PeopleConnected": [
+        "Spock",
+        "Leonard McCoy",
+        "Montgomery Scott"
+      ],
+      "WhyFansCare": "Because it’s the definitive ‘shuttle mission goes wrong’ story—and one of TOS’s best pressure-cooker character episodes."
+    }
+  ],
+  "BehindTheScenes": {
+    "DesignIntent": "A practical, believable small craft that would let the series tell stories away from the Enterprise without making every excursion feel like a starship-scale event.",
+    "FranchiseFirsts": "Memory Alpha notes the Galileo as the first shuttlecraft created for Star Trek (even though some shuttle footage appears earlier due to production/airing quirks).",
+    "ProductionTriviaForFans": [
+      "The Galileo Seven effectively establishes the franchise’s ‘stranded away team’ template, and later Trek keeps returning to that DNA.",
+      "The shuttle’s distinctive look is so readable that it remains iconic even next to later, sleeker small craft designs.",
+      "Multiple shuttles named Galileo exist in canon; this entry is the 2267 craft central to “The Galileo Seven.”"
+    ]
+  },
+  "FanNotes": {
+    "IfYouOnlyReadOneThing": "Galileo matters because it makes Starfleet feel real: not every crisis is an armada-level event—sometimes it’s a shuttle, a bad landing, and a crew trying to be found before time runs out.",
+    "WhyItStillWorksToday": [
+      "It’s pure character under pressure—Spock’s logic tested, McCoy’s instincts sharpened, and everyone forced to cope with fear.",
+      "It makes the universe feel operational: shuttles exist because starships can’t be everywhere at once.",
+      "It’s one of the earliest proofs that Trek’s stakes don’t need galaxy-scale threats to feel intense.",
+      "The shuttle itself becomes an icon: a name, a registry, a shape fans instantly recognize."
+    ]
+  },
+  "Review": "Shuttlecraft Galileo is iconic because it makes Star Trek’s future feel fragile in a way the Enterprise itself rarely allows. A Constitution-class starship can seem like an answer to every problem, but “The Galileo Seven” shrinks the stage down to one shuttle and a handful of people, and suddenly the galaxy is cold again.\n\nIn 2267, the Galileo is dispatched to investigate Murasaki 312, and the ionization effect forces a crash landing on Taurus II. The episode’s power comes from treating the shuttle as something real: it is shelter and a tool, but it is not a magic lifeboat. Fuel is finite, systems are damaged, and the environment does not care that you came from the Federation flagship.\n\nIt’s also Spock’s first command, and the shuttle becomes a crucible for what command costs. In cramped quarters, every disagreement sharpens. Logic has to contend with fear, fatigue, and the fact that survival problems do not always respect clean reasoning. The Galileo is less a vehicle than a pressure chamber where decisions echo because there is nowhere to hide from consequences.\n\nThe resolution is classic Trek improvisation. Scotty repairs the shuttle by using hand phasers as a replacement fuel source, and when the situation becomes desperate, Spock jettisons and ignites the remaining fuel in a signal flare gamble meant to draw the Enterprise’s attention before orbit decays. The crew is recovered, but the shuttle itself is lost.\n\nThat’s why Galileo endures for fans. It establishes the franchise’s stranded-away-team template in a way that still feels sharp, and it makes the name “Galileo” mean something beyond registry numbers. It is the shuttle that teaches Trek one of its best lessons: you do not need a galaxy-ending threat for stakes to feel enormous, if you can make the audience believe rescue is not guaranteed.",
+  "Notes": "Multiple shuttles named Galileo exist in canon, and Memory Alpha distinguishes the 2267 craft lost after “The Galileo Seven” from later Galileos that reuse the NCC-1701/7 registry. Your project’s “Shuttlecraft Galileo” is most naturally anchored to the 2267 shuttle central to that episode: the one that crashes on Taurus II and is lost after the crew is recovered.\n\nIf you want one instantly recognizable visual detail to spotlight in UI later, it’s the name itself. Galileo in red script is one of those Trek markings fans remember because it’s tied to an episode where the shuttle is not a convenience, it is a lifeline.\n\nMemory Alpha also notes that the Galileo was the first shuttlecraft created for Star Trek, with a production-order wrinkle where shuttle footage appears earlier due to episode order and reused material. That kind of behind-the-scenes messiness fits the era, and it only adds to the shuttle’s mythology.",
+  "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Galileo%20(Final).png"
+},
   {
     "ID": "danube-class-runabout",
     "Name": "Danube-class runabout",
