@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Shi‑Trek | Ships & Craft Console</title>
+  <style>
+    :root{
+      --bg0:#0b0f16;
+      --bg1:#101b2b;
+      --gold0:#f2d37c;
+      --gold1:#b88a2a;
+      --text:#e9eef8;
+      --muted:#b7c2d6;
+      --stroke:#000;
+      --shadow: 0 10px 30px rgba(0,0,0,.55);
+      --shadow2: 0 8px 22px rgba(0,0,0,.45);
+      --radius: 18px;
+      --gap: 14px;
+      --accentA: rgba(120, 170, 220, 0.18);
+      --accentB: rgba(170, 120, 220, 0.14);
+    }
+    *{ box-sizing:border-box; }
+    html,body{ height:100%; }
+    body{
+      margin:0;
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+      color:var(--text);
+      background:
+        radial-gradient(1200px 700px at 20% 10%, var(--accentA), transparent 55%),
+        radial-gradient(900px 600px at 80% 15%, var(--accentB), transparent 55%),
+        linear-gradient(180deg, var(--bg0), var(--bg1));
+      overflow:hidden;
+    }
+    .app{
+      height:100%;
+      display:flex;
+      flex-direction:column;
+      padding:18px 18px 14px;
+      gap:14px;
+      min-height:0;
+    }
+    header{
+      padding:16px 18px 14px;
+      border-radius: var(--radius);
+      background: linear-gradient(180deg, rgba(20, 30, 50, .65), rgba(12, 18, 30, .55));
+      border: 1px solid rgba(242, 211, 124, .35);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(10px);
+      overflow:hidden;
+    }
+    h1{
+      margin:0;
+      font-size: 34px;
+      line-height: 1.05;
+      letter-spacing: .4px;
+      background: linear-gradient(180deg, var(--gold0), var(--gold1));
+      -webkit-background-clip:text;
+      background-clip:text;
+      color: transparent;
+      -webkit-text-stroke: 2px var(--stroke);
+      text-shadow: 0 0 16px rgba(242, 211, 124, .28), 0 0 26px rgba(242, 211, 124, .18);
+      position:relative;
+      display:inline-block;
+      padding-bottom:10px;
+    }
+    h1::after{
+      content:"";
+      position:absolute;
+      left:0;
+      right:0;
+      bottom:0;
+      height:6px;
+      border-radius: 999px;
+      background: linear-gradient(90deg, rgba(242, 211, 124, .0), rgba(242, 211, 124, .9), rgba(184, 138, 42, .85), rgba(242, 211, 124, .0));
+      box-shadow: 0 0 18px rgba(242, 211, 124, .22);
+    }
+    .subtitleRow{
+      display:flex;
+      gap:12px;
+      align-items:flex-end;
+      justify-content:space-between;
+      flex-wrap:wrap;
+      margin-top:10px;
+    }
+    .subtitle{
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.35;
+      max-width: 1000px;
+    }
+    .headerActions{
+      display:flex;
+      gap:10px;
+      flex-wrap:wrap;
+      align-items:center;
+      justify-content:flex-end;
+    }
+    .btn{
+      border-radius: 999px;
+      border: 1px solid rgba(242, 211, 124, .25);
+      background:
+        linear-gradient(180deg, rgba(255,255,255,.08), rgba(255,255,255,.02)),
+        linear-gradient(180deg, rgba(25, 35, 58, .65), rgba(12, 18, 30, .55));
+      color: var(--text);
+      padding: 10px 12px;
+      font-weight: 700;
+      font-size: 13px;
+      cursor:pointer;
+      box-shadow: 0 10px 18px rgba(0,0,0,.35), inset 0 1px 0 rgba(255,255,255,.12);
+      transition: transform .12s ease, border-color .12s ease, box-shadow .12s ease, filter .12s ease;
+    }
+    .btn:hover{
+      transform: translateY(-1px);
+      border-color: rgba(242, 211, 124, .52);
+      box-shadow: 0 14px 26px rgba(0,0,0,.42), inset 0 1px 0 rgba(255,255,255,.14);
+      filter: saturate(1.03);
+    }
+    .btn:active{ transform: translateY(0px) scale(.99); }
+    .main{
+      flex:1;
+      display:grid;
+      grid-template-columns: 420px 1fr;
+      gap: var(--gap);
+      min-height:0;
+    }
+    .panel{
+      border-radius: var(--radius);
+      background: linear-gradient(180deg, rgba(16, 22, 35, 0.78), rgba(22, 32, 52, 0.72));
+      border: 1px solid rgba(242, 211, 124, .28);
+      box-shadow: var(--shadow2);
+      backdrop-filter: blur(10px);
+      overflow:hidden;
+      min-height:0;
+    }
+    .left{ display:flex; flex-direction:column; min-height:0; }
+    .leftTop{
+      padding:14px 14px 12px;
+      border-bottom: 1px solid rgba(242, 211, 124, .18);
+      background: linear-gradient(180deg, rgba(20, 30, 50, .55), rgba(12, 18, 30, .35));
+    }
+    .count{ font-size:12px; color: rgba(183, 194, 214, .9); }
+    .btnList{
+      padding:12px 22px 12px 12px;
+      display:grid;
+      grid-template-columns: 1fr;
+      gap:10px;
+      overflow-y:auto;
+      overflow-x:hidden;
+      scrollbar-gutter: stable;
+      min-height:0;
+      flex:1;
+    }
+    .btnList::-webkit-scrollbar{height:10px;width:10px}
+    .btnList::-webkit-scrollbar-thumb{background: rgba(242, 211, 124, .18);border-radius:999px}
+    .btnList::-webkit-scrollbar-track{background: rgba(255,255,255,.04);border-radius:999px}
+    .bigBtn{
+      width:100%;
+      max-width:100%;
+      min-width:0;
+      text-align:left;
+      padding:12px 8px;
+      height: 80px;
+      border-radius: 16px;
+      border: 2px solid rgba(242, 211, 124, .22);
+      background:
+        linear-gradient(180deg, rgba(255,255,255,.08), rgba(255,255,255,.02)),
+        linear-gradient(180deg, rgba(25, 35, 58, .62), rgba(12, 18, 30, .50));
+      color: var(--text);
+      cursor:pointer;
+      box-shadow: 0 10px 18px rgba(0,0,0,.35), inset 0 1px 0 rgba(255,255,255,.12);
+      transition: transform .12s ease, border-color .12s ease, box-shadow .12s ease, filter .12s ease;
+      display:flex;
+      flex-direction:column;
+      justify-content:center;
+      gap:6px;
+    }
+    .bigBtn:hover{
+      transform: translateY(-1px);
+      border-color: rgba(242, 211, 124, .50);
+      box-shadow: 0 14px 26px rgba(0,0,0,.42), inset 0 1px 0 rgba(255,255,255,.14);
+      filter: saturate(1.03);
+    }
+    .bigBtn.active{
+      border-color: rgba(242, 211, 124, .90);
+      box-shadow: 0 18px 34px rgba(0,0,0,.50), inset 0 1px 0 rgba(255,255,255,.16);
+    }
+    .bigName{ font-size: 14px; font-weight: 900; letter-spacing:.2px; margin:0; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .bigMeta{ color: rgba(183, 194, 214, .95); font-size: 12px; line-height: 1.25; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .right{ padding:14px; overflow:auto; min-height:0; }
+    .detailCard{
+      border-radius: var(--radius);
+      border: 1px solid rgba(242, 211, 124, .28);
+      background: linear-gradient(180deg, rgba(10, 14, 24, .42), rgba(18, 26, 42, .40));
+      box-shadow: var(--shadow2);
+      padding:16px 16px 14px;
+    }
+    .detailHeader{
+      display:grid;
+      grid-template-columns: 160px 1fr;
+      gap:12px;
+      padding-bottom:12px;
+      border-bottom: 1px solid rgba(242, 211, 124, .18);
+      margin-bottom:12px;
+      align-items:start;
+    }
+    .hero{
+      width:160px;
+      height:160px;
+      border-radius: 18px;
+      border: 1px solid rgba(242, 211, 124, .22);
+      background:
+        radial-gradient(180px 140px at 20% 20%, rgba(242, 211, 124, .18), transparent 60%),
+        radial-gradient(200px 160px at 80% 10%, rgba(120, 170, 220, .18), transparent 62%),
+        linear-gradient(180deg, rgba(18, 26, 42, .65), rgba(8, 12, 20, .55));
+      box-shadow: inset 0 1px 0 rgba(255,255,255,.08);
+      overflow:hidden;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      color: rgba(183, 194, 214, .85);
+      font-weight: 800;
+      letter-spacing:.2px;
+      font-size: 12px;
+      text-transform: uppercase;
+      text-align:center;
+      padding:10px;
+    }
+    .hero img{ width:100%; height:100%; object-fit:cover; display:block; }
+    .detailTitle{ margin:0; font-size: 22px; letter-spacing:.25px; }
+    .tagline{ margin-top:8px; color: rgba(233, 238, 248, .92); font-size: 14px; line-height: 1.45; }
+    .badgeRow{ display:flex; gap:10px; flex-wrap:wrap; margin-top:10px; }
+    .badge{
+      padding:6px 10px;
+      border-radius: 999px;
+      border: 1px solid rgba(242, 211, 124, .30);
+      background: linear-gradient(180deg, rgba(242, 211, 124, .12), rgba(242, 211, 124, .05));
+      color: rgba(242, 211, 124, .98);
+      box-shadow: inset 0 1px 0 rgba(255,255,255,.10);
+      font-size: 12px;
+      letter-spacing:.2px;
+      white-space:nowrap;
+    }
+    .sections{ display:flex; flex-direction:column; gap:12px; }
+    .section{
+      padding:12px 12px 10px;
+      border-radius: 14px;
+      border: 1px solid rgba(242, 211, 124, .20);
+      background: rgba(6, 10, 18, .38);
+    }
+    .section h3{ margin:0 0 8px; font-size: 14px; letter-spacing:.25px; color: rgba(242, 211, 124, .92); }
+    .section p{ margin:0; color: rgba(233, 238, 248, .92); line-height: 1.48; font-size: 14px; }
+    .kv{ display:grid; grid-template-columns: 170px 1fr; gap:8px 12px; align-items:start; }
+    .k{ color: rgba(183, 194, 214, .92); font-weight: 900; font-size: 12px; text-transform: uppercase; letter-spacing:.2px; }
+    .v{ color: rgba(233, 238, 248, .92); font-size: 14px; line-height: 1.48; }
+    ul{ margin: 0; padding-left: 18px; color: rgba(233, 238, 248, .92); line-height: 1.48; font-size: 14px; }
+
+    .section p { margin: 0; }
+    .section p + p { margin-top: 12px; }
+    .section ul { margin: 10px 0 0 18px; padding-left: 0; }
+    .section li + li { margin-top: 6px; }
+    .section .subhead { margin: 12px 0 6px; }
+    .section .subhead + ul { margin-top: 6px; }
+    .section p + ul { margin-top: 10px; }
+    .section ul + p { margin-top: 12px; }
+    .subhead{ margin:10px 0 6px; color: rgba(242, 211, 124, .88); font-weight: 900; letter-spacing:.2px; text-transform: uppercase; font-size: 12px; }
+    .footer{ text-align:center; color: rgba(183, 194, 214, .85); font-size: 12px; padding:4px 0 0; }
+
+    .modalOverlay{ position:fixed; inset:0; background: rgba(0,0,0,.55); backdrop-filter: blur(6px); display:none; align-items:center; justify-content:center; padding:18px; z-index:1000; }
+    .modal{ width:min(820px, 100%); border-radius: 18px; border: 1px solid rgba(242, 211, 124, .28); background: linear-gradient(180deg, rgba(16, 22, 35, .92), rgba(10, 14, 24, .86)); box-shadow: 0 22px 70px rgba(0,0,0,.60); overflow:hidden; }
+    .modalHead{ display:flex; align-items:center; justify-content:space-between; gap:12px; padding:14px 16px 12px; border-bottom: 1px solid rgba(242, 211, 124, .16); background: linear-gradient(180deg, rgba(20, 30, 50, .55), rgba(12, 18, 30, .35)); }
+    .modalTitle{ font-weight: 900; letter-spacing:.25px; font-size: 14px; text-transform: uppercase; color: rgba(242, 211, 124, .95); }
+    .modalBody{ padding:14px 16px 16px; color: rgba(233, 238, 248, .92); font-size: 14px; line-height: 1.55; }
+    .kbd{ font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; padding:2px 6px; border-radius: 8px; border: 1px solid rgba(242, 211, 124, .18); background: rgba(6, 10, 18, .30); color: rgba(242, 211, 124, .95); font-size: 12px; }
+
+    @media (max-width: 980px){
+      body{ overflow:auto; }
+      .app{ padding:14px; }
+      .main{ grid-template-columns: 1fr; }
+      .btnList{ max-height: 520px; }
+      .detailHeader{ grid-template-columns: 1fr; }
+      .hero{ width:100%; height:200px; }
+      .kv{ grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div class="app">
+    <header>
+      <h1>Shi‑Trek</h1>
+      <div class="subtitleRow">
+        <div class="subtitle">
+          This page is wired for the enriched ship schema (e.g., <b>AtAGlance</b>, <b>OnScreenCanon</b>, <b>SystemsAndCapabilities</b>). Replace embedded data later with your real JSON.
+        </div>
+        <div class="headerActions">
+          <button class="btn" id="randomBtn" type="button">Random</button>
+          <button class="btn" id="aboutBtn" type="button">About</button>
+        </div>
+      </div>
+    </header>
+
+    <div class="main">
+      <aside class="panel left">
+        <div class="leftTop">
+          <div id="count" class="count"></div>
+        </div>
+        <div id="btnList" class="btnList"></div>
+      </aside>
+
+      <section class="panel right">
+        <div class="detailCard">
+          <div class="detailHeader">
+            <div class="hero" id="hero">No image</div>
+            <div>
+              <h2 id="detailTitle" class="detailTitle">Select an entry</h2>
+              <div id="tagline" class="tagline"></div>
+              <div id="badgeRow" class="badgeRow"></div>
+            </div>
+          </div>
+
+          <div id="sections" class="sections"></div>
+        </div>
+      </section>
+    </div>
+
+    <div class="footer">Shi‑Trek • Ships & Craft Console</div>
+  </div>
+
+  <div class="modalOverlay" id="aboutOverlay" role="dialog" aria-modal="true" aria-hidden="true">
+    <div class="modal">
+      <div class="modalHead">
+        <div class="modalTitle">About this page</div>
+        <button class="btn" id="closeAboutBtn" type="button">Close</button>
+      </div>
+      <div class="modalBody">
+        This console renders richer ship entries with multiple fan-facing sections (At a glance, On-screen canon, Systems & capabilities, etc.).<br><br>
+        Keyboard: <span class="kbd">↑</span>/<span class="kbd">↓</span> changes selection, <span class="kbd">Enter</span> selects, <span class="kbd">Esc</span> closes this panel.
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const DATA = [{"ID": "klingon-d7-class", "Name": "D7-class battlecruiser", "Affiliation": "Klingon Empire", "Category": "Ship class", "Era": "23rd century (TOS era; later legacy appearances)", "Tagline": "The classic Klingon warship silhouette—predatory wings, a forward command pod, and a reputation built on brinkmanship as much as firepower.", "AtAGlance": {"WhatFansRemember": ["The manta‑ray profile: wings flared, neck stretched, command pod like a snapping jaw", "A ship that can loom on screen and instantly turn a scene into a staring contest", "The K‑7 shore‑leave confrontation that spirals into tribble chaos", "Romulan operation of the same hull design in the late 2260s", "How instantly it “dates” a scene—one glance and you know you’re in classic-era Trek"], "CrewComplement": "Often cited around ~430 personnel for a typical D7 (varies by ship and mission).", "TopSpeed": "Often summarized in reference material as warp 9+ for the era; on screen it’s treated as fast enough to matter in pursuit and interception.", "FleetRole": "Heavy battlecruiser / patrol / border pressure—sometimes used as a scout ship, just with teeth."}, "WhyItMatters": {"InUniverse": "In the Kirk era, a D7 isn’t just a ship—it’s a political lever. It can arrive quickly, park where it shouldn’t, and force Starfleet to choose between escalation and humiliation. Even with weapons cold, it makes every hail feel like negotiations under pressure.", "InFranchiseHistory": "The D7 becomes visual shorthand for “Klingon warship,” like the Constitution-class becomes shorthand for “Starfleet hero ship.” Later Klingon designs evolve, but they keep echoing the D7’s DNA: posture, presence, and threat in silhouette."}, "SignatureLook": {"Silhouette": "A wide, wing-like primary hull with nacelles tucked beneath the wings, a long neck, and a head-like forward command pod. It looks like it’s already leaning into the attack.", "PaintAndMarkings": "Klingon finishes read utilitarian and militarized. Romulan-operated variants are famously associated with bold bird‑of‑prey-style hull art in later presentations—same chassis, different identity."}, "OnScreenCanon": {"FirstOnScreenUse": "The classic D7 filming model’s first aired appearance is as a Romulan battle cruiser in “The Enterprise Incident” (TOS).", "NotableCanonWindows": ["2260s: recurring Klingon warship presence in the original series era", "2268: Romulan-operated D7s appear during a tense alliance period", "2268: the K‑7 incident ties the D7 to one of Trek’s most memorable ‘tension + comedy’ episodes", "DS9 era: the D7 reappears as instant visual time-travel shorthand"], "AnchorMomentsForFans": [{"Moment": "A Klingon D7 arrives at Deep Space Station K‑7 demanding shore leave—and the situation collapses into tribble disaster.", "WhyItSticks": "Peak tonal balance: real geopolitical tension sitting on top of absurd, unforgettable comedy."}, {"Moment": "A D7 drops out of warp near Deep Space Nine in “Trials and Tribble‑ations.”", "WhyItSticks": "The silhouette alone sells the century shift before anyone explains what’s happening."}, {"Moment": "Romulans operate the same hull in “The Enterprise Incident.”", "WhyItSticks": "A clean “same ship, new threat” twist that implies bigger politics off screen."}]}, "RoleAndDoctrine": {"HowItsUsed": ["Border intimidation: arrive close, hold position, force a response on Klingon terms", "Rapid force projection: fast enough to threaten, heavy enough to be respected", "Command presence: the ship’s look is part of the message", "Probing encounters: test readiness, force defensive reveals, punish hesitation"], "WhatItSignalsWhenItShowsUp": ["A political test (will you flinch?)", "A tactical probe (will you expose defenses?)", "A hard threat (answer the lock… or accept the humiliation)"]}, "SystemsAndCapabilities": {"Weapons": {"Primary": ["Disruptor cannons (classic green disruptor fire on screen)", "Forward launcher associated with photon torpedoes in reference summaries"], "HowItFights": "It pressures with forward arcs and decisive passes—forcing opponents to react, turn, and commit, then exploiting the moment they lose initiative."}, "Defenses": {"Shields": "Standard defensive shielding for the era—strong enough to take a hit, not magical enough to ignore consequences.", "Cloaking": "Cloaking becomes strongly associated with D7-era storytelling through Romulan operation and later cloak plots."}, "Propulsion": {"Warp": "Often summarized as warp 9+ in era context; portrayed as capable of high-speed pursuit and interception.", "Impulse": "Depicted as a steady sublight handler for a warship—built for control, not grace."}, "MissionFlex": {"ScoutProfile": "Sometimes assigned as a ‘scout ship’—a reminder that in Klingon terms, reconnaissance doesn’t have to be subtle."}}, "LifeAboard": {"Tone": "Utilitarian and war-focused—less ‘space cruise,’ more ‘armed camp that goes to warp.’", "Recreation": "The franchise doesn’t portray D7s as comfort-forward vessels; the vibe is discipline, readiness, and chain-of-command gravity.", "BridgeCulture": "A command space built around presence—when the captain speaks, the ship feels like it leans forward with them."}, "NotableShipsAndSightings": [{"Name": "IKS Gr’oth", "ClaimToFame": "Koloth’s D7 at K‑7—shore leave demanded, tribbles acquired.", "PeopleConnected": ["Koloth", "Korax"], "WhyFansCare": "It makes the D7 inseparable from one of the franchise’s most rewatchable Federation–Klingon stories."}, {"Name": "IKS Klothos", "ClaimToFame": "Kor’s ship, tied to early cloak-era talk and later legend-building around Kor.", "PeopleConnected": ["Kor"], "WhyFansCare": "Because it’s Kor’s ship—and Kor is basically walking Klingon history."}], "BehindTheScenes": {"DesignIntent": "Designed to be instantly readable as an antagonist ship at a glance—recognizable even in a fast cut.", "VisualInspiration": "Jefferies aimed for a predatory ‘sea-life’ posture so it feels dangerous even in silhouette.", "ProductionTriviaForFans": ["The filming model’s first aired appearance is as a Romulan ship—one of Trek’s fun ‘production history becomes lore’ quirks.", "Later productions preserved the silhouette while adding surface detail so the ship still reads ‘classic’ without looking flat."]}, "FanNotes": {"IfYouOnlyReadOneThing": "The D7 is a tension switch. When it appears, the scene becomes pride, brinkmanship, and risk—because the ship itself is a dare.", "WhyItStillWorksToday": ["It’s readable—you can sketch it after seeing it once.", "It does narrative work with shape alone: menace without dialogue.", "It carries legacy: later Klingon ships feel like descendants, not replacements.", "It can play serious or comedic (K‑7) without losing credibility."]}, "Review": "The D7-class battlecruiser is the Klingon Empire’s most famous “hello,” and it’s never meant to be friendly. Its silhouette does half the storytelling: wings spread like a hunter’s stance, a narrow neck, and a forward command pod that reads as a head poised to strike. Even before a captain speaks, the ship communicates intent—pressure, pride, and a willingness to escalate.\n\nWhat makes the D7 so satisfying for fans is that it isn’t just a pile of specs; it’s a mood. When one appears, the scene changes shape. Starfleet’s optimism suddenly feels negotiable. Every hail becomes a test: do you answer politely, do you posture back, do you stand your ground, or do you maneuver in a way that looks like fear? The ship’s presence turns routine space into a stage.\n\nIt’s also a perfect “Klingon doctrine in miniature.” The D7 doesn’t need to be subtle. It arrives close, it holds position, it makes you react. The class is portrayed as fast enough to matter and heavy enough to demand attention—ideal for border pressure, rapid responses, and the kind of tactical probing where the real goal is to learn how an opponent thinks under stress.\n\nThen the franchise proves how iconic the D7 really is by letting it play against type—without losing credibility. The K‑7 incident is the ultimate example: a warship arrives as a diplomatic threat, and the episode pivots into tribble chaos. The joke works because the D7 is so deadly serious as an image; the comedy lands harder when it’s bouncing off something that looks like it was built for conquest.\n\nOne of the smartest uses of the design is the Romulan twist. Seeing the same hull under a different banner is instant subtext: alliances, bargains, and political debt you can feel without a speech explaining it. It’s a rare case where a production quirk becomes a storytelling advantage, because the audience’s recognition does the work.\n\nDecades later, the D7 still functions as pure visual time travel. Put that silhouette on screen and fans immediately know the era, the tone, and the stakes. That’s the real ‘spec’: readability. The D7 isn’t just remembered—it’s useful, a piece of Star Trek’s visual language that can trigger tension (or nostalgia) in a single shot.", "Notes": "If you want one ‘classic Klingon’ entry to anchor a ships library, the D7 is it: war, politics, reputation, and legacy—sometimes without firing a shot.\n\nFor fans, the fun is how many different kinds of Trek stories it supports. In a straight confrontation, a D7 makes Starfleet’s confidence feel earned rather than assumed—because you can’t talk your way out of a weapons lock. In a diplomacy episode, it becomes the visual embodiment of brinkmanship: the ship isn’t attacking, it’s daring you to misstep.\n\nAnd then there’s the tonal whiplash that only Star Trek pulls off: a D7 can walk into an episode as a credible threat and walk out as the most famous unwilling carrier of tribbles in the quadrant. That contrast doesn’t weaken the design—it strengthens it, because the ship remains formidable even when the plot turns absurd.\n\nWhen you expand this library, the D7 is also a great ‘bridge’ entry: it links the TOS era to later nostalgia hits, it connects Klingon doctrine to Romulan political twists, and it gives you a baseline for comparing later Klingon ships—what changed, what stayed, and what the silhouette still tells the audience at a glance.", "ImageURL": ""}];
+    const STATE = { activeId: null };
+
+    const els = {
+      count: document.getElementById("count"),
+      btnList: document.getElementById("btnList"),
+      hero: document.getElementById("hero"),
+      detailTitle: document.getElementById("detailTitle"),
+      tagline: document.getElementById("tagline"),
+      badgeRow: document.getElementById("badgeRow"),
+      sections: document.getElementById("sections"),
+      randomBtn: document.getElementById("randomBtn"),
+      aboutBtn: document.getElementById("aboutBtn"),
+      closeAboutBtn: document.getElementById("closeAboutBtn"),
+      aboutOverlay: document.getElementById("aboutOverlay")
+    };
+
+    function escapeHtml(s) {
+      return String(s ?? "")
+        .replaceAll("&","&amp;")
+        .replaceAll("<","&lt;")
+        .replaceAll(">","&gt;")
+        .replaceAll('"',"&quot;")
+        .replaceAll("'","&#039;");
+    }
+
+    function asArray(v) {
+      if (!v) return [];
+      if (Array.isArray(v)) return v;
+      return [v];
+    }
+
+    function idOf(item) { return item.ID || item.Id || item.id || ""; }
+    function nameOf(item) { return item.Name || item.name || ""; }
+    function affOf(item) { return item.Affiliation || item.affiliation || ""; }
+    function catOf(item) { return item.Category || item.kind || item.category || ""; }
+    function eraOf(item) { return item.Era || item.era || ""; }
+    function heroUrl(item) { return item.ImageURL || item.image || (item.Media && item.Media.HeroImage) || ""; }
+
+    function renderList() {
+      const list = DATA.slice().sort((a,b) => nameOf(a).localeCompare(nameOf(b)));
+      els.count.textContent = `${list.length} item${list.length === 1 ? "" : "s"}`;
+
+      els.btnList.innerHTML = list.map(item => {
+        const id = idOf(item);
+        const active = id && id === STATE.activeId;
+        const metaParts = [affOf(item), catOf(item), eraOf(item)].filter(Boolean);
+        const meta = metaParts.length ? `<div class="bigMeta">${escapeHtml(metaParts.join(" • "))}</div>` : "";
+        return `
+          <button class="bigBtn ${active ? "active" : ""}" type="button" data-id="${escapeHtml(id)}">
+            <div class="bigName">${escapeHtml(nameOf(item))}</div>
+            ${meta}
+          </button>
+        `;
+      }).join("");
+
+      els.btnList.querySelectorAll(".bigBtn").forEach(btn => {
+        btn.addEventListener("click", () => select(btn.getAttribute("data-id")));
+      });
+
+      if (!STATE.activeId && list.length) select(idOf(list[0]));
+    }
+
+    function renderBadges(item) {
+      const badges = [
+        affOf(item),
+        catOf(item),
+        item.TypeLabel,
+        item.Registry,
+        eraOf(item)
+      ].filter(Boolean).map(t => `<span class="badge">${escapeHtml(t)}</span>`).join("");
+      els.badgeRow.innerHTML = badges;
+    }
+
+    function renderHero(item) {
+      const url = heroUrl(item);
+      if (url) {
+        els.hero.innerHTML = `<img src="${escapeHtml(url)}" alt="${escapeHtml(nameOf(item))}" />`;
+        return;
+      }
+      const label = (nameOf(item) || "No image").trim();
+      els.hero.textContent = label.length > 18 ? label.slice(0,18) + "…" : label;
+    }
+
+    function sectionHtml(title, bodyHtml) {
+      if (!bodyHtml) return "";
+      return `
+        <div class="section">
+          <h3>${escapeHtml(title)}</h3>
+          ${bodyHtml}
+        </div>
+      `;
+    }
+
+    function para(text) {
+      if (!text) return "";
+      const chunks = String(text).split(/\r?\n+/g).map(s => s.trim()).filter(Boolean);
+      if (!chunks.length) return "";
+      return chunks.map(t => `<p>${escapeHtml(t)}</p>`).join("");
+    }
+
+    function list(items) {
+      const arr = asArray(items).filter(Boolean);
+      if (!arr.length) return "";
+      return `<ul>${arr.map(x => `<li>${escapeHtml(String(x))}</li>`).join("")}</ul>`;
+    }
+
+    function kv(obj) {
+      if (!obj || typeof obj !== "object") return "";
+      const rows = Object.entries(obj).filter(([k,v]) => v !== undefined && v !== null && String(v).trim() !== "");
+      if (!rows.length) return "";
+      return `<div class="kv">${rows.map(([k,v]) => `
+        <div class="k">${escapeHtml(k)}</div>
+        <div class="v">${escapeHtml(String(v))}</div>
+      `).join("")}</div>`;
+    }
+
+    function renderSections(item) {
+      const parts = [];
+
+      if (item.AtAGlance) {
+        const ag = item.AtAGlance;
+        let body = "";
+        body += kv({
+          "Crew": ag.CrewComplement || "",
+          "Top speed": ag.TopSpeed || "",
+          "Fleet role": ag.FleetRole || ""
+        });
+        if (ag.WhatFansRemember) {
+          body += `<div class="subhead">What fans remember</div>`;
+          body += list(ag.WhatFansRemember);
+        }
+        parts.push(sectionHtml("At a glance", body));
+      }
+
+      if (item.WhyItMatters) {
+        const w = item.WhyItMatters;
+        let body = "";
+        if (w.InUniverse) body += `<div class="subhead">In-universe</div>` + para(w.InUniverse);
+        if (w.InFranchiseHistory) body += `<div class="subhead">In the franchise</div>` + para(w.InFranchiseHistory);
+        parts.push(sectionHtml("Why it matters", body));
+      }
+
+      if (item.SignatureLook) {
+        const s = item.SignatureLook;
+        let body = "";
+        if (s.Silhouette) body += para(s.Silhouette);
+        if (s.PaintAndMarkings) body += `<div class="subhead">Markings</div>` + para(s.PaintAndMarkings);
+        parts.push(sectionHtml("Signature look", body));
+      }
+
+      if (item.OnScreenCanon) {
+        const c = item.OnScreenCanon;
+        let body = "";
+        if (c.FirstOnScreenUse) body += para(c.FirstOnScreenUse);
+        if (c.NotableCanonWindows) {
+          body += `<div class="subhead">Notable canon windows</div>`;
+          body += list(c.NotableCanonWindows);
+        }
+        if (c.AnchorMomentsForFans && Array.isArray(c.AnchorMomentsForFans) && c.AnchorMomentsForFans.length) {
+          body += `<div class="subhead">Anchor moments</div>`;
+          body += `<ul>${c.AnchorMomentsForFans.map(m => {
+            const moment = m.Moment ? `<b>${escapeHtml(m.Moment)}</b>` : "";
+            const why = m.WhyItSticks ? ` — ${escapeHtml(m.WhyItSticks)}` : "";
+            return `<li>${moment}${why}</li>`;
+          }).join("")}</ul>`;
+        }
+        parts.push(sectionHtml("On-screen canon", body));
+      }
+
+      if (item.RoleAndDoctrine) {
+        const r = item.RoleAndDoctrine;
+        let body = "";
+        if (r.HowItsUsed) {
+          body += `<div class="subhead">How it’s used</div>`;
+          body += list(r.HowItsUsed);
+        }
+        if (r.WhatItSignalsWhenItShowsUp) {
+          body += `<div class="subhead">What it signals</div>`;
+          body += list(r.WhatItSignalsWhenItShowsUp);
+        }
+        parts.push(sectionHtml("Role and doctrine", body));
+      }
+
+      if (item.SystemsAndCapabilities) {
+        const sc = item.SystemsAndCapabilities;
+        let body = "";
+        if (sc.Weapons) {
+          body += `<div class="subhead">Weapons</div>`;
+          if (sc.Weapons.Primary) body += list(sc.Weapons.Primary);
+          if (sc.Weapons.HowItFights) body += para(sc.Weapons.HowItFights);
+        }
+        if (sc.Defenses) {
+          body += `<div class="subhead">Defenses</div>`;
+          if (sc.Defenses.Shields) body += para(sc.Defenses.Shields);
+          if (sc.Defenses.Cloaking) body += para(sc.Defenses.Cloaking);
+        }
+        if (sc.Propulsion) {
+          body += `<div class="subhead">Propulsion</div>`;
+          if (sc.Propulsion.Warp) body += para(sc.Propulsion.Warp);
+          if (sc.Propulsion.Impulse) body += para(sc.Propulsion.Impulse);
+        }
+        if (sc.MissionFlex) {
+          body += `<div class="subhead">Mission flexibility</div>`;
+          body += kv(sc.MissionFlex);
+        }
+        parts.push(sectionHtml("Systems and capabilities", body));
+      }
+
+      if (item.LifeAboard) {
+        const la = item.LifeAboard;
+        let body = "";
+        if (la.Tone) body += para(la.Tone);
+        if (la.Recreation) body += `<div class="subhead">Recreation</div>` + para(la.Recreation);
+        if (la.BridgeCulture) body += `<div class="subhead">Bridge culture</div>` + para(la.BridgeCulture);
+        parts.push(sectionHtml("Life aboard", body));
+      }
+
+      if (item.NotableShipsAndSightings && Array.isArray(item.NotableShipsAndSightings) && item.NotableShipsAndSightings.length) {
+        const body = `<ul>${item.NotableShipsAndSightings.map(s => {
+          const name = s.Name ? `<b>${escapeHtml(s.Name)}</b>` : "";
+          const claim = s.ClaimToFame ? ` — ${escapeHtml(s.ClaimToFame)}` : "";
+          const people = s.PeopleConnected && s.PeopleConnected.length ? ` <span style="color:rgba(183,194,214,.92)">(${escapeHtml(s.PeopleConnected.join(", "))})</span>` : "";
+          const why = s.WhyFansCare ? `<div style="margin-top:6px;color:rgba(233,238,248,.92)">${escapeHtml(s.WhyFansCare)}</div>` : "";
+          return `<li>${name}${claim}${people}${why}</li>`;
+        }).join("")}</ul>`;
+        parts.push(sectionHtml("Notable ships and sightings", body));
+      }
+
+      if (item.BehindTheScenes) {
+        const b = item.BehindTheScenes;
+        let body = "";
+        if (b.DesignIntent) body += para(b.DesignIntent);
+        if (b.VisualInspiration) body += para(b.VisualInspiration);
+        if (b.ProductionTriviaForFans) {
+          body += `<div class="subhead">Production trivia</div>`;
+          body += list(b.ProductionTriviaForFans);
+        }
+        parts.push(sectionHtml("Behind the scenes", body));
+      }
+
+      if (item.FanNotes) {
+        const f = item.FanNotes;
+        let body = "";
+        if (f.IfYouOnlyReadOneThing) body += para(f.IfYouOnlyReadOneThing);
+        if (f.WhyItStillWorksToday) {
+          body += `<div class="subhead">Why it still works</div>`;
+          body += list(f.WhyItStillWorksToday);
+        }
+        parts.push(sectionHtml("Fan notes", body));
+      }
+
+      if (item.Review) {
+        parts.push(sectionHtml("Review", para(item.Review)));
+      }
+
+      if (item.Notes) {
+        parts.push(sectionHtml("Notes", para(item.Notes)));
+      }
+
+      els.sections.innerHTML = parts.filter(Boolean).join("") || sectionHtml("Overview", para(item.Tagline || "No details available yet."));
+    }
+
+    function select(id) {
+      const item = DATA.find(x => idOf(x) === id);
+      if (!item) return;
+      STATE.activeId = id;
+      renderList();
+      renderHero(item);
+      els.detailTitle.textContent = nameOf(item) || "";
+      els.tagline.textContent = item.Tagline || "";
+      renderBadges(item);
+      renderSections(item);
+    }
+
+    function openAbout() {
+      els.aboutOverlay.style.display = "flex";
+      els.aboutOverlay.setAttribute("aria-hidden", "false");
+    }
+
+    function closeAbout() {
+      els.aboutOverlay.style.display = "none";
+      els.aboutOverlay.setAttribute("aria-hidden", "true");
+    }
+
+    function pickRandom() {
+      if (!DATA.length) return;
+      const idx = Math.floor(Math.random() * DATA.length);
+      select(idOf(DATA[idx]));
+    }
+
+    function moveSelection(delta) {
+      const list = DATA.slice().sort((a,b) => nameOf(a).localeCompare(nameOf(b)));
+      if (!list.length) return;
+      const cur = list.findIndex(x => idOf(x) === STATE.activeId);
+      const next = cur === -1 ? 0 : Math.max(0, Math.min(list.length - 1, cur + delta));
+      select(idOf(list[next]));
+      const btn = els.btnList.querySelector(`.bigBtn[data-id="${CSS.escape(idOf(list[next]))}"]`);
+      if (btn) btn.scrollIntoView({ block: "nearest" });
+    }
+
+    els.randomBtn.addEventListener("click", pickRandom);
+    els.aboutBtn.addEventListener("click", openAbout);
+    els.closeAboutBtn.addEventListener("click", closeAbout);
+    els.aboutOverlay.addEventListener("click", (e) => {
+      if (e.target === els.aboutOverlay) closeAbout();
+    });
+
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        if (els.aboutOverlay.style.display === "flex") closeAbout();
+        return;
+      }
+      if (e.key === "ArrowDown") { e.preventDefault(); moveSelection(1); }
+      if (e.key === "ArrowUp") { e.preventDefault(); moveSelection(-1); }
+      if (e.key === "Enter") {
+        if (!STATE.activeId && DATA.length) select(idOf(DATA[0]));
+      }
+    });
+
+    (function init() {
+      renderList();
+      if (DATA.length) select(idOf(DATA[0]));
+    })();
+  </script>
+</body>
+</html>

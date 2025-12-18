@@ -1,0 +1,394 @@
+[
+  {
+    "ID": "klingon-d7-class",
+    "Name": "D7-class battlecruiser",
+    "Affiliation": "Klingon Empire",
+    "Category": "Ship class",
+    "Era": "23rd century (TOS era; later legacy appearances)",
+    "Tagline": "The classic Klingon warship silhouette—predatory wings, a forward command pod, and a reputation built on brinkmanship as much as firepower.",
+    "AtAGlance": {
+      "WhatFansRemember": [
+        "The manta‑ray profile: wings flared, neck stretched, command pod like a snapping jaw",
+        "A ship that can loom on screen and instantly turn a scene into a staring contest",
+        "The K‑7 shore‑leave confrontation that spirals into tribble chaos",
+        "Romulan operation of the same hull design in the late 2260s",
+        "How instantly it “dates” a scene—one glance and you know you’re in classic-era Trek"
+      ],
+      "CrewComplement": "Often cited around ~430 personnel for a typical D7 (varies by ship and mission).",
+      "TopSpeed": "Often summarized in reference material as warp 9+ for the era; on screen it’s treated as fast enough to matter in pursuit and interception.",
+      "FleetRole": "Heavy battlecruiser / patrol / border pressure—sometimes used as a scout ship, just with teeth."
+    },
+    "WhyItMatters": {
+      "InUniverse": "In the Kirk era, a D7 isn’t just a ship—it’s a political lever. It can arrive quickly, park where it shouldn’t, and force Starfleet to choose between escalation and humiliation. Even with weapons cold, it makes every hail feel like negotiations under pressure.",
+      "InFranchiseHistory": "The D7 becomes visual shorthand for “Klingon warship,” like the Constitution-class becomes shorthand for “Starfleet hero ship.” Later Klingon designs evolve, but they keep echoing the D7’s DNA: posture, presence, and threat in silhouette."
+    },
+    "SignatureLook": {
+      "Silhouette": "A wide, wing-like primary hull with nacelles tucked beneath the wings, a long neck, and a head-like forward command pod. It looks like it’s already leaning into the attack.",
+      "PaintAndMarkings": "Klingon finishes read utilitarian and militarized. Romulan-operated variants are famously associated with bold bird‑of‑prey-style hull art in later presentations—same chassis, different identity."
+    },
+    "OnScreenCanon": {
+      "FirstOnScreenUse": "The classic D7 filming model’s first aired appearance is as a Romulan battle cruiser in “The Enterprise Incident” (TOS).",
+      "NotableCanonWindows": [
+        "2260s: recurring Klingon warship presence in the original series era",
+        "2268: Romulan-operated D7s appear during a tense alliance period",
+        "2268: the K‑7 incident ties the D7 to one of Trek’s most memorable ‘tension + comedy’ episodes",
+        "DS9 era: the D7 reappears as instant visual time-travel shorthand"
+      ],
+      "AnchorMomentsForFans": [
+        {
+          "Moment": "A Klingon D7 arrives at Deep Space Station K‑7 demanding shore leave—and the situation collapses into tribble disaster.",
+          "WhyItSticks": "Peak tonal balance: real geopolitical tension sitting on top of absurd, unforgettable comedy."
+        },
+        {
+          "Moment": "A D7 drops out of warp near Deep Space Nine in “Trials and Tribble‑ations.”",
+          "WhyItSticks": "The silhouette alone sells the century shift before anyone explains what’s happening."
+        },
+        {
+          "Moment": "Romulans operate the same hull in “The Enterprise Incident.”",
+          "WhyItSticks": "A clean “same ship, new threat” twist that implies bigger politics off screen."
+        }
+      ]
+    },
+    "RoleAndDoctrine": {
+      "HowItsUsed": [
+        "Border intimidation: arrive close, hold position, force a response on Klingon terms",
+        "Rapid force projection: fast enough to threaten, heavy enough to be respected",
+        "Command presence: the ship’s look is part of the message",
+        "Probing encounters: test readiness, force defensive reveals, punish hesitation"
+      ],
+      "WhatItSignalsWhenItShowsUp": [
+        "A political test (will you flinch?)",
+        "A tactical probe (will you expose defenses?)",
+        "A hard threat (answer the lock… or accept the humiliation)"
+      ]
+    },
+    "SystemsAndCapabilities": {
+      "Weapons": {
+        "Primary": [
+          "Disruptor cannons (classic green disruptor fire on screen)",
+          "Forward launcher associated with photon torpedoes in reference summaries"
+        ],
+        "HowItFights": "It pressures with forward arcs and decisive passes—forcing opponents to react, turn, and commit, then exploiting the moment they lose initiative."
+      },
+      "Defenses": {
+        "Shields": "Standard defensive shielding for the era—strong enough to take a hit, not magical enough to ignore consequences.",
+        "Cloaking": "Cloaking becomes strongly associated with D7-era storytelling through Romulan operation and later cloak plots."
+      },
+      "Propulsion": {
+        "Warp": "Often summarized as warp 9+ in era context; portrayed as capable of high-speed pursuit and interception.",
+        "Impulse": "Depicted as a steady sublight handler for a warship—built for control, not grace."
+      },
+      "MissionFlex": {
+        "ScoutProfile": "Sometimes assigned as a ‘scout ship’—a reminder that in Klingon terms, reconnaissance doesn’t have to be subtle."
+      }
+    },
+    "LifeAboard": {
+      "Tone": "Utilitarian and war-focused—less ‘space cruise,’ more ‘armed camp that goes to warp.’",
+      "Recreation": "The franchise doesn’t portray D7s as comfort-forward vessels; the vibe is discipline, readiness, and chain-of-command gravity.",
+      "BridgeCulture": "A command space built around presence—when the captain speaks, the ship feels like it leans forward with them."
+    },
+    "NotableShipsAndSightings": [
+      {
+        "Name": "IKS Gr’oth",
+        "ClaimToFame": "Koloth’s D7 at K‑7—shore leave demanded, tribbles acquired.",
+        "PeopleConnected": [
+          "Koloth",
+          "Korax"
+        ],
+        "WhyFansCare": "It makes the D7 inseparable from one of the franchise’s most rewatchable Federation–Klingon stories."
+      },
+      {
+        "Name": "IKS Klothos",
+        "ClaimToFame": "Kor’s ship, tied to early cloak-era talk and later legend-building around Kor.",
+        "PeopleConnected": [
+          "Kor"
+        ],
+        "WhyFansCare": "Because it’s Kor’s ship—and Kor is basically walking Klingon history."
+      }
+    ],
+    "BehindTheScenes": {
+      "DesignIntent": "Designed to be instantly readable as an antagonist ship at a glance—recognizable even in a fast cut.",
+      "VisualInspiration": "Jefferies aimed for a predatory ‘sea-life’ posture so it feels dangerous even in silhouette.",
+      "ProductionTriviaForFans": [
+        "The filming model’s first aired appearance is as a Romulan ship—one of Trek’s fun ‘production history becomes lore’ quirks.",
+        "Later productions preserved the silhouette while adding surface detail so the ship still reads ‘classic’ without looking flat."
+      ]
+    },
+    "FanNotes": {
+      "IfYouOnlyReadOneThing": "The D7 is a tension switch. When it appears, the scene becomes pride, brinkmanship, and risk—because the ship itself is a dare.",
+      "WhyItStillWorksToday": [
+        "It’s readable—you can sketch it after seeing it once.",
+        "It does narrative work with shape alone: menace without dialogue.",
+        "It carries legacy: later Klingon ships feel like descendants, not replacements.",
+        "It can play serious or comedic (K‑7) without losing credibility."
+      ]
+    },
+    "Review": "The D7-class battlecruiser is the Klingon Empire’s most famous “hello,” and it’s never meant to be friendly. Its silhouette does half the storytelling: wings spread like a hunter’s stance, a narrow neck, and a forward command pod that reads as a head poised to strike. Even before a captain speaks, the ship communicates intent—pressure, pride, and a willingness to escalate.\n\nWhat makes the D7 so satisfying for fans is that it isn’t just a pile of specs; it’s a mood. When one appears, the scene changes shape. Starfleet’s optimism suddenly feels negotiable. Every hail becomes a test: do you answer politely, do you posture back, do you stand your ground, or do you maneuver in a way that looks like fear? The ship’s presence turns routine space into a stage.\n\nIt’s also a perfect “Klingon doctrine in miniature.” The D7 doesn’t need to be subtle. It arrives close, it holds position, it makes you react. The class is portrayed as fast enough to matter and heavy enough to demand attention—ideal for border pressure, rapid responses, and the kind of tactical probing where the real goal is to learn how an opponent thinks under stress.\n\nThen the franchise proves how iconic the D7 really is by letting it play against type—without losing credibility. The K‑7 incident is the ultimate example: a warship arrives as a diplomatic threat, and the episode pivots into tribble chaos. The joke works because the D7 is so deadly serious as an image; the comedy lands harder when it’s bouncing off something that looks like it was built for conquest.\n\nOne of the smartest uses of the design is the Romulan twist. Seeing the same hull under a different banner is instant subtext: alliances, bargains, and political debt you can feel without a speech explaining it. It’s a rare case where a production quirk becomes a storytelling advantage, because the audience’s recognition does the work.\n\nDecades later, the D7 still functions as pure visual time travel. Put that silhouette on screen and fans immediately know the era, the tone, and the stakes. That’s the real ‘spec’: readability. The D7 isn’t just remembered—it’s useful, a piece of Star Trek’s visual language that can trigger tension (or nostalgia) in a single shot.",
+    "Notes": "If you want one ‘classic Klingon’ entry to anchor a ships library, the D7 is it: war, politics, reputation, and legacy—sometimes without firing a shot.\n\nFor fans, the fun is how many different kinds of Trek stories it supports. In a straight confrontation, a D7 makes Starfleet’s confidence feel earned rather than assumed—because you can’t talk your way out of a weapons lock. In a diplomacy episode, it becomes the visual embodiment of brinkmanship: the ship isn’t attacking, it’s daring you to misstep.\n\nAnd then there’s the tonal whiplash that only Star Trek pulls off: a D7 can walk into an episode as a credible threat and walk out as the most famous unwilling carrier of tribbles in the quadrant. That contrast doesn’t weaken the design—it strengthens it, because the ship remains formidable even when the plot turns absurd.\n\nWhen you expand this library, the D7 is also a great ‘bridge’ entry: it links the TOS era to later nostalgia hits, it connects Klingon doctrine to Romulan political twists, and it gives you a baseline for comparing later Klingon ships—what changed, what stayed, and what the silhouette still tells the audience at a glance.",
+    "ImageURL": ""
+  },
+  {
+    "ID": "uss-enterprise-ncc-1701",
+    "Name": "USS Enterprise (NCC-1701)",
+    "Affiliation": "Federation",
+    "Category": "Starship",
+    "Era": "23rd century (TOS era)",
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
+  },
+  {
+    "ID": "uss-enterprise-ncc-1701-a",
+    "Name": "USS Enterprise (NCC-1701-A)",
+    "Affiliation": "Federation",
+    "Category": "Starship",
+    "Era": "23rd century (films era)",
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
+  },
+  {
+    "ID": "uss-enterprise-ncc-1701-d",
+    "Name": "USS Enterprise (NCC-1701-D)",
+    "Affiliation": "Federation",
+    "Category": "Starship",
+    "Era": "24th century (TNG era)",
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
+  },
+  {
+    "ID": "uss-enterprise-ncc-1701-e",
+    "Name": "USS Enterprise (NCC-1701-E)",
+    "Affiliation": "Federation",
+    "Category": "Starship",
+    "Era": "24th century (TNG films era)",
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
+  },
+  {
+    "ID": "uss-voyager-ncc-74656",
+    "Name": "USS Voyager (NCC-74656)",
+    "Affiliation": "Federation",
+    "Category": "Starship",
+    "Era": "24th century (VOY era)",
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
+  },
+  {
+    "ID": "uss-defiant-nx-74205",
+    "Name": "USS Defiant (NX-74205)",
+    "Affiliation": "Federation",
+    "Category": "Starship",
+    "Era": "24th century (DS9 era)",
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
+  },
+  {
+    "ID": "uss-excelsior-ncc-2000",
+    "Name": "USS Excelsior (NCC-2000)",
+    "Affiliation": "Federation",
+    "Category": "Starship",
+    "Era": "23rd–24th century",
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
+  },
+  {
+    "ID": "uss-reliant-ncc-1864",
+    "Name": "USS Reliant (NCC-1864)",
+    "Affiliation": "Federation",
+    "Category": "Starship",
+    "Era": "23rd century (TOS films era)",
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
+  },
+  {
+    "ID": "uss-titan",
+    "Name": "USS Titan",
+    "Affiliation": "Federation",
+    "Category": "Starship",
+    "Era": "24th–25th century",
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
+  },
+  {
+    "ID": "uss-discovery-ncc-1031",
+    "Name": "USS Discovery (NCC-1031)",
+    "Affiliation": "Federation",
+    "Category": "Starship",
+    "Era": "23rd century (DIS era)",
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
+  },
+  {
+    "ID": "klingon-bird-of-prey",
+    "Name": "Klingon Bird-of-Prey",
+    "Affiliation": "Klingon Empire",
+    "Category": "Vessel type",
+    "Era": "23rd–24th century",
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
+  },
+  {
+    "ID": "klingon-neghvar",
+    "Name": "Negh'Var-class warship",
+    "Affiliation": "Klingon Empire",
+    "Category": "Ship class",
+    "Era": "24th century (DS9 era)",
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
+  },
+  {
+    "ID": "klingon-ktinga",
+    "Name": "K't'inga-class battlecruiser",
+    "Affiliation": "Klingon Empire",
+    "Category": "Ship class",
+    "Era": "23rd–24th century",
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
+  },
+  {
+    "ID": "klingon-vorcha",
+    "Name": "Vor'cha-class attack cruiser",
+    "Affiliation": "Klingon Empire",
+    "Category": "Ship class",
+    "Era": "24th century (TNG/DS9 era)",
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
+  },
+  {
+    "ID": "romulan-warbird",
+    "Name": "Romulan Warbird",
+    "Affiliation": "Romulan Star Empire",
+    "Category": "Vessel type",
+    "Era": "24th century (TNG era)",
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
+  },
+  {
+    "ID": "borg-cube",
+    "Name": "Borg Cube",
+    "Affiliation": "Borg Collective",
+    "Category": "Vessel type",
+    "Era": "24th century+",
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
+  },
+  {
+    "ID": "borg-sphere",
+    "Name": "Borg Sphere",
+    "Affiliation": "Borg Collective",
+    "Category": "Vessel type",
+    "Era": "24th century+",
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
+  },
+  {
+    "ID": "ferengi-dkora-class",
+    "Name": "D'Kora-class Marauder",
+    "Affiliation": "Ferengi Alliance",
+    "Category": "Ship class",
+    "Era": "24th century",
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
+  },
+  {
+    "ID": "vulcan-cruiser",
+    "Name": "Vulcan cruiser",
+    "Affiliation": "Vulcan High Command",
+    "Category": "Vessel type",
+    "Era": "22nd–23rd century",
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
+  },
+  {
+    "ID": "andorian-battle-cruiser",
+    "Name": "Andorian battle cruiser",
+    "Affiliation": "Andorian Empire",
+    "Category": "Vessel type",
+    "Era": "22nd–23rd century",
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
+  },
+  {
+    "ID": "species-8472",
+    "Name": "Species 8472",
+    "Affiliation": "Species 8472",
+    "Category": "Species",
+    "Era": "24th century (VOY era)",
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
+  },
+  {
+    "ID": "delta-flyer",
+    "Name": "Delta Flyer",
+    "Affiliation": "Federation",
+    "Category": "Small craft",
+    "Era": "24th century (VOY era)",
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
+  },
+  {
+    "ID": "shuttlecraft-galileo",
+    "Name": "Shuttlecraft Galileo",
+    "Affiliation": "Federation",
+    "Category": "Small craft",
+    "Era": "23rd century (TOS era)",
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
+  },
+  {
+    "ID": "danube-class-runabout",
+    "Name": "Danube-class runabout",
+    "Affiliation": "Federation",
+    "Category": "Small craft",
+    "Era": "24th century (TNG/DS9 era)",
+    "Tagline": "",
+    "Review": "",
+    "Notes": "",
+    "ImageURL": ""
+  }
+]
