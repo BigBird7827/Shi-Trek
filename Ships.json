@@ -614,16 +614,111 @@
     "ImageURL": ""
   },
   {
-    "ID": "species-8472",
-    "Name": "Species 8472",
-    "Affiliation": "Species 8472",
-    "Category": "Species",
-    "Era": "24th century (VOY era)",
-    "Tagline": "",
-    "Review": "",
-    "Notes": "",
-    "ImageURL": ""
+  "ID": "species-8472",
+  "Name": "Species 8472 bio-ship",
+  "Affiliation": "Species 8472",
+  "Category": "Bio-ship",
+  "Era": "24th century (VOY era)",
+  "Tagline": "A living warship from fluidic space—built to ignore your sensors, shrug off your weapons, and make even the Borg look desperate.",
+  "AtAGlance": {
+    "WhatFansRemember": [
+      "The first time Voyager’s sensors hit a ‘biomass’ that doesn’t read like a ship—until it wakes up and shoots back",
+      "A single forward bio‑beam that can tear through Borg cubes in only a few hits",
+      "The nightmare logistics: no transporter lock, no tractor effect, and conventional scans can’t penetrate the hull",
+      "Quantum singularities opening like wounds in space, spilling organic ships into the Delta Quadrant",
+      "The Borg–8472 war: one of the rare times Voyager has to play inside a conflict that dwarfs it"
+    ],
+    "CrewComplement": "Each bio-ship is piloted by a single Species 8472 individual.",
+    "TopSpeed": "Capable of warp travel via an antimatter-based propulsion system; also able to transition between normal space and fluidic space by opening quantum singularities.",
+    "FleetRole": "Mass-produced assault bio-ship used in large numbers during the Borg–Species 8472 war and the push into the Milky Way."
   },
+  "WhyItMatters": {
+    "InUniverse": "The bio-ship is the face of Species 8472’s initial advantage: organic technology that Federation and Borg systems can’t easily read, target, or manipulate. In the early encounters, it’s less a ‘ship’ than a hostile organism—hard to pin down with tools Starfleet crews rely on—and it forces Voyager into an ugly truth: sometimes you win by changing the rules of the fight, not by firing harder.",
+    "InFranchiseHistory": "Voyager’s bio-ship episodes are Trek’s most famous swing at truly alien starship design. The 8472 vessels don’t just look different; they behave differently (regeneration, biology-as-computing, docking by dissolving through matter), and the show uses that to create tension you can’t solve with familiar technobabble shortcuts."
+  },
+  "SignatureLook": {
+    "Silhouette": "A manta-like, organic profile with a broad ‘head’ and three trailing fins that extend in flight. It reads as alive even at a distance—less hull-and-nacelles, more predatory animal gliding through vacuum.",
+    "PaintAndMarkings": "No registries, no faction paint—just layered organic texture. Surface details suggest cartilage, muscle, and plated membranes rather than panels and plating, which is exactly the point: it refuses the visual language Starfleet expects."
+  },
+  "OnScreenCanon": {
+    "FirstOnScreenUse": "Star Trek: Voyager — “Scorpion” (first encountered as a regenerating ‘biomass’ inside Borg wreckage; later identified as a bio-ship).",
+    "NotableCanonWindows": [
+      "“Scorpion” — Voyager investigates a regenerating 8472 vessel and learns how badly the Borg are losing.",
+      "“Scorpion, Part II” — The Janeway/Borg alliance produces nanoprobe-based warheads that can finally kill bio-ships; a fleet engagement proves it.",
+      "“Prey” — A wounded, isolated bio-ship becomes a Hirogen trophy hunt—and Voyager gets dragged into the ethics of mercy versus risk.",
+      "“In the Flesh” — 8472’s broader plan (reconnaissance via eerily accurate Starfleet reconstructions) reframes what those bio-ships were ‘for’ beyond just smashing cubes."
+    ],
+    "AnchorMomentsForFans": [
+      "The Borg drone trying—and failing—to assimilate living ship material inside the debris field",
+      "Multiple bio-ships linking fire through a specialized focusing ship to crack a Borg planet",
+      "The collision that annihilates a Borg cube and an attacking bio-ship when brute force is the only answer available",
+      "Voyager’s class-10 high-yield nanoprobe-armed strike that drops thirteen bio-ships and makes the rest withdraw"
+    ]
+  },
+  "RoleAndDoctrine": {
+    "HowItsUsed": "Species 8472 deploys bio-ships as hard-hitting, resilient strike craft in large numbers—fast enough to appear, punish, and withdraw through quantum singularities. They’re not portrayed as ‘duelists’ trading volleys for honor; they’re biological instruments of overwhelming retaliation, optimized to tear apart Borg infrastructure and, when provoked, push into Federation-adjacent space with terrifying efficiency.",
+    "WhatItSignalsWhenItShowsUp": "When a bio-ship enters a scene, the scale of the threat spikes immediately. You’re not watching a border skirmish—you’re watching a war between apex predators, and the usual Starfleet playbook (scan, lock, tractor, beam) starts failing in sequence."
+  },
+  "SystemsAndCapabilities": {
+    "Weapons": "A single forward-mounted directed energy weapon is the signature: powerful enough to destroy Borg cubes with only a few shots. In coordinated action, multiple bio-ships can feed their discharges into an energy-focusing ship, producing a planet-killing beam used against Borg worlds.",
+    "Defenses": "Bio-ships are highly resistant to conventional weaponry and can regenerate from damage. Their hull is notably difficult to work with using standard tools—impervious to most sensors and tractor beams, and transporter locks can’t be established. They also employ energy shields.",
+    "Propulsion": "An antimatter-based warp propulsion system lets the ship operate in both normal space and the native medium of fluidic space. Bio-ships can open quantum singularities to pass between the two realms—an arrival mechanic that feels more like biology than engineering.",
+    "MissionFlex": "The ship’s interior functions as a living system: organic conduits carry electrodynamic fluid; a binary matrix laced with neuropeptides appears to serve a computing role. It can ‘dock’ by dissolving through another vessel’s boundary into its interior—boarding as a biological intrusion rather than a mechanical clamp."
+  },
+  "LifeAboard": {
+    "PilotBond": "Canon treats the bio-ship as a one-being craft: a single Species 8472 pilot interfaces with a vessel grown from genetically similar organic material. That framing makes the ship feel less like a workplace and more like a symbiotic extension of its operator.",
+    "InteriorBiomechanics": "Away teams describe structures like flesh and bone, with living conduits and organic ‘systems’ rather than corridors of hardware. Even simple reconnaissance becomes unsettling because the environment reads as anatomy, not architecture.",
+    "TheOneRealWeakness": "The show gives Voyager a narrow counter: modified nanoprobes (delivered via bio-molecular warheads) that attack 8472 biology at the microscopic level. Against everything else, the bio-ship’s advantages—resistance, regeneration, tool-immunity—are the whole premise."
+  },
+  "NotableShipsAndSightings": [
+    {
+      "Name": "Debris-field bio-ship (VOY: “Scorpion”)",
+      "ClaimToFame": "Regenerating inside a field of Borg wreckage while a drone futilely attempts assimilation.",
+      "PeopleConnected": [
+        "Kathryn Janeway",
+        "Tuvok",
+        "Harry Kim",
+        "Kes"
+      ],
+      "WhyFansCare": "It’s the ‘first contact’ beat that makes 8472 terrifying: the ship doesn’t even register as a ship until it chooses to."
+    },
+    {
+      "Name": "Planet-killer strike group (VOY: “Scorpion”)",
+      "ClaimToFame": "Eight bio-ships channel their weapon discharges through an energy-focusing ship to destroy a Borg planet.",
+      "PeopleConnected": [
+        "Kathryn Janeway",
+        "Borg Collective"
+      ],
+      "WhyFansCare": "A rare on-screen moment where Trek shows planetary annihilation as a tactical routine—cold, efficient, and repeatable."
+    },
+    {
+      "Name": "Hunted bio-ship (VOY: “Prey”)",
+      "ClaimToFame": "A wounded vessel left behind after the retreat to fluidic space, pursued for months by a Hirogen hunting party.",
+      "PeopleConnected": [
+        "Seven of Nine",
+        "Kathryn Janeway",
+        "Hirogen"
+      ],
+      "WhyFansCare": "The episode turns the bio-ship into a moral pressure-cooker: mercy, risk assessment, and the cost of treating an enemy as ‘game’."
+    }
+  ],
+  "BehindTheScenes": {
+    "DesignIntent": "The bio-ship was created to feel unmistakably alive—an organic silhouette that can swarm in formation and still read clearly on screen.",
+    "VisualInspiration": "Production notes tie the ship’s mass-attack visuals to the need for striking formations; the planet-kill sequence was designed to be its own thing rather than a straight Death Star echo, using converging beams and a focusing vessel.",
+    "ProductionTriviaForFans": [
+      "The show explicitly doesn’t separate ‘bio-ship’ from the energy-focusing variant in dialogue during “Scorpion”; Memory Alpha distinguishes them for clarity.",
+      "The ‘converged beams’ planet-kill effect was conceived as a more interesting twist than a single superlaser-style shot, then animated as a cumulative focusing event.",
+      "The ship’s biomechanical interior language (conduits, matrices, living structures) is part of why the away-team scenes feel like horror instead of exploration."
+    ]
+  },
+  "FanNotes": {
+    "IfYouOnlyReadOneThing": "The 8472 bio-ship isn’t scary because it’s bigger—it’s scary because it breaks the toolkit. You can’t grab it, beam onto it easily, scan it cleanly, or even agree it’s a ‘ship’ until it fires.",
+    "WhyItStillWorksToday": "Trek has introduced a lot of powerful ships, but few that change the rules of encounter storytelling this hard. The bio-ship episodes still land because the tension comes from mismatch—Starfleet problem-solving versus an opponent that isn’t built to be solved by Starfleet methods."
+  },
+  "Review": "Voyager’s first encounter with a Species 8472 bio-ship is staged like a trap: a regenerating vessel lodged in a debris field left behind after Species 8472 destroyed a cluster of Borg cubes. An away team finds a Borg drone trying—and failing—to assimilate living material, and the bio-ship’s interior reads as anatomy rather than architecture. When the pilot drives them out and the ship becomes active, the point lands fast: this isn’t a rival with slightly better shields. It’s an opponent that makes Starfleet’s usual tools feel clumsy and late.\n\nOn a tactical level, the bio-ship’s signature is a single forward directed energy weapon with the bite to destroy Borg cubes in only a few shots. On a strategic level, its real menace is scale. Voyager detects huge numbers of these vessels emerging from quantum singularities, and suddenly the Delta Quadrant stops feeling like “space out there” and starts feeling like a battleground Voyager is merely crossing.\n\n“Scorpion” and “Scorpion, Part II” make the bio-ship inseparable from one of Voyager’s defining compromises: Janeway’s alliance with the Borg to develop a weapon that can finally kill them. The answer is ugly but specific—modified Borg nanoprobes delivered via bio-molecular warheads designed to attack 8472 biology at the microscopic level. The payoff is equally specific: in fluidic space, the warheads destroy attacking bio-ships after a short delay; back in normal space, a high-yield strike destroys thirteen more and makes the remainder withdraw.\n\nJust as important, the bio-ship teaches the viewer what Species 8472’s doctrine looks like. They don’t posture or threaten. They appear, fire, and depart through quantum singularities as if the galaxy were a hunting ground. In coordinated action, multiple bio-ships can feed their discharges into an energy-focusing ship to crack a Borg planet—one of the rare on-screen moments where planetary annihilation is shown as a repeatable battlefield tool.\n\nThen “Prey” turns the screws by shrinking the scale. A single wounded bio-ship, left behind after the retreat to fluidic space, becomes a Hirogen trophy hunt and drags Voyager into a brutal argument about mercy, risk, and responsibility. It’s a reminder that the bio-ship isn’t just a monster-of-the-week design. It’s a storytelling device that forces characters to choose what kind of people they are when the enemy is alien enough that even the ship feels alive.",
+  "Notes": "Canon treats the bio-ship as an extension of Species 8472 itself: it’s grown from genetically similar organic material, piloted by a single 8472 individual, and built around living systems—organic conduits, electrodynamic fluids, and a neuropeptide-laced matrix that reads like biology doing the job of computing. That’s why boarding it feels like walking into anatomy rather than engineering.\n\nThe ship’s most potent ‘feature’ is less its weapon and more its refusal to cooperate with Starfleet procedure. The hull’s resistance to sensors and tractor beams, and the inability to establish a transporter lock, forces every encounter to happen on 8472’s terms. It’s a clever bit of storytelling design: the writers remove the shortcut buttons so the crew has to improvise, ethically and tactically.\n\nThe Borg–8472 war context is part of what makes the bio-ship a fan favorite. Trek rarely shows the Borg as strategically outclassed; these ships do. When the alliance with the Borg becomes necessary, the bio-ship becomes the silent justification: this is what it takes to survive a foe that the Borg themselves can’t simply absorb.\n\nIf you want to rewatch with fresh eyes, track how often the show frames the bio-ship as “alive” even in the language around it—regenerating, resisting, docking by dissolving into another vessel’s interior. It’s one of Voyager’s best examples of making ship design carry theme: the line between organism and technology is the point, and the bio-ship never lets you forget it.",
+  "ImageURL": ""
+},
   {
     "ID": "delta-flyer",
     "Name": "Delta Flyer",
