@@ -430,27 +430,285 @@
     "ImageURL": ""
   },
   {
-    "ID": "borg-cube",
-    "Name": "Borg Cube",
-    "Affiliation": "Borg Collective",
-    "Category": "Vessel type",
-    "Era": "24th century+",
-    "Tagline": "",
-    "Review": "",
-    "Notes": "",
-    "ImageURL": ""
+  "ID": "borg-cube",
+  "Name": "Borg Cube",
+  "Affiliation": "Borg Collective",
+  "Category": "Vessel type",
+  "Era": "24th century+",
+  "Tagline": "The Collective’s signature warship: a silent, city‑sized machine that adapts, repairs itself, and turns a fleet engagement into a solvable engineering problem.",
+  "AtAGlance": {
+    "WhatFansRemember": [
+      "The first time it shows up, the Enterprise‑D’s weapons feel like a bad joke (“Q Who”)—and the tone of the franchise tilts",
+      "Wolf 359: the cube that chews through a Starfleet task force and still arrives at Earth basically on schedule (“The Best of Both Worlds, Part I/II”)",
+      "That unnerving idea that “no bridge” is a feature—command is distributed, and the ship feels indifferent rather than aggressive",
+      "Adaptive defenses: a few shots work… then you’re firing noise into a wall (“Q Who”, “The Best of Both Worlds”)",
+      "A cube can carry a sphere—escape craft that turns defeat into Phase Two (“Star Trek: First Contact”)",
+      "Regeneration that happens on the move, mid‑warp, mid‑fight—damage becomes a temporary inconvenience (“Q Who”)"
+    ],
+    "CrewComplement": "Vast drone population (tens of thousands or more), variable by cube and mission; on screen it’s treated as a self‑contained invasion ecosystem rather than a tidy ‘crew list.’",
+    "TopSpeed": "Warp and transwarp capable; on screen the Enterprise‑D can’t simply outrun one, and later canon ties cubes to transwarp corridors and hubs.",
+    "FleetRole": "Assimilation platform / siege engine / mobile factory—built to overwhelm, analyze, and incorporate rather than ‘win’ in a conventional sense."
   },
+  "WhyItMatters": {
+    "InUniverse": "A Borg cube is the Collective’s most honest statement: the individual doesn’t matter, aesthetics don’t matter, diplomacy don’t matter. If it wants something, it approaches, learns what you can do, adapts, and takes it—by force if necessary. When one is inbound, the question isn’t “can we outfight it?” so much as “can we find the one lever the Borg didn’t model yet?”",
+    "InFranchiseHistory": "The cube is a design flex that rewired Trek antagonists. It’s not a ‘warship’ with swagger—it’s an industrial horror object. It made Starfleet victories feel earned (or pyrrhic), and it turned space battles into puzzles about adaptation, desperation, and ethics."
+  },
+  "SignatureLook": {
+    "Silhouette": "A perfect cube—no heroic profile—so every camera angle reads as the same blunt fact: geometry, mass, inevitability.",
+    "SurfaceDetail": "Dense, layered industrial greeble: trenches, conduits, scaffold‑like structures, and recessed bays. The green light isn’t decoration; it feels like internal systems bleeding through a skin that doesn’t care about being pretty.",
+    "Presence": "It doesn’t posture. It doesn’t bank like a fighter. It just occupies space—like the universe is going to have to make room."
+  },
+  "OnScreenCanon": {
+    "FirstOnScreenUse": "The cube’s defining entrance comes in TNG “Q Who,” where it’s introduced as something Starfleet is not remotely ready for.",
+    "NotableCanonWindows": [
+      "2365: first sustained encounter with a Borg cube and the Enterprise‑D (“Q Who”)",
+      "2366–2367: the cube that assimilates Picard and devastates Starfleet at Wolf 359 (“The Best of Both Worlds, Part I/II”)",
+      "2371: DS9 anchors its pilot’s stakes with Wolf 359 trauma (“Emissary”)",
+      "2373: a cube assaults Earth; a sphere escapes after the cube is destroyed (“Star Trek: First Contact”)",
+      "VOY era: multiple cube encounters tied to the Borg’s larger strategic infrastructure (including transwarp network references)",
+      "2399: a disabled cube repurposed as the Artifact becomes a haunted relic of the Collective (“Star Trek: Picard” Season 1)"
+    ],
+    "AnchorMomentsForFans": [
+      {
+        "Moment": "“Q Who” — the Enterprise‑D hits the cube, the cube shrugs, and the ship starts getting dismantled like a lab sample.",
+        "WhyItSticks": "It’s the first time TNG makes you feel truly outclassed. The cube isn’t angry—it’s curious."
+      },
+      {
+        "Moment": "Wolf 359 and the reveal of Locutus.",
+        "WhyItSticks": "The cube isn’t just a threat to ships; it’s a threat to identity—and it weaponizes your own captain."
+      },
+      {
+        "Moment": "“Star Trek: First Contact” — the fleet fight, the cube’s fall, and the sphere’s launch.",
+        "WhyItSticks": "Even when you ‘win,’ the Borg refuse to let the story end where you want it to."
+      }
+    ]
+  },
+  "RoleAndDoctrine": {
+    "HowTheCollectiveUsesIt": [
+      "Assimilation by proximity: get close enough to lock you down, learn you, and take what’s useful",
+      "Overmatch as a strategy: force defenders into predictable desperation, then adapt to it",
+      "Distributed command: the ship behaves like an extension of the Collective rather than a captain’s platform",
+      "Escalation control: a cube can ignore you, disable you, dissect you, or erase you—whatever best serves the objective"
+    ],
+    "WhatItSignalsWhenItShowsUp": [
+      "You’re about to be evaluated—not negotiated with",
+      "Your best tactics are about to become obsolete in real time",
+      "Someone, somewhere, will be assimilated unless an unorthodox solution appears fast"
+    ]
+  },
+  "SystemsAndCapabilities": {
+    "Weapons": {
+      "Primary": [
+        "Energy and projectile weapons presented as numerous and hard to catalog by conventional scans (“Q Who”)",
+        "A tractor beam that can drain shields and immobilize a target—sometimes used as a destructive weapon in its own right",
+        "Cutting/dissection tools used to remove hull sections during analysis and boarding operations"
+      ],
+      "HowItFights": "The cube’s style is industrial. It disables, pins, drains, and then chooses the next step—assimilation, destruction, or extraction—based on efficiency, not intimidation."
+    },
+    "Defenses": {
+      "AdaptiveFielding": "Rather than classic ‘shields,’ the Borg employ defenses that adapt to repeated attack patterns. Frequency tricks can buy moments, not safety.",
+      "SelfRepair": "Drone-driven regeneration can undo major damage rapidly—even while the ship is still moving and fighting."
+    },
+    "Propulsion": {
+      "WarpAndTranswarp": "Cubes operate at warp and are linked in later canon to transwarp corridors and hubs, treating distance as logistics.",
+      "Maneuvering": "They don’t dogfight; they reposition like a megastructure with just enough agility to keep you inside the trap."
+    },
+    "MissionFlex": {
+      "InternalCapacity": "A cube functions as a mobile ecosystem: drones, assimilation infrastructure, and repair capability—an invasion force that carries its own replacement parts.",
+      "SupportCraft": "At least one cube carried a Borg sphere that disengaged for escape purposes (“Star Trek: First Contact”)."
+    }
+  },
+  "LifeAboard": {
+    "Tone": "Not ‘life’ as Starfleet understands it—more like existing inside a factory that never stops. Light, sound, and space feel optimized for drones, not comfort.",
+    "DroneCulture": "The ship’s behavior implies a society that doesn’t need meetings, speeches, or morale—just connectivity and function.",
+    "TheHorrorAngle": "The most unsettling detail is how ordinary the Borg make it feel. The cube isn’t decorated with trophies; it’s built to process you."
+  },
+  "NotableShipsAndSightings": [
+    {
+      "Name": "Locutus’ cube (2366–2367 incursion)",
+      "ClaimToFame": "Assimilates Jean‑Luc Picard and turns Starfleet’s own knowledge into a weapon; devastates the fleet at Wolf 359 before being stopped at the last moment.",
+      "PeopleConnected": [
+        "Jean‑Luc Picard / Locutus",
+        "William Riker",
+        "Elizabeth Shelby",
+        "Benjamin Sisko (Wolf 359 fallout)"
+      ],
+      "WhyFansCare": "It’s the cube that brands an era—where the Borg stop being a ‘new enemy’ and become a franchise‑defining scar."
+    },
+    {
+      "Name": "Sector 001 cube (2373)",
+      "ClaimToFame": "Assaults Earth; destroyed by the fleet with Picard’s insight, but launches a sphere that attempts a timeline reset.",
+      "PeopleConnected": [
+        "Jean‑Luc Picard",
+        "The Borg Queen"
+      ],
+      "WhyFansCare": "It’s the “even victory has a sequel” cube—proof that stopping the Borg once doesn’t mean you stopped them."
+    },
+    {
+      "Name": "The Artifact (disabled cube, 2399)",
+      "ClaimToFame": "A reclaimed, broken Borg relic turned into a research/reclamation site—haunted by what was done there and what it did to people.",
+      "PeopleConnected": [
+        "Hugh",
+        "Seven of Nine"
+      ],
+      "WhyFansCare": "It reframes the cube as a ruin—still terrifying, but also tragic, a monument to assimilation’s aftermath."
+    }
+  ],
+  "BehindTheScenes": {
+    "DesignIntent": "A villain ship that rejects ‘cool spaceship’ language: simple geometry that still feels alien, unstoppable, and wrong in a universe of sleek silhouettes.",
+    "VisualInspiration": "The cube leans into a brutal industrial aesthetic—like a moving megastructure—so its threat reads as scale and inevitability, not swagger.",
+    "ProductionTriviaForFans": [
+      "The cube’s macro shape is instantly readable in any shot; the surface detail is where the nightmare lives.",
+      "Borg green illumination becomes a shorthand for internal systems and collective presence—less ‘running lights,’ more ‘a machine breathing.’"
+    ]
+  },
+  "FanNotes": {
+    "IfYouOnlyReadOneThing": "A Borg cube isn’t scary because it’s angry—it’s scary because it’s patient. It can lose drones, lose hull, lose time, and still keep coming, because it treats your resistance as data.",
+    "WhyItStillWorksToday": [
+      "It turns battles into ethics: what do you do when the enemy wants to assimilate, not merely destroy?",
+      "It’s the perfect visual metaphor for the Collective: uniform, relentless, and indifferent to individuality.",
+      "Canon keeps finding new angles—scar (Wolf 359), escalation (First Contact), aftermath (the Artifact)—without needing to reinvent the silhouette."
+    ]
+  },
+  "Review": "The first time a Borg cube enters the story, it doesn’t behave like a warship—it behaves like a moving fact. Starfleet’s language of encounters (“hail,” “stand down,” “match course”) suddenly feels like ritual, because the cube isn’t there to posture. It’s there to do work.\n\nIn “Q Who,” the Enterprise‑D learns the cube’s core trick: it doesn’t need to win fast. It needs to win inevitably. Weapons fire teaches it what you can do; then it adapts. And once it decides you’re worth taking, it treats you like a sample—locking you down, cutting you open, and boarding with the cold confidence of a species that expects resistance. The horror isn’t that it’s cruel. It’s that it’s curious.\n\nBy the time of “The Best of Both Worlds,” the cube has moved from “unknown threat” to “existential math problem.” Wolf 359 is where Starfleet discovers what happens when you try to fight the Borg on the Borg’s terms: you line up ships, you trade volleys, you execute familiar tactics—and the cube reduces the whole effort to a short proof. Then it arrives at Earth anyway. Even worse, the Collective doesn’t just assimilate bodies; it assimilates advantage. Locutus is the cube’s most chilling weapon because he makes Starfleet’s own knowledge part of the Borg toolkit.\n\nWhat keeps the Borg cube compelling is that it’s both simple and endlessly flexible. On the outside, it’s the most brutal silhouette imaginable—a perfect cube that refuses hero angles. On the inside, it’s implied to be a complete ecosystem: drones, infrastructure, repair, assimilation, and the ability to keep functioning while it regenerates. In other words, it’s not merely a ship. It’s the Collective arriving in a box.\n\n“Star Trek: First Contact” adds the final, nasty twist: even when you destroy the cube, you may not have ended the threat. The launch of a sphere turns defeat into a second act and reframes “stop the cube” as only one layer of the Borg problem. Later stories keep playing with that idea—sometimes the cube is the invader, sometimes it’s the ruin (the Artifact), but it’s always the same message: this enemy doesn’t run on pride. It runs on process.\n\nFor fans, the cube is Trek’s purest intimidation device because it denies you the comfort of narrative conventions. There’s no showdown bridge, no commander to outwit, no visible heart to stab. When the cube shows up, the question isn’t “who’s better?” It’s “how long until the Borg adapt, and what are you willing to do before they do?”",
+  "Notes": "If you want the Borg cube’s canon arc in the tightest possible run, watch three stops in order: “Q Who” (the warning), “The Best of Both Worlds” (the wound), and “Star Trek: First Contact” (the escalation). DS9’s “Emissary” is the emotional aftershock—proof that Wolf 359 isn’t just a plot point; it’s a life event that doesn’t stop happening because an episode ends.\n\nThe cube works as a villain ship because it refuses to give the audience an easy victory fantasy. Starfleet can’t simply build a bigger gun and feel safe; even clever countermeasures are treated as temporary. That’s why the best Borg stories feel like heists or engineering crises: you steal minutes, you improvise, you exploit a one‑off angle, and you hope the Borg don’t get a second iteration.\n\nVisually, it’s one of Trek’s smartest contradictions: the simplest possible macro‑shape wrapped in maximal micro‑detail. That’s why it reads instantly on a TV screen, a movie screen, or a thumbnail—and why the green glow feels like a signature, not decoration. You’re not looking at “windows.” You’re looking at internal activity leaking through the skin of a machine that never sleeps.\n\nOne fun way to spot what the franchise is doing with the cube in any given story: watch how the camera treats it. When the cube is an invader, shots emphasize scale and indifference—Starfleet ships look like insects nearby. When the cube is aftermath (like the Artifact), the same geometry becomes a haunted ruin, and the question shifts from “how do we stop it?” to “what did it do to the people who survived it?”",
+  "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Borg%20Cube%20(Final).png"
+},
   {
-    "ID": "borg-sphere",
-    "Name": "Borg Sphere",
-    "Affiliation": "Borg Collective",
-    "Category": "Vessel type",
-    "Era": "24th century+",
-    "Tagline": "",
-    "Review": "",
-    "Notes": "",
-    "ImageURL": ""
+  "ID": "borg-sphere",
+  "Name": "Borg Sphere",
+  "Affiliation": "Borg Collective",
+  "Category": "Vessel type",
+  "Era": "24th century+",
+  "Tagline": "The Borg’s compact “secondary plan” vessel—scout, tactical platform, and cube‑embedded escape craft that once turned the Battle of Sector 001 into a time‑war.",
+  "AtAGlance": {
+    "WhatFansRemember": [
+      "The perfect sphere packed with harsh geometry and sickly green channels—Borg design distilled into a single shape",
+      "The escape sphere that launches from the Sector 001 cube, then dives through a temporal vortex to 2063 (First Contact)",
+      "A ship that treats “retreat” as repositioning: it survives long enough to beam drones (and the Queen) onto the Enterprise‑E",
+      "Voyager’s Fort Knox raid: stealing a transwarp coil from a damaged sphere that’s regenerating in place (\"Dark Frontier\")",
+      "The unnerving implication that a cube can carry a sphere inside it—like a weaponized lifeboat with its own agenda"
+    ],
+    "CrewComplement": "Not stated on screen; spheres are shown as drone-operated Borg environments with no obvious ‘crew living’ spaces.",
+    "TopSpeed": "Transwarp-capable; one damaged sphere in “Dark Frontier” is limited to low warp while regenerating, highlighting how much performance depends on system condition.",
+    "FleetRole": "Scout ship / long-range tactical vessel; often carried within a cube as an auxiliary craft."
   },
+  "WhyItMatters": {
+    "BigPicture": "The sphere is the Borg’s narrative ace: when brute force fails, it becomes the pivot to something worse—time travel, infiltration, or a fresh vector for assimilation. It embodies the Collective’s cold pragmatism: every battle includes a contingency.",
+    "TrekEcosystem": "It’s also the bridge between ‘Borg as unstoppable fleet’ and ‘Borg as infrastructure.’ Voyager’s sphere stories make the Collective feel like a machine with logistics, recovery, and redundancy—ships that regenerate, salvage, and keep moving even when broken."
+  },
+  "SignatureLook": {
+    "SilhouetteAndSurface": "A flawless globe whose surface is anything but smooth: layered plating, trenches, protrusions, and recessed cavities that read like a city turned inside-out. The green glow isn’t decoration—it feels like internal power bleeding through seams.",
+    "InteriorMood": "Industrial and purpose-built. On screen, the sphere’s interior reads as corridors and machinery with no comfort layer—more like walking through a living factory than a ship with ‘rooms.’"
+  },
+  "OnScreenCanon": {
+    "FirstOnScreenUse": "Introduced on screen in Star Trek: First Contact, embedded within the Borg cube at the Battle of Sector 001.",
+    "NotableCanonWindows": [
+      "2373: launches from the destroyed cube after the Battle of Sector 001, travels to 2063 to prevent First Contact (Star Trek: First Contact)",
+      "2153: debris from the First Contact sphere is discovered in the Arctic; surviving drones regenerate and begin assimilation (ENT: “Regeneration”)",
+      "2375: Voyager raids a damaged sphere to steal a transwarp coil during Operation Fort Knox (VOY: “Dark Frontier”)",
+      "2377–2378: spheres recur in late-Voyager Borg stories, including confrontations tied to Unimatrix Zero and the Endgame crisis (VOY)",
+      "2399: a Borg sphere appears among the artifacts and threats surrounding the Admonition crisis (PIC: “Broken Pieces”)"
+    ],
+    "AnchorMomentsForFans": [
+      {
+        "Moment": "The cube dies… and the sphere launches anyway.",
+        "WhyItSticks": "It reframes the Borg: losing a flagship doesn’t end the attack. The sphere is contingency made physical—an escape craft that immediately becomes the real threat."
+      },
+      {
+        "Moment": "Bozeman is bombed while the Enterprise‑E fights a 24th‑century war in 2063.",
+        "WhyItSticks": "It’s one of Trek’s cleanest ‘stakes escalator’ beats: the Borg don’t need to conquer the present if they can erase it."
+      },
+      {
+        "Moment": "Operation Fort Knox: Voyager steals a transwarp coil from a sphere that’s regenerating from heavy damage.",
+        "WhyItSticks": "It’s the Borg as salvage-and-repair ecosystem—terrifying not because it’s invincible, but because it keeps getting back up."
+      }
+    ]
+  },
+  "RoleAndDoctrine": {
+    "HowTheCollectiveUsesIt": "On screen and in referenced canon, spheres serve as scout ships or long-range tactical vessels—and sometimes as auxiliary craft carried inside a cube. In practice, that means they’re deployed where the Borg want reach, redundancy, or a fast pivot to a different plan.",
+    "WhatItSignalsWhenItShowsUp": [
+      "The Borg are probing, not committing (scouting and testing responses)",
+      "A cube may not be alone—even if you only see one contact",
+      "A situation may escalate into infiltration or time manipulation rather than a straight fleet fight"
+    ]
+  },
+  "SystemsAndCapabilities": {
+    "Weapons": {
+      "Primary": [
+        "Energy weapons sufficient for bombardment and ship-to-ship engagement (as depicted in First Contact and Voyager-era appearances)"
+      ],
+      "HowItFights": "The sphere reads as a ‘pressure tool’ rather than a duelist—close in, lock you with a tractor beam, and force a problem that isn’t solved by matching broadside-to-broadside."
+    },
+    "Defenses": {
+      "ShieldsAndArmor": "Canon references describe spheres as having deflector shielding and ablative hull armor. When shields are down, the Enterprise‑E is able to destroy a sphere with quantum torpedoes—an unusually blunt on-screen reminder that Borg ships still have failure states.",
+      "StructuralRedundancy": "The Borg design language implies layered systems and survivability-through-replacement: even damaged spheres are shown regenerating rather than ‘dead in space’ forever."
+    },
+    "Propulsion": {
+      "Transwarp": "Spheres are transwarp-capable. Voyager’s on-screen theft of a transwarp coil from a sphere makes the transwarp hardware feel modular—something you can remove, steal, and (if you’re brave) try to survive.",
+      "DriveLayout": "A sphere’s transwarp coils are housed in heavily shielded transwarp chambers; on screen the interior emphasizes machinery over an obvious ‘engineering’ set-piece."
+    },
+    "UtilitySystems": {
+      "TractorBeam": "A sphere is explicitly shown using a tractor beam against Voyager, reinforcing its role as a capture-and-control platform as much as a shooter.",
+      "CubeIntegration": "Some spheres are carried within cubes, functioning as auxiliary craft—part escape pod, part extra knife in the Collective’s sleeve."
+    }
+  },
+  "LifeAboard": {
+    "Tone": "No ‘home’ vibe—just drones, corridors, and systems. Even by Borg standards, the sphere feels stripped down: a mission package that happens to be spherical.",
+    "WhatYouNoticeOnScreen": "Spaces read as functional pathways through machinery rather than named rooms. It’s an environment built for drones and objectives, not for beings who need comfort, privacy, or rest."
+  },
+  "NotableShipsAndSightings": [
+    {
+      "Name": "Borg Queen’s sphere",
+      "ClaimToFame": "The sphere that escaped the Sector 001 cube, traveled to 2063, bombed Bozeman, and beamed the Queen and drones onto the Enterprise‑E before being destroyed.",
+      "PeopleConnected": [
+        "Borg Queen",
+        "Jean-Luc Picard",
+        "Data",
+        "Zefram Cochrane"
+      ],
+      "WhyFansCare": "Because it’s the Borg’s most infamous contingency plan on screen—one ship that nearly rewrote history."
+    },
+    {
+      "Name": "Operation Fort Knox sphere",
+      "ClaimToFame": "A damaged sphere in 2375 that Voyager raids to steal a transwarp coil while the vessel is regenerating.",
+      "PeopleConnected": [
+        "Kathryn Janeway",
+        "Seven of Nine"
+      ],
+      "WhyFansCare": "It’s the rare Borg story beat that feels like a heist—except the vault is alive and might wake up."
+    },
+    {
+      "Name": "Arctic debris field",
+      "ClaimToFame": "Fragments of the First Contact sphere discovered in 2153; surviving drones regenerate and trigger a new Borg incident on Earth (ENT: “Regeneration”).",
+      "PeopleConnected": [
+        "Jonathan Archer",
+        "Phlox"
+      ],
+      "WhyFansCare": "It makes First Contact’s cleanup horrifying: even a destroyed Borg ship can be a seed crystal for assimilation."
+    }
+  ],
+  "BehindTheScenes": {
+    "DesignIntent": "First Contact needed a Borg vessel that could be carried inside a cube and still feel dangerous on its own—more than a lifeboat, less than a second cube.",
+    "ScaleAndDepictions": "Production sources associated with First Contact discussed multiple size concepts before settling on an official chart size; later reference discussions also note how on-screen debris can suggest different scale reads.",
+    "ProductionTriviaForFans": [
+      "Early script drafts for First Contact described a more independently aggressive sphere before the final film leaned into the ‘escape craft that becomes the real threat’ role.",
+      "Enterprise’s “Regeneration” explicitly ties its Arctic debris field back to the First Contact sphere, turning movie debris into a TV-era catalyst."
+    ]
+  },
+  "FanNotes": {
+    "IfYouOnlyReadOneThing": "The Borg sphere is what happens when the Collective loses and refuses to accept it—an escape craft that turns defeat into a new kind of attack.",
+    "WhyItStillWorksToday": [
+      "It’s a pure visual: one shape, instantly readable as Borg, instantly unsettling.",
+      "It’s the franchise’s cleanest ‘backup plan ship’—the moment it launches, you know the story just got worse.",
+      "Voyager-era uses give it texture beyond First Contact, showing spheres as part of a wider Borg toolkit.",
+      "It keeps Borg stories from being only about scale; sometimes the scariest move is precision."
+    ]
+  },
+  "Review": "The Borg sphere is the Collective’s most unsettling kind of ship: the one that exists because the Borg plan for failure. In Star Trek: First Contact, it’s nested inside the attacking cube like a weaponized contingency. The cube is defeated in Earth orbit… and the scene doesn’t relax. The sphere launches, and the Borg pivot from brute-force assimilation to something more terrifying: a temporal strike meant to prevent humanity’s first warp flight.\n\nThat pivot is the sphere’s defining vibe. It doesn’t need to outgun a starship the way a cube does; it needs to survive long enough to change the rules of the game. The ship’s 2063 campaign is pure Borg pragmatism—bombing Bozeman, applying pressure, and using boarding/transport tactics to put drones (and the Queen) directly onto the Enterprise‑E. The sphere isn’t ‘winning’ by conventional measures; it’s creating a new win condition.\n\nEnterprise’s “Regeneration” makes the sphere even creepier in hindsight. Destroying it doesn’t end the threat—because Borg hardware is persistent. Fragments buried under Arctic ice become a seed for assimilation ninety years earlier than the Federation ever expected. The sphere’s afterlife becomes part of its horror: even dead Borg ships can still do Borg things.\n\nVoyager then gives spheres a second identity: not just ‘the time travel one,’ but a recurring Borg workhorse. In “Dark Frontier,” a damaged sphere is regenerating when Voyager raids it for a transwarp coil—turning Borg propulsion into loot and making the Borg feel like an industrial system that can be salvaged, stolen from, and still remain lethal. When spheres show up in later Voyager stories, they reinforce that the Collective doesn’t have one ship type for one job; it has tools, and it deploys them with the cold logic of a machine.\n\nVisually, the sphere is brilliant Trek shorthand. A perfect globe is a clean, almost abstract idea, but Borg detailing makes it oppressive: trenches, cavities, and green-lit channels that suggest depth without offering anything recognizable as a ‘bridge’ or ‘habitat.’ It reads as a moving mechanism. When it’s on screen, you’re not looking at a starship—you’re looking at a weaponized process.\n\nIf the cube is the Borg as apocalypse, the sphere is the Borg as contingency. That’s why it lands so well for fans: it embodies the Collective’s ugliest advantage—they don’t just have power. They have backup plans.",
+  "Notes": "For a fan library, the sphere is a great entry because it’s the Borg at their smartest on screen. The cube attack at Sector 001 is the loud part of the story; the sphere is the quiet implication that the Borg expected to lose—and brought a plan that doesn’t require winning the battle to win the war.\n\nIt also lets you talk about Borg ‘infrastructure’ without drifting into non-canon tech manuals. The on-screen transwarp coil theft in “Dark Frontier” is the key: it shows transwarp hardware as something physical and modular enough to be stolen, and it makes Borg ships feel like industrial objects—systems you can break into, strip, and still fear. That’s very Voyager: survival tactics against a machine that keeps running.\n\nWhen you connect First Contact → Enterprise’s Arctic debris → Voyager’s spheres, you get a neat through-line: Borg problems echo across centuries. A sphere isn’t just a ship class; it’s a delivery method for consequences. If you want your library to feel interconnected, the sphere is a natural hinge entry between eras.\n\nVisually, spheres are a reminder that Borg design isn’t ‘armor plating’ so much as exposure. The green illumination reads like internal energy bleeding through a structure that was never meant to reassure anyone. That’s why even a smaller Borg ship still feels huge: it isn’t about size, it’s about the sense that you’re looking at something that doesn’t value people.\n\nIf you want a single sentence to summarize the ship for viewers who already know the basics: a Borg sphere is what the Collective uses when it decides the fastest way to assimilate you is to remove the version of history where you ever existed.",
+  "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Borg%20Sphere%20(Final).png"
+},
   {
     "ID": "ferengi-dkora-class",
     "Name": "D'Kora-class Marauder",
