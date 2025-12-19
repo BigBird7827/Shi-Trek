@@ -861,16 +861,118 @@
     "ImageURL": ""
   },
   {
-    "ID": "andorian-battle-cruiser",
-    "Name": "Andorian battle cruiser",
-    "Affiliation": "Andorian Empire",
-    "Category": "Vessel type",
-    "Era": "22nd–23rd century",
-    "Tagline": "",
-    "Review": "",
-    "Notes": "",
-    "ImageURL": ""
+  "ID": "andorian-battle-cruiser",
+  "Name": "Andorian Battle Cruiser",
+  "Affiliation": "Andorian Imperial Guard",
+  "Category": "Starship class",
+  "Era": "Mid-22nd century (ENT era)",
+  "Tagline": "The Imperial Guard’s heavy hitter of the 2150s—shielded, particle‑cannon armed, and iconic enough that the Romulans used its silhouette as a weapon.",
+  "AtAGlance": {
+    "WhatFansRemember": [
+      "Shran’s flagship Kumari and the Andorian presence it projects in the 2150s",
+      "The Romulan drone‑ship deception that impersonates an Andorian battle cruiser to ignite conflict (“Babel One” / “United”)",
+      "A predatory, spine-and-wings silhouette that feels rugged compared to early Starfleet hulls",
+      "Deflector shields in an era where not everyone has them (a real advantage on screen)",
+      "Particle cannons as the class’s signature punch, with emitters positioned for broad firing arcs"
+    ],
+    "CrewComplement": "86 (as cited for the Kumari in 2154).",
+    "TopSpeed": "Capable of speeds in excess of warp five (as cited for the Kumari).",
+    "FleetRole": "Battle cruiser / fleet combatant and escort; shown operating in groups during regional crises."
   },
+  "WhyItMatters": {
+    "InUniverse": "The Andorian battle cruiser is a reminder that Starfleet isn’t the only game in town in the 2150s. It represents a mature, militarized power with shielding, disciplined crews, and enough presence that other governments calibrate their behavior around it.",
+    "InFranchiseHistory": "Enterprise uses this ship class to make the pre‑Federation era feel real. It’s not just ‘old tech’—it’s competing powers with credible warships, and that’s what makes coalition politics feel urgent rather than inevitable."
+  },
+  "SignatureLook": {
+    "Silhouette": "A long central spine with a vertically split forward hull, forward‑swept wings, and paired warp nacelles stacked at the aft—lean and aggressive without being ornate.",
+    "SurfaceAndLighting": "ENT-era practical detailing: recessed structure, vents, and hard edges that read as rugged. On-screen, it’s often framed to look heavier-duty than NX-era Starfleet designs.",
+    "BridgeVibe": "Andorian interiors lean utilitarian and military—built to run operations, not to impress visitors."
+  },
+  "OnScreenCanon": {
+    "WhereYouSeeIt": [
+      "ENT: “Proving Ground” (Kumari and Andorian intervention in the Xindi arc)",
+      "ENT: “Kir’Shara” (Andorian fleet action at the Battle of Andoria)",
+      "ENT: “Babel One” / “United” (Romulan drone‑ship crisis; Kumari destroyed escorting an ambassador to Babel; coalition fleet response)"
+    ],
+    "CanonAnchors": [
+      "Deflector shields are explicitly part of the class’s defensive advantage in this era.",
+      "The class is armed with particle cannons; the emitters are positioned to allow wide firing arcs.",
+      "The Kumari is stated to have a crew complement of 86 and speeds exceeding warp five, and it carries a tractor beam."
+    ],
+    "WhatTheShowUsesItFor": "Power projection and alliance pressure. When a battle cruiser enters the scene, the story is usually about coalition, mistrust, and the cost of holding the line together."
+  },
+  "RoleAndDoctrine": {
+    "HowTheImperialGuardUsesIt": [
+      "Fleet combatant that can operate as a flagship for smaller task groups",
+      "Escort duty for high-value assets (including diplomatic transports)",
+      "Intercept and pursuit missions (tracking targets over multiple weeks is referenced for the Kumari’s pursuit of Enterprise’s warp trail)",
+      "Regional deterrence: a ship whose presence changes how other powers behave"
+    ],
+    "TacticalPersonality": "Direct and forceful. The class is shown as comfortable trading fire, drawing enemy attention, and holding formation while allied plans play out."
+  },
+  "SystemsAndCapabilities": {
+    "Weapons": {
+      "Primary": [
+        "Particle cannons (multiple emplacements, including wing and dorsal/ventral emitters, supporting broad firing arcs)"
+      ],
+      "TacticsOnScreen": "The class fights like a warship: sustained pressure, cover fire for allies, and opportunistic strikes when an opponent exposes a weak point."
+    },
+    "Defenses": {
+      "Shields": "Deflector shields are a key advantage in the 2150s and are explicitly associated with the class’s survivability.",
+      "Vulnerabilities": "Canon notes the shield generator can be a weak point if targeted, and tactical situations exploit shield loss as a turning point."
+    },
+    "Propulsion": {
+      "Warp": "Warp-capable, with the lead ship Kumari stated to exceed warp five.",
+      "Maneuvering": "Not a dogfighter; it feels like a fleet unit that repositions to keep its firing solutions and protect its allies."
+    },
+    "OtherSystems": {
+      "TractorBeam": "The Kumari is cited as carrying a tractor beam—useful for control, capture, and battlefield manipulation."
+    }
+  },
+  "LifeAboard": {
+    "CrewScale": "A relatively compact crew for a heavy warship (86 cited for the Kumari), implying automation and a tightly run military organization.",
+    "Culture": "Imperial Guard discipline: function-first spaces, command hierarchy, and a ship designed for operations rather than comfort.",
+    "WhatFansNotice": "Shran’s bridge presence makes the ship feel personal; even when the class appears as ‘a type,’ it’s remembered through the crew who fly it."
+  },
+  "NotableShipsAndSightings": [
+    {
+      "Name": "IGS Kumari",
+      "ClaimToFame": "First ship of the class; commanded by Commander Thy’lek Shran; key ally (and occasional headache) for NX‑01 during the Xindi crisis and the Romulan drone‑ship arc; destroyed in 2154 while escorting an Andorian ambassador to Babel.",
+      "PeopleConnected": [
+        "Thy'lek Shran",
+        "Jonathan Archer"
+      ],
+      "WhyFansCare": "Because it’s the Andorian ship you actually get to know—and its loss lands as a real cost in the pre‑Federation chess game."
+    },
+    {
+      "Name": "Romulan drone ship disguise incidents",
+      "ClaimToFame": "A Romulan drone ship impersonates an Andorian battle cruiser to provoke retaliation and fracture alliances (ENT: “Babel One” / “United”).",
+      "PeopleConnected": [
+        "Thy'lek Shran",
+        "Jonathan Archer"
+      ],
+      "WhyFansCare": "It’s one of Trek’s best uses of ‘ship identity’ as a political weapon—silhouette and reputation doing damage before the first shot."
+    }
+  ],
+  "BehindTheScenes": {
+    "Design": "Designed by John Eaves for Star Trek: Enterprise as the first Andorian starship to appear on screen, giving the Andorians a distinct naval silhouette rather than borrowing from earlier on-screen ship languages.",
+    "ProductionNotes": [
+      "Enterprise production created a dedicated Andorian bridge set for “Proving Ground,” reflecting the ship’s expanded role beyond a one-off appearance.",
+      "The class became a visual anchor for Enterprise’s coalition-era politics—recognizable enough that an impostor version could drive a multi-episode crisis."
+    ]
+  },
+  "FanNotes": {
+    "IfYouOnlyReadOneThing": "The Andorian battle cruiser is the ship that makes the 2150s feel like a real neighborhood: other powers have real warships, real grudges, and real leverage—Starfleet doesn’t get to be the default adult in the room yet.",
+    "BestEpisodesToRevisit": [
+      "“Proving Ground” for the Kumari’s warship presence and alliance friction",
+      "“Kir’Shara” for fleet action and the broader Andorian/Vulcan crisis",
+      "“Babel One” / “United” for the Romulan drone‑ship deception and the Kumari’s fate"
+    ]
+  },
+  "Review": "Enterprise spends a lot of time in the 2150s proving that “the Federation” isn’t a given yet. The Andorian battle cruiser is one of the clearest visual arguments for that idea: before Starfleet becomes the familiar 24th‑century juggernaut, there are already powers in the neighborhood fielding ships that look tougher, hit harder, and feel more mature.\n\nOn screen, the class is inseparable from Commander Thy’lek Shran and his flagship, the Kumari. When the Kumari turns up, the episode usually isn’t about a random border patrol—it’s about alliances being negotiated under pressure. In the Xindi arc, Shran’s battle cruiser doesn’t just posture beside Enterprise; it tracks, hunts, and intervenes, and the show treats it as a real warship rather than a set dressing. The ship’s presence sells the idea that Andoria is a military power with its own agenda, not a future “member world” waiting to happen.\n\nThe Romulan drone‑ship storyline (“Babel One” / “United”) gives the class its sharpest narrative edge. A drone ship disguised as an Andorian battle cruiser weaponizes reputation—using the Andorians’ own silhouette to provoke retaliation and fracture cooperation. That works because the class already reads as dangerous. The ship’s look is a diplomatic statement: it says the Imperial Guard can project force, and everyone else has to take that seriously.\n\nWhat makes the Andorian battle cruiser memorable for fans is how it feels both alien and practical. The long central spine and forward‑swept wings give it a predatory profile, but it’s not ornate. It’s an ENT‑era combatant built around shielding and particle cannons, and it moves through scenes like a tool—an escort, a hunter, a fleet unit—rather than a hero ship that needs to be photographed prettily.\n\nAnd then there’s the Kumari’s fate: destroyed by the Romulan drone ship while escorting an ambassador to Babel, with survivors escaping in pods and Shran toasting the ship’s legacy. That moment lands because the class has already been treated as consequential. Losing a battle cruiser doesn’t feel like losing a disposable ship; it feels like losing a piece of Andoria’s pride—and losing leverage in a region where leverage is everything.\n\nIf you’re building a ships library for people who know Trek, the Andorian battle cruiser is a perfect “pivot ship.” It sits right at the hinge where the pre‑Federation era stops being a prequel aesthetic and starts being a political story: power blocs, mistrust, and the first hard-won steps toward coalition.",
+  "Notes": "If you associate this class with one thing, make it Shran. The Kumari is effectively his signature the way the Enterprise is Archer’s—not because the show says so out loud, but because every time the ship arrives, the stakes climb and Shran becomes the human (Andorian) face of a broader power.\n\nThe drone‑ship arc is also a great way to talk about ship identity in canon. The Romulans don’t just disguise a ship as “an Andorian vessel.” They disguise it as an Andorian battle cruiser—a silhouette that will trigger assumptions. That’s a rare moment where a ship class’s profile is treated as a political weapon.\n\nOn the tech side, resist the temptation to turn this entry into a stat sheet. Canon gives you a few hard anchors—crew complement, shields, particle cannons, tractor beam, and warp capability—and the best fan-facing detail is what those imply: a compact crew running a rugged warship that can punch above Starfleet’s early weight.\n\nBehind the scenes, the design is a John Eaves creation and one of the first times Enterprise got to define an Andorian ship aesthetic at all. That’s why the battle cruiser feels so “foundational” to ENT: it isn’t riffing on an earlier Andorian starship; it’s creating the visual language from scratch.",
+  "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Andorian%20(Final).png"
+},
   {
   "ID": "species-8472",
   "Name": "Species 8472 bio-ship",
@@ -1223,14 +1325,176 @@
   "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Galileo%20(Final).png"
 },
   {
-    "ID": "danube-class-runabout",
-    "Name": "Danube-class runabout",
-    "Affiliation": "Federation",
-    "Category": "Small craft",
-    "Era": "24th century (TNG/DS9 era)",
-    "Tagline": "",
-    "Review": "",
-    "Notes": "",
-    "ImageURL": ""
-  }
+  "ID": "danube-class-runabout",
+  "Name": "Danube-class runabout",
+  "Affiliation": "Federation / Starfleet",
+  "Category": "Small craft",
+  "Era": "24th century (DS9 era)",
+  "Tagline": "Deep Space 9’s long‑legged workhorse: part shuttle, part starship, and a reliable excuse to leave the station.",
+  "AtAGlance": {
+    "WhatFansRemember": [
+      "The DS9 runabout bay doors opening and that familiar wedge silhouette sliding out on another ‘quick’ mission",
+      "Earth‑river names that slowly turn into a running gag as the station burns through hulls",
+      "The detachable ‘rollbar’ sensor pod look—because sometimes you need a little extra kit bolted on top",
+      "Just enough teeth (phasers and a torpedo launcher) to make a runabout chase feel dangerous",
+      "How many iconic DS9 problems start with: “Take a runabout.”"
+    ],
+    "CrewComplement": "Standard cockpit crew complement is usually 2–4 (mission‑dependent).",
+    "TopSpeed": "Designed for speeds up to warp 5.",
+    "FleetRole": "Station‑assigned multi‑mission craft: patrol, courier runs, science sorties, away‑team insertion, and light combat support."
+  },
+  "WhyItMatters": {
+    "InUniverse": "Deep Space 9 is a fixed point, so Starfleet needed something with real legs—a craft that could cross systems, carry a team, mount a sensor loadout, and still take a punch when the Gamma Quadrant stopped being polite. The Danube class became that everyday answer: the ship you take when a starship is overkill, but a shuttle is a gamble.",
+    "InFranchiseHistory": "For DS9, the runabout is the show’s roaming camera. Early seasons lean on it to turn a space station series into an exploration series whenever the story demands it—and later, the same craft becomes a familiar casualty of escalating stakes. It’s also one of Trek’s best ‘middle size’ designs: big enough to feel like a real ship, small enough to be expendable."
+  },
+  "SignatureLook": {
+    "Silhouette": "A compact wedge nose and tall cabin give it a ‘space van’ profile—boxy in the right places, streamlined in the right places. The dorsal rollbar/sensor‑pod configuration (when fitted) is the instant tell at a glance.",
+    "PaintAndMarkings": "Starfleet light‑gray hull treatment with restrained paneling and registry markings—clean enough to read as Starfleet, utilitarian enough to look like it lives in a station bay and launches on short notice."
+  },
+  "OnScreenCanon": {
+    "FirstOnScreenUse": "Introduced as DS9’s standard ‘away from the station’ craft in DS9’s pilot, where the Rio Grande is used on the mission that leads to the Bajoran wormhole.",
+    "NotableCanonWindows": [
+      "2368: Starfleet commissions the class for short‑range interstellar missions",
+      "2369: DS9 receives multiple runabouts (Ganges, Yangtzee Kiang, Rio Grande) delivered by the Enterprise‑D",
+      "Early DS9: primary transport and defense support during initial Gamma Quadrant exploration and first contacts",
+      "Dominion War era: still in regular service for covert insertions, rescues, and patrols even after the Defiant arrives"
+    ],
+    "AnchorMomentsForFans": [
+      {
+        "Moment": "The Rio Grande’s run that leads to the discovery of the Bajoran wormhole.",
+        "WhyItSticks": "It quietly establishes the runabout as a ship that can change the map of the quadrant—without needing a full starship to do it."
+      },
+      {
+        "Moment": "Kira’s line about Earth having ‘so many rivers’ because of how often DS9 loses runabouts.",
+        "WhyItSticks": "A perfect DS9 pressure‑release valve: gallows humor that only works because the danger is real."
+      },
+      {
+        "Moment": "The Orinoco’s destruction in the middle of an ‘Our Man Bashir’ holosuite hijack story.",
+        "WhyItSticks": "Classic DS9 whiplash: comedy‑adjacent framing, then a very real explosion with the crew barely escaping."
+      }
+    ]
+  },
+  "RoleAndDoctrine": {
+    "HowItsUsed": [
+      "Rapid response: launch fast, get there before a starship can be diverted",
+      "Exploration sorties: carry scientists, diplomats, and gear through the wormhole and back",
+      "Tactical utility: provide local firepower, escort duty, and pursuit when the station needs help",
+      "Covert travel: small enough to be discreet (by Starfleet standards), capable enough to survive uncomfortable situations",
+      "Cargo and personnel moves: the unglamorous but vital errands that keep a frontier outpost functioning"
+    ],
+    "WhatItSignalsWhenItShowsUp": [
+      "This is a DS9‑level problem: urgent, personal, and close enough to bite",
+      "Starfleet is sending a team—not a fleet",
+      "The mission is flexible, which usually means the story is about to turn"
+    ]
+  },
+  "SystemsAndCapabilities": {
+    "Weapons": {
+      "Primary": [
+        "Phaser array emitters",
+        "Torpedo launcher"
+      ],
+      "HowItFights": "A runabout doesn’t win by trading blows; it wins by choosing the fight—fast passes, smart angles, and getting out the moment the situation stops being ‘light’ combat."
+    },
+    "Defenses": {
+      "Shields": "Equipped with deflector shields—enough to survive the kind of frontier incidents DS9 keeps stumbling into, not enough to make bad decisions free.",
+      "DamageTolerance": "The show treats runabouts as survivable… right up until it doesn’t. They can limp home shot up, but they’re also frequent ‘stakes amplifiers’ when the story needs a hard consequence."
+    },
+    "Propulsion": {
+      "Warp": "Designed for up to warp 5—fast enough for interstellar hops and pursuit stories that feel urgent without turning into starship‑scale war.",
+      "Impulse": "Handles like a larger shuttle: agile enough for docking and close work, stable enough for long hauls."
+    },
+    "MissionFlex": {
+      "Modularity": "The class supports modular mission configurations (including a mission module and a sensor pod/‘rollbar’ setup), letting DS9 slap on specialized capability when the plot demands it.",
+      "UtilitySystems": "Frequently portrayed doing practical ship work—hauling, scanning, carrying teams and equipment, and acting as a mobile platform for whatever needs to happen off‑station."
+    }
+  },
+  "LifeAboard": {
+    "Tone": "Functional Starfleet comfort: not a starship’s sprawling neighborhoods, but more than a cramped shuttle. It’s ‘mission living’—gear stowed, people strapped in, everyone pretending the trip will be routine.",
+    "CrewDynamics": "Runabout stories tend to compress relationships: you’re close enough that every disagreement is unavoidable, and every small victory feels earned.",
+    "LittleDetailsFansNotice": "Because the same craft keeps showing up, fans start reading personality into it—especially the Rio Grande, which becomes the unofficial ‘lucky’ runabout simply by surviving."
+  },
+  "NotableShipsAndSightings": [
+    {
+      "Name": "USS Rio Grande (NCC-72452)",
+      "ClaimToFame": "The DS9 runabout most associated with early exploration and the discovery of the Bajoran wormhole.",
+      "PeopleConnected": [
+        "Benjamin Sisko",
+        "Jadzia Dax",
+        "Kira Nerys",
+        "Julian Bashir"
+      ],
+      "WhyFansCare": "It’s the runabout that keeps coming back—so it ends up carrying a disproportionate amount of DS9’s ‘outside the station’ history."
+    },
+    {
+      "Name": "USS Ganges (NCC-72454)",
+      "ClaimToFame": "One of DS9’s first three runabouts; a familiar early‑season workhorse.",
+      "PeopleConnected": [
+        "Kira Nerys",
+        "Miles O’Brien"
+      ],
+      "WhyFansCare": "It’s part of the original DS9 trio—before the show’s scale expands and the runabouts start dropping like redshirts."
+    },
+    {
+      "Name": "USS Yangtzee Kiang",
+      "ClaimToFame": "An early DS9 runabout that is lost very early in the station’s Starfleet era.",
+      "PeopleConnected": [
+        "Deep Space 9 crew"
+      ],
+      "WhyFansCare": "It’s the first big reminder that DS9’s ‘small ship’ missions can end permanently."
+    },
+    {
+      "Name": "USS Orinoco",
+      "ClaimToFame": "Destroyed by sabotage from the Cardassian True Way in 2372; the crew escapes via transport at the last moment.",
+      "PeopleConnected": [
+        "Benjamin Sisko",
+        "Kira Nerys",
+        "Worf",
+        "Jadzia Dax",
+        "Miles O’Brien"
+      ],
+      "WhyFansCare": "Because DS9 can blow up a runabout in an episode that’s also doing genre comedy—and make both halves land."
+    },
+    {
+      "Name": "USS Mekong (NCC-72617)",
+      "ClaimToFame": "Assigned to DS9 as a replacement for the Ganges; later left behind/abandoned in 2371.",
+      "PeopleConnected": [
+        "Deep Space 9 crew"
+      ],
+      "WhyFansCare": "One of the clearest examples of the show treating runabouts as a rotating pool of names, registries, and fates."
+    },
+    {
+      "Name": "USS Rubicon (NCC-72936)",
+      "ClaimToFame": "Assigned to DS9 in late 2371; famously associated with the ‘One Little Ship’ anomaly incident.",
+      "PeopleConnected": [
+        "Benjamin Sisko",
+        "Dax",
+        "Worf",
+        "O'Brien",
+        "Bashir"
+      ],
+      "WhyFansCare": "It’s a runabout episode that fans remember instantly—because it weaponizes scale and claustrophobia in a way only DS9 would."
+    },
+    {
+      "Name": "USS Shenandoah (NCC-73024)",
+      "ClaimToFame": "Another DS9‑assigned runabout; prominently used in later‑series missions and ultimately abandoned.",
+      "PeopleConnected": [
+        "Worf"
+      ],
+      "WhyFansCare": "It’s a reminder that even ‘routine’ station craft end up in the thick of late‑series DS9 drama."
+    }
+  ],
+  "BehindTheScenes": {
+    "DesignIntent": "DS9 needed a craft that could credibly do starship‑adjacent stories without stealing the spotlight from the station. The runabout bridges that gap: bigger than a shuttle, smaller than a hero ship.",
+    "VisualInspiration": "Designed for a practical, modular look—something that reads like Starfleet built it in numbers and expects to reconfigure it.",
+    "ProductionTriviaForFans": "DS9 leaned on both physical and CG work for runabout shots; later episodes benefitted from a computer‑generated model for complex flight sequences that would have been difficult with motion control."
+  },
+  "FanNotes": {
+    "IfYouOnlyReadOneThing": "The Danube class is DS9’s secret sauce: it turns a station into a show that can go anywhere, and it turns ‘take a shuttle’ into ‘take a ship with consequences.’",
+    "WhyItStillWorksToday": "It’s a design that feels believable in-universe: modular, multi‑role, just capable enough to get into trouble and just fragile enough to make you worry."
+  },
+  "Review": "Deep Space Nine is a story about a place—about politics that stick to you, relationships that can’t be escaped, and a frontier that keeps walking into the room. The Danube‑class runabout is how DS9 refuses to be trapped by that place. It’s the door that opens when the plot needs to leave the station without dragging a full starship into every problem.\n\nEarly on, the runabout is pure possibility: a small crew, a flexible loadout, and just enough range to make the Gamma Quadrant feel close. That’s why the class becomes inseparable from DS9’s foundational canon—most famously through the Rio Grande’s mission that leads to the discovery of the Bajoran wormhole. It’s a small‑craft moment with huge consequences, and it tells you what kind of show DS9 is willing to be.\n\nThen DS9 does what DS9 always does: it turns the practical into the personal, and the personal into the dangerous. A runabout can carry a science team, a diplomatic party, or a handful of tired officers who expected a routine flight. It can also carry the show’s tension in a tight, unavoidable space—where the argument can’t be walked away from and the threat can’t be handed off to someone else.\n\nAnd when the setting hardens into war, the Danube class stays useful because it’s exactly the size DS9 needs. It can slip out fast on rescues, patrols, and covert errands that would be wasted screen time on a bigger ship. At the same time, it remains fragile enough that every chase has bite: you feel the risk because the show is perfectly willing to destroy one. That willingness is so consistent it becomes a joke in‑universe—Kira’s ‘so many rivers’ line—because DS9 only jokes about things that hurt.\n\nThe result is one of Trek’s most successful ‘supporting cast’ designs. You might not hang a franchise on a Danube‑class hull, but DS9 quietly hangs whole stretches of its storytelling on it—and by the time you reach late seasons, seeing a runabout launch feels like a promise: something important is about to happen off the station, and somebody might not make it back.",
+  "Notes": "Two canon facts define how fans talk about Danube‑class runabouts: they’re everywhere around DS9, and they’re oddly disposable. Memory Alpha’s roster of named runabouts reads like a casualty list with punchlines—Ganges, Yangtzee Kiang, Mekong, Orinoco, Rubicon, Shenandoah—each with a quick identity and a very real chance of a bad end. The Rio Grande stands out largely because it keeps surviving long enough to become ‘the’ runabout.\n\nThe class’ modular vibe is part of the appeal. When a story needs the runabout to be more than transport, DS9 can dress it as a sensor platform or a specialized mission craft without breaking the illusion. That includes the recognizable dorsal ‘rollbar’/sensor‑pod look the show uses when it wants the silhouette to read as upgraded or task‑specific.\n\nWatch how DS9 uses runabouts as character pressure cookers. The Defiant is a warship and the station is a community; the runabout is neither. It’s a temporary home where rank friction, friendship, and fear all have to share the same air. That’s why so many memorable DS9 conversations happen in runabout seats.\n\nIf you’re adding one runabout image to your mental scrapbook, it’s the classic three‑quarter view: wedge nose, tall cabin, Starfleet gray, and engine glow against a cold starfield. It’s the ‘we’re going out there again’ shot—the quiet breath before DS9 inevitably turns the dial.",
+  "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Danube%20(Final).png"
+}
 ]
