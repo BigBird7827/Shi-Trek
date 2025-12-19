@@ -479,27 +479,234 @@
   "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/BirdofPrey%20(Final).png"
 },
   {
-    "ID": "klingon-neghvar",
-    "Name": "Negh'Var-class warship",
-    "Affiliation": "Klingon Empire",
-    "Category": "Ship class",
-    "Era": "24th century (DS9 era)",
-    "Tagline": "",
-    "Review": "",
-    "Notes": "",
-    "ImageURL": ""
+  "ID": "neghvar-warship",
+  "Name": "Negh'Var-class warship",
+  "Affiliation": "Klingon Empire / Klingon Defense Force",
+  "Category": "Klingon",
+  "Era": "Late 24th century",
+  "Tagline": "The Klingon sledgehammer: a flagship-sized warship built to make an empire’s threats feel real.",
+  "AtAGlance": {
+    "WhatFansRemember": [
+      "The ‘new Klingon flagship’ decloaking at DS9—followed by an entire armada doing the same",
+      "General Martok’s request for shore leave that turns into a fleet-level ultimatum",
+      "That unmistakable scale jump from Birds-of-Prey and Vor’cha silhouettes to something heavier",
+      "DS9’s framing: wide shots and station comparisons that sell the ship as a capital-ship statement",
+      "The ship’s name becoming shorthand for Klingon high-level power projection"
+    ],
+    "FleetRole": "Flagship-capable heavy warship/cruiser used for fleet leadership and major assaults.",
+    "Armament": "Disruptors and photon torpedoes.",
+    "Defenses": "Deflector shields and a cloaking device."
   },
+  "WhyItMatters": {
+    "InUniverse": "The Negh’Var is what the Klingon Empire uses when it wants the threat to be unmistakable. It’s a flagship-sized warship meant to command attention, rally fleets, and carry political weight—because Klingon politics is always conducted with a visible blade nearby (or a hidden one, right up until decloak).",
+    "InFranchiseHistory": "DS9 needed the Klingons to feel like a major power with their own escalation curve. The Negh’Var supplies that instantly: larger, meaner, and presented like a boss-level reveal. It becomes one of DS9’s signature ship-class icons, communicating stakes before anyone says a word."
+  },
+  "SignatureLook": {
+    "Silhouette": "A massive Klingon capital ship with a broad, aggressive profile that still reads as Klingon lineage—heavy forward mass, wing-like extensions, and prominent weapon-pod geometry.",
+    "VisualLanguage": "Vor’cha-family lines scaled up into flagship architecture—less raider, more floating fortress."
+  },
+  "OnScreenCanon": {
+    "FirstFlagshipReveal": "In early 2372, the IKS Negh'Var is announced as the new Klingon flagship and decloaks at Deep Space 9.",
+    "AnchorMomentsForFans": [
+      {
+        "Moment": "The Negh’Var decloaks at DS9, followed by an armada of Klingon ships decloaking around the station.",
+        "Where": "DS9 – “The Way of the Warrior”",
+        "WhyItSticks": "DS9 escalation in one image: Klingons came to fight, and they brought a flagship."
+      },
+      {
+        "Moment": "The ship participates in the DS9 confrontation and breaches the station’s shields long enough to transport troops aboard.",
+        "Where": "DS9 – 2372 arc",
+        "WhyItSticks": "A flagship that isn’t ceremonial—it’s framed as an operational threat."
+      },
+      {
+        "Moment": "Negh’Var-type cruisers appear in a possible future and an alternate timeline scenario.",
+        "Where": "TNG – “All Good Things...” / VOY – “Endgame” (alternate timeline)",
+        "WhyItSticks": "A fun on-screen echo that the silhouette persists as shorthand for ‘heavy Klingon threat.’"
+      }
+    ],
+    "CloakNote": "The class is equipped with a cloaking device."
+  },
+  "RoleAndDoctrine": {
+    "HowItsUsed": [
+      "Flagship presence for high command and fleet operations",
+      "Spearhead assaults and station pressure in major engagements",
+      "Psychological warfare: decloak a ship this large and the other side’s risk calculus changes instantly",
+      "A command ship that can still hit like a battering ram"
+    ],
+    "WhatItSignalsWhenItShowsUp": [
+      "The Empire is committed—this isn’t a border raid",
+      "Politics at the point of a disruptor",
+      "A fight that’s about to become very public"
+    ]
+  },
+  "SystemsAndCapabilities": {
+    "Weapons": {
+      "Primary": [
+        "Disruptors",
+        "Photon torpedoes"
+      ],
+      "FanFacingRead": "Negh’Var doesn’t need to be subtle. DS9 frames it as a ship that can trade with serious defenses and keep coming—exactly what you want a flagship to imply."
+    },
+    "Defenses": {
+      "Shields": "Deflector shields.",
+      "Cloak": "Cloaking device; used as part of its intimidation factor in its debut."
+    },
+    "ScaleAndPresence": {
+      "HowBigItFeels": "Presented as the largest class of Klingon cruiser known to operate in the late 24th century.",
+      "TacticalImplication": "A ship this large that can cloak is a message: Klingon fleets can arrive unseen and still hit like a sledgehammer."
+    }
+  },
+  "LifeAboard": {
+    "Tone": "A flagship is a moving court as much as a warship. The Negh’Var reads as a place where politics, command authority, and military ceremony coexist—often uneasily.",
+    "CrewCulture": "The ship’s presence implies constant scrutiny: crews are expected to embody honor, competence, and absolute readiness—because the Empire is watching."
+  },
+  "NotableShipsAndSightings": [
+    {
+      "Name": "IKS Negh'Var",
+      "ClaimToFame": "Klingon flagship in 2372; commanded by a changeling impersonating General Martok during the Cardassian invasion and the battle at DS9.",
+      "WhyFansCare": "It’s the hull that announces ‘DS9 Klingon escalation.’ One decloak and the tone shifts."
+    },
+    {
+      "Name": "Deep Space 9 confrontation",
+      "ClaimToFame": "The Negh’Var breaches the station’s shields long enough to transport troops aboard during the Klingon assault.",
+      "WhyFansCare": "A reminder that the flagship’s job is to make impossible plans suddenly viable."
+    }
+  ],
+  "BehindTheScenes": {
+    "OnScreenScalePractice": "Production staff have discussed using a very large length for on-screen scaling, reinforcing its ‘largest cruiser’ presentation.",
+    "DesignLineage": "The design resembles the Vor’cha-class attack cruiser family, scaled up into a flagship-sized warship.",
+    "ConceptNotes": "Early concept ideas explored detachable or multi-component elements in development, reflecting how the final silhouette evolved."
+  },
+  "FanNotes": {
+    "IfYouOnlyReadOneThing": "Negh’Var is DS9’s Klingon punctuation mark: it arrives, decloaks, and the conversation ends.",
+    "WatchFor": "How DS9 frames it: wide shots, low angles, and station-scale comparisons—visual storytelling doing half the intimidation."
+  },
+  "Review": "The Negh’Var-class warship is DS9’s Klingon escalation button, and the show hits it with style: it doesn’t need a technical briefing, it needs a decloak. In *The Way of the Warrior*, DS9 gives the ship a stage—the station—and then lets sheer mass do the talking. When the Negh’Var appears, it’s instantly clear the Klingons aren’t posturing. They arrived to impose will.\n\nThe design lands because it feels like a Klingon idea taken to its logical extreme. You can still read the Empire’s cruiser lineage in the contours, but everything is scaled up into ‘flagship architecture.’ It looks like a ship meant to lead, not merely participate. Even before anyone fires a disruptor, it’s a political statement in hull form.\n\nDS9 doubles down by pairing the Negh’Var with an armada decloak. That’s not just a cool VFX moment—it’s story logic. A flagship needs a fleet, and a fleet needs a symbol. The Negh’Var becomes that symbol, the ship you remember when you think of the Klingon crisis turning hot.\n\nThere’s also a very DS9 irony baked into its most famous era: the Negh’Var’s authority is part of how deception at the highest level gains momentum. A changeling posing as Martok uses the ship’s command presence as leverage—proof that in DS9, politics can be as lethal as phasers.\n\nThe Negh’Var endures because it’s not merely ‘the biggest Klingon cruiser.’ It’s the feeling of Klingon power, distilled into a silhouette: heavy, confident, and perfectly willing to disappear behind a cloak until the moment it chooses to strike.",
+  "Notes": "If you’re cataloging Klingon ships, the Negh’Var is the clean dividing line between ‘Klingons are dangerous’ and ‘Klingons can throw capital-ship weight around whenever the plot needs it.’ That’s why it becomes an instant touchstone: it’s the ship you remember from the moment DS9’s Klingon crisis stops being a disagreement and becomes a campaign.\n\nCanon descriptions and Memory Alpha summaries treat it as the largest class of Klingon cruiser known to operate in the late 24th century, and the show consistently shoots it to sell that. Even when it’s surrounded by familiar Birds-of-Prey and Vor’cha silhouettes, the Negh’Var reads like the fleet’s center of gravity.\n\nOne useful canon-clean distinction: you’ll sometimes see ‘Negh’Var-type’ variants in alternate-future or alternate-timeline contexts. Those are still on-screen, but they’re not necessarily the exact same baseline configuration as the prime-timeline warship. In a ships library, it’s safest to keep your main entry grounded in the DS9-era flagship presentation, and treat speculative-future variants as a sighting note rather than a spec change.\n\nFor fans, the Negh’Var pairs beautifully with the Bird-of-Prey: one is the Empire’s knife, the other is the Empire’s hammer. Put them side by side and Klingon doctrine becomes intuitive without ever needing a manual.",
+  "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Neg'Var%20(Final).png"
+},
   {
-    "ID": "klingon-ktinga",
-    "Name": "K't'inga-class battlecruiser",
-    "Affiliation": "Klingon Empire",
-    "Category": "Ship class",
-    "Era": "23rd–24th century",
-    "Tagline": "",
-    "Review": "",
-    "Notes": "",
-    "ImageURL": ""
+  "ID": "ktinga-class",
+  "Name": "K't'inga-class battle cruiser",
+  "Affiliation": "Klingon Empire / Klingon Defense Force",
+  "Category": "Klingon",
+  "Era": "23rd–24th century",
+  "Tagline": "The movie-era Klingon cruiser: a D7 lineage with heavier skin, sharper teeth, and enough history to still be flying when the Dominion War arrives.",
+  "AtAGlance": {
+    "WhatFansRemember": [
+      "The TMP redesign: familiar D7 bones, but with movie-detail surface plating and a more menacing ‘real ship’ presence",
+      "Three Klingon cruisers erased by V’ger—an opening act that instantly sells the scale of the threat",
+      "Kronos One escorting the Enterprise-A in *The Undiscovered Country*—the warship that becomes a diplomatic stage",
+      "That VOY ‘Flashback’ moment where a K’t’inga can still make an Excelsior-class crew sweat",
+      "Old hulls refitted and still fighting in DS9—because Klingons don’t retire a proven blade"
+    ],
+    "TopSpeed": "Warp 5",
+    "FleetRole": "Primary heavy cruiser/battle cruiser used for patrol, deterrence, and fleet actions; later refitted to remain frontline-capable.",
+    "Defenses": "Deflector shields and a cloaking device."
   },
+  "WhyItMatters": {
+    "InUniverse": "The K’t’inga is the Klingon answer to ‘a ship that can be everywhere.’ It’s big enough to throw its weight around on borders, common enough to be a daily sight, and durable enough to keep returning after the Empire’s tech and politics shift. By the 2370s it’s the kind of veteran hull Klingons still trust—refitted, upgraded, and sent right back into the worst places.",
+    "InFranchiseHistory": "It’s one of Trek’s most important ship evolutions: the Original Series D7 made cinematic. The K’t’inga keeps the iconic silhouette but upgrades the texture and menace for film, then sticks around long enough to become a visual bridge from TOS/TMP to DS9’s war years. Few ‘supporting’ designs carry that much era-to-era continuity."
+  },
+  "SignatureLook": {
+    "Silhouette": "Classic Klingon cruiser planform: bulbous command pod, long neck, and broad swept wings—recognizably descended from the D7 but bulked up and detailed for the big screen.",
+    "SurfaceCharacter": "Movie-era hull detail: layered plating, vents, and mechanical texture that reads as industrial and militarized rather than smooth or elegant.",
+    "IconicVibe": "A predator that’s confident enough to show itself—until it decides not to."
+  },
+  "OnScreenCanon": {
+    "ServiceWindow": "Active from the 2250s through the 2370s.",
+    "AnchorMomentsForFans": [
+      {
+        "Moment": "Three K’t’inga-class cruisers destroyed by V’ger.",
+        "Where": "Star Trek: The Motion Picture",
+        "WhyItSticks": "It’s the fastest way possible to establish V’ger as an apex-scale threat: Klingon warships are simply erased."
+      },
+      {
+        "Moment": "Kronos One carries the Klingon Chancellor to meet the Enterprise-A on the road to peace talks.",
+        "Where": "Star Trek VI: The Undiscovered Country",
+        "WhyItSticks": "A warship becomes a diplomatic set—proof that in Trek, politics is often conducted at phaser range."
+      },
+      {
+        "Moment": "K’t’inga-class ships remain credible opponents in later-era encounters, including the ‘Flashback’ confrontation.",
+        "Where": "Star Trek: Voyager – “Flashback”",
+        "WhyItSticks": "It sells the idea that Klingon designs age into ‘tough old knives’ rather than obsolete antiques."
+      },
+      {
+        "Moment": "Refitted K’t’inga-class cruisers still show up amid Dominion War-era fleet operations.",
+        "Where": "Star Trek: Deep Space Nine (multiple episodes)",
+        "WhyItSticks": "DS9 uses them as living history: the Empire’s older steel still in the line when everything goes to war."
+      }
+    ],
+    "CloakNote": "The class is equipped with a cloaking device."
+  },
+  "RoleAndDoctrine": {
+    "HowItsUsed": [
+      "Border deterrence and patrol: show the flag, cloak when necessary, and make the other side do the math",
+      "Fleet warfare: line-of-battle cruiser work alongside Birds-of-Prey and newer attack cruisers",
+      "Escorts for high-value missions (including diplomatic transport) when the Empire wants muscle nearby",
+      "Refit platform: upgraded systems keep the hull relevant across decades"
+    ],
+    "WhatItSignalsWhenItShowsUp": [
+      "A Klingon presence intended to be taken seriously",
+      "A situation that can turn from conversation to combat fast",
+      "A veteran ship—and a veteran crew—still trusted with real work"
+    ]
+  },
+  "SystemsAndCapabilities": {
+    "Weapons": {
+      "Primary": [
+        "Disruptor-based primary weapons (Klingon standard for the type)",
+        "Torpedo armament"
+      ],
+      "FanFacingRead": "K’t’inga fights like a heavyweight: it wants a clear shot, a hard strike, and a quick finish—ideally after choosing the engagement from cloak."
+    },
+    "Defenses": {
+      "Shields": "Deflector shields.",
+      "Cloak": "Cloaking device."
+    },
+    "Propulsion": {
+      "Warp": "Listed top speed of warp 5.",
+      "Handling": "On screen it reads as steady and imposing rather than nimble—an old-school cruiser that commits to its line."
+    },
+    "LongevityAndRefits": {
+      "WhatChangesOverTime": "Later-era depictions treat surviving ships as refitted and upgraded to remain credible into the 2370s.",
+      "WhyFansCare": "It’s Trek’s Klingon equivalent of the ‘old workhorse’ hulls: still present, still dangerous, still useful."
+    }
+  },
+  "LifeAboard": {
+    "Tone": "Martial, hierarchical, tradition-heavy. The ship’s scale implies real shipboard communities—warrior crews who live with their vessel’s history and reputation.",
+    "BridgeFeel": "Utilitarian and aggressive: built to fight first, command second, impress last."
+  },
+  "NotableShipsAndSightings": [
+    {
+      "Name": "Kronos One",
+      "ClaimToFame": "Flagship assignment in the 2290s; carried the Klingon Chancellor to rendezvous with the Enterprise-A en route to peace talks.",
+      "WhyFansCare": "Warship as treaty escort—K’t’inga at its most politically charged."
+    },
+    {
+      "Name": "V’ger encounter cruisers",
+      "ClaimToFame": "Three K’t’inga-class vessels destroyed in 2273 during the Klingon encounter with V’ger.",
+      "WhyFansCare": "One of Trek’s most memorable ‘power scale’ cold opens."
+    },
+    {
+      "Name": "Refitted 2370s cruisers",
+      "ClaimToFame": "K’t’ingas remain in service and appear in DS9-era Klingon operations, including Dominion War timeframe scenes.",
+      "WhyFansCare": "A visual promise that the Empire’s older ships still matter when the galaxy catches fire."
+    }
+  ],
+  "BehindTheScenes": {
+    "Origins": "The K’t’inga design debuted for *Star Trek: The Motion Picture* as the film-era evolution of the TOS D7 silhouette, with greatly increased surface detail for cinematic close-ups.",
+    "DesignLineage": "It preserves the iconic D7 outline while translating it into a more textured, industrial movie aesthetic.",
+    "ProductionNotes": "The class persists across later productions via models and CG, often serving as the franchise’s ‘classic Klingon cruiser’ shorthand."
+  },
+  "FanNotes": {
+    "IfYouOnlyReadOneThing": "K’t’inga is Klingon continuity made physical: the same brutal outline, upgraded for every new era, still intimidating whether it’s escorting a Chancellor or showing up in a 2370s war.",
+    "WatchFor": "Whenever Trek wants ‘Klingons’ to feel established—older, deeper, and still dangerous—this silhouette is one of its quickest visual shortcuts."
+  },
+  "Review": "The K’t’inga-class battle cruiser is one of those Star Trek designs that doesn’t just show up—it carries the weight of the franchise’s timeline with it. It arrives in *The Motion Picture* looking like the D7 grew up, got armored, and discovered how frightening it can be when the camera has the budget to linger. And then, instead of vanishing as a one-film flourish, it refuses to leave Trek’s stage.\n\nThe class’ most famous early beat is also its most brutal: three Klingon cruisers meet V’ger and are simply erased. That moment works precisely because the ships look capable—big enough to matter—so their destruction lands like a warning flare shot across the quadrant. Trek is telling you, with minimal dialogue, that the galaxy just got smaller.\n\nBy *The Undiscovered Country*, the K’t’inga’s job becomes more interesting than ‘combatant.’ Kronos One carries the Klingon Chancellor to rendezvous with the Enterprise-A on the road to peace, turning a warship into a diplomatic platform. It’s a classic Klingon compromise: yes, we’ll talk—while standing on a deck that can vaporize you.\n\nWhat makes the K’t’inga special, though, is longevity. In later-era stories it reads as a veteran hull: refitted, upgraded, still trusted. DS9’s fleet language leans on that idea—older Klingon steel still in the line when the Dominion War demands everything the Empire can throw into space. Voyager’s ‘Flashback’ reinforces the same vibe: this isn’t an antique, it’s an old knife that still cuts.\n\nFor a ships library, the K’t’inga is a perfect connective tissue object. It links the swagger of TOS-era Klingon power to the movie-era ‘real ship’ aesthetic, and then to DS9’s grim logistics where even the classics must fight again. Few designs are so immediately recognizable—and so useful as a timeline spine.",
+  "Notes": "A clean way to file the K’t’inga in your head is ‘D7 lineage made cinematic.’ The silhouette is deliberately familiar, but the finish is the point: movie-grade surface detail that sells scale, weight, and menace. That upgrade is why the ship looks at home in film, and why it can still show up in DS9-era fleet shots without feeling like a relic.\n\nCanon listings for the class include a warp 5 top speed, which can surprise people because on screen the K’t’inga often *feels* faster than that. That gap is part Trek, part filmmaking: pacing, framing, and the way a ship is introduced can make a cruiser read like a hunter even when the numbers are conservative.\n\nIf you’re keeping entries canon-tight, it’s best to talk about its systems in terms Trek consistently supports: cloak, shields, disruptor-and-torpedo Klingon armament, and the fact that the Empire keeps the class in service for a very long time. Detailed ‘spec sheets’ vary across reference products, so the safest, most fan-useful approach is to lean on what the ship *does* on screen and what reputable canon summaries (like Memory Alpha’s technical data) consistently agree on.\n\nAs a viewing guide: watch how often the K’t’inga is used as a visual shortcut for ‘Klingons with history.’ When the franchise wants the Empire to feel established—older, deeper, and still dangerous—this is one of the silhouettes it reaches for.",
+  "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/K't'inga%20(Final).png"
+},
   {
     "ID": "klingon-vorcha",
     "Name": "Vor'cha-class attack cruiser",
