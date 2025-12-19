@@ -558,38 +558,399 @@
     "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Enterprise-D%20(Final).png"
   },
     {
-    "ID": "uss-voyager-ncc-74656",
-    "Name": "USS Voyager (NCC-74656)",
-    "Affiliation": "Federation",
-    "Category": "Starship",
-    "Era": "24th century (VOY era)",
-    "Tagline": "",
-    "Review": "",
-    "Notes": "",
-    "ImageURL": ""
+  "ID": "uss-voyager-ncc-74656",
+  "Name": "USS Voyager (NCC-74656)",
+  "Affiliation": "Federation",
+  "Category": "Starship",
+  "Era": "24th century (TNG/DS9/VOY era)",
+  "Tagline": "An Intrepid-class long-range explorer pulled off its first assignment and hurled to the Delta Quadrant—then held its crew together for seven hard years on the far side of the galaxy.",
+  "AtAGlance": {
+    "WhatFansRemember": [
+      "The sleek Intrepid-class profile and variable-geometry warp nacelles",
+      "The Badlands mission that becomes an accidental exile: 70,000 light-years from home",
+      "Janeway’s command style: science-minded, stubborn, and relentlessly protective of her crew",
+      "A blended Starfleet–Maquis crew forced to become one team overnight",
+      "Bio-neural gel packs and the ship’s unusually “organic” systems quirks",
+      "The Doctor evolving from emergency program into a full member of the crew",
+      "Delta Quadrant survival: alliances, moral compromises, and constant repairs with limited resources",
+      "The long-awaited return home—and the sense that the ship came back changed"
+    ],
+    "CrewComplement": "Standard Starfleet complement supplemented by Maquis survivors; on screen, the ship operates with a tight, familiar ensemble whose roles expand as resources shrink.",
+    "TopSpeed": "Not stated consistently on screen; portrayed as a fast, agile mid‑2370s explorer capable of sustained high-warp flight when systems are healthy.",
+    "FleetRole": "Intrepid-class explorer / science vessel adapted into a self-sustaining long-range survival ship."
   },
+  "WhyItMatters": {
+    "InUniverse": "Voyager becomes a stress test of Starfleet ideals under isolation. With no resupply, no reinforcements, and no easy way home, every principle—rules of engagement, first-contact ethics, the Prime Directive—gets pushed into situations where there is no clean answer. The ship’s story is less about being the strongest hull in space and more about how a crew keeps its identity intact while improvising every day for years.",
+    "InFranchiseHistory": "Voyager turns the starship into a home-in-motion again, but with a survival edge. It’s a series built around the idea that the ship isn’t a luxury platform; it’s the only shelter the characters have. That produces a distinctive tone: episodic wonder mixed with an ongoing pressure to conserve, repair, and adapt. The ship’s silhouette and nacelle “swing” become as recognizable as the moral dilemmas that define the show."
+  },
+  "SignatureLook": {
+    "SilhouetteAndDetails": "A compact, aerodynamic Starfleet hull with a smooth, integrated saucer and a distinctive raised dorsal section that reads as purposeful rather than decorative. The variable-geometry nacelles give Voyager a unique stance, especially when the pylons articulate—an unmistakable “this ship is doing something” visual cue even at a distance.",
+    "InteriorsAndMood": "Voyager’s spaces feel practical and bright: a bridge built for fast decisions, a cramped-but-functional engineering environment, and a lived-in vibe that gradually shifts from “new ship” cleanliness to “long voyage” wear. As the years pass, the ship’s mood is defined by familiarity—everyone knows every corridor because they’ve kept them running by hand."
+  },
+  "OnScreenCanon": {
+    "FirstOnScreenUse": "Launched on its first major assignment to pursue a Maquis raider in the Badlands, then displaced to the Delta Quadrant in 2371.",
+    "NotableCanonWindows": [
+      "2371: Badlands mission and displacement to the Delta Quadrant; crew re-forms as a blended Starfleet–Maquis team",
+      "2372–2376: sustained travel and repeated conflicts/alliances across the Delta Quadrant under constant resource constraints",
+      "2377: escalation of long-range strategy and major encounters that reshape the crew’s capabilities and risks",
+      "2378: return to the Alpha Quadrant"
+    ],
+    "AnchorMomentsForFans": [
+      {
+        "Moment": "The choice that strands the ship: ending the caretaker’s array rather than using it to go home.",
+        "Where": "VOY: “Caretaker”",
+        "WhyItSticks": "It defines the series in one decision: Voyager will survive, but not by taking an easy exit that would abandon others."
+      },
+      {
+        "Moment": "A desperate alliance with the Borg to face Species 8472.",
+        "Where": "VOY: “Scorpion”",
+        "WhyItSticks": "It forces the crew to negotiate with their worst nightmare and makes strategy feel like moral roulette."
+      },
+      {
+        "Moment": "A full-season-scale loss spiral and the sense of the ship being worn down by time and attrition.",
+        "Where": "VOY: “Year of Hell”",
+        "WhyItSticks": "It captures the fantasy of what Voyager’s entire journey could have looked like if the galaxy never let up."
+      },
+      {
+        "Moment": "The return home—earned, complicated, and not quite the simple victory everyone imagined.",
+        "Where": "VOY: “Endgame”",
+        "WhyItSticks": "It closes the odyssey while reminding you that seven years of survival leaves a mark on people and on ships."
+      }
+    ]
+  },
+  "RoleAndDoctrine": {
+    "StrategicRole": "A fast, modern explorer built for science, reconnaissance, and independent operations—then repurposed by circumstance into a long-duration, self-reliant ship that has to do everything: diplomacy, defense, rescue, and repair with what it can carry.",
+    "TypicalMissions": "Scientific survey; anomaly investigation; first contact; humanitarian response; tactical escort when required; in the Delta Quadrant, sustained travel punctuated by negotiated passage, trade, and occasional forced engagements."
+  },
+  "SystemsAndCapabilities": {
+    "Weapons": {
+      "Primary": [
+        "Phaser arrays appropriate to late‑24th‑century Starfleet service",
+        "Photon torpedoes (with supply pressure becoming a recurring practical constraint)"
+      ],
+      "HowItFights": "Voyager’s combat style is pragmatic: avoid fights when possible, hit hard when cornered, and use science as leverage. Many of the ship’s best wins come from turning sensors, field effects, and engineering improvisation into tactics rather than trading firepower straight-up."
+    },
+    "Defenses": {
+      "Shields": "Standard Starfleet defensive shielding of the era, often stressed by repeated combat and the lack of resupply.",
+      "DamageAndVulnerability": "Voyager’s stories regularly treat damage as cumulative. Systems fail, backups get cannibalized, and the ship survives by triage: keeping the essentials running while accepting that not everything can be restored immediately."
+    },
+    "Propulsion": {
+      "Warp": "Late‑24th‑century warp drive with variable-geometry nacelles as a defining feature; portrayed as agile and efficient, but still vulnerable to long-term wear and catastrophic failures.",
+      "Impulse": "Responsive handling, often emphasized in close-range maneuvers and rapid course changes during anomalies and pursuits."
+    },
+    "MissionFlex": {
+      "ScienceFit": "A strong sensor and lab suite used constantly as a problem-solving engine; scientific method is often the ship’s primary weapon.",
+      "AdaptationFit": "Across the journey, Voyager integrates unfamiliar tech and tactics under pressure, expanding capability without losing its Starfleet identity."
+    }
+  },
+  "LifeAboard": {
+    "DailyLife": "Voyager feels like a small city that can’t stop moving. Departments run in shifts, everybody cross-trains out of necessity, and routines become rituals that keep morale stable. Over time, the ship’s culture is shaped by scarcity: you repair first, you replicate second, and you learn to value people and tools that would be replaceable back home.\n\nWhat makes Voyager memorable is how normal life persists anyway. The crew still finds time for meals, holodeck breaks, celebrations, and traditions, because those small patterns are how they stay human. By the middle years of the journey, the ship reads less like a brand-new commission and more like a lived-in home—one the crew has earned by keeping it running with ingenuity and sheer stubbornness.",
+    "CrisisMode": "In emergencies, Voyager runs on fast coordination and creative engineering. Damage control is constant, and command decisions often involve weighing immediate survival against long-term consequences. The ship’s best crisis moments are usually the ones where science, ethics, and tactics collide—and the crew has to pick a path quickly with incomplete information."
+  },
+  "NotableShipsAndSightings": [
+    {
+      "Name": "USS Voyager (NCC-74656) — Badlands deployment",
+      "ClaimToFame": "Assigned to locate and apprehend a Maquis raider in the Badlands; the mission becomes the ship’s defining turning point.",
+      "PeopleConnected": [
+        "Kathryn Janeway",
+        "Chakotay",
+        "Tuvok",
+        "Tom Paris"
+      ],
+      "WhyFansCare": "Because the series is born from a routine assignment turning into a one-way trip."
+    },
+    {
+      "Name": "USS Voyager (NCC-74656) — Delta Quadrant odyssey",
+      "ClaimToFame": "Sustains seven years of travel, diplomacy, and conflict far from Federation support while maintaining a coherent crew identity.",
+      "PeopleConnected": [
+        "Kathryn Janeway",
+        "The Doctor",
+        "B'Elanna Torres",
+        "Harry Kim",
+        "Seven of Nine"
+      ],
+      "WhyFansCare": "Because the ship becomes a character: a home that survives by stubborn competence."
+    },
+    {
+      "Name": "USS Voyager (NCC-74656) — return to the Alpha Quadrant",
+      "ClaimToFame": "Reaches home in 2378 after an extraordinary journey that reshapes the crew and the ship’s place in Starfleet history.",
+      "PeopleConnected": [
+        "Kathryn Janeway"
+      ],
+      "WhyFansCare": "Because the payoff feels earned—and bittersweet."
+    }
+  ],
+  "BehindTheScenes": {
+    "DesignLineage": "The Intrepid-class was designed to look sleek and modern without the bulk of a Galaxy-class, giving Voyager a “fast science ship” identity that reads instantly in motion and in profile.",
+    "SignatureGimmick": "The variable-geometry nacelles were a distinctive visual hook that made the ship feel mechanically alive and helped differentiate it from earlier hero ships.",
+    "ProductionIdentity": "Voyager’s look supports the show’s premise: clean Starfleet lines that gradually accumulate the emotional weight of a long journey."
+  },
+  "FanNotes": {
+    "IfYouOnlyReadOneThing": "Voyager is the ship that proves the Federation isn’t just a location. It’s a set of choices a crew keeps making when nobody is there to reward them for it.",
+    "WatchFor": "How often the ship wins by thinking: reroutes, field tricks, sensor hacks, and negotiated solutions carry as much weight as torpedoes."
+  },
+  "Review": "Voyager works because it is built around a simple, brutal truth: you can be the most advanced ship in your neighborhood and still be completely alone. The Intrepid-class frame gives the story a clean, capable Starfleet baseline, but the premise immediately removes the safety net that usually comes with that baseline. From then on, the ship’s competence is never abstract. It is hands-on: repairs, substitutions, compromises, and the constant question of what you can afford to spend.\n\nThe ship’s design helps sell that. Voyager looks fast and modern, but not invincible. Its lines are efficient, its layout feels purposeful, and the variable-geometry nacelles give the sense of a system adapting in real time. That visual identity pairs perfectly with the narrative identity: a crew constantly adjusting to what the Delta Quadrant throws at them.\n\nVoyager’s greatest strength as a hero ship is that it is a moral engine. Isolation turns every decision into a test of values. When the crew chooses to help strangers, they spend irreplaceable time and resources. When they choose to keep moving, they accept that someone else will suffer without them. The show repeatedly uses the ship as the stage where those choices become personal, not philosophical.\n\nThe best Voyager stories also understand that survival is cumulative. Damage lingers. Supplies run thin. Relationships stretch and heal. The crew becomes a family not because the narrative says so, but because the ship forces them to be: they are the only Federation each other has. By the end, the return home matters, but what matters more is that Voyager arrives as proof that a Starfleet crew can stay itself even when the galaxy gives it every excuse to stop being that.",
+  "Notes": "Voyager’s core canon identity is tied to a very clear span: displaced in 2371 and home in 2378. That seven-year interval is the ship’s defining feature, because it forces a Starfleet vessel to operate like a frontier outpost that can never stop moving.\n\nThe ship’s most distinctive on-screen technology is the variable-geometry nacelle system and the use of bio-neural components, both of which help the Intrepid-class feel like a step forward from earlier designs. Those features also support storytelling: the nacelle motion is a visual signature, and the organic systems feel like something that can be stressed, healed, and improvised around.\n\nIf you want to keep Voyager’s writeups feeling consistent across the library, treat it as an explorer that becomes a survival ship. Its capabilities are impressive, but its defining trait is resilience under isolation: the crew’s ability to keep the ship intact, keep their ethics recognizable, and keep moving even when the most rational option would be to give up.",
+  "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Voyager%20(Sample%201).jpg"
+},
   {
-    "ID": "uss-defiant-nx-74205",
-    "Name": "USS Defiant (NX-74205)",
-    "Affiliation": "Federation",
-    "Category": "Starship",
-    "Era": "24th century (DS9 era)",
-    "Tagline": "",
-    "Review": "",
-    "Notes": "",
-    "ImageURL": ""
+  "ID": "uss-defiant-nx-74205",
+  "Name": "USS Defiant (NX-74205)",
+  "Affiliation": "Federation",
+  "Category": "Starship",
+  "Era": "24th century (DS9 era)",
+  "Tagline": "A purpose-built escort created to hit harder than a starship its size has any right to—mothballed as too intense, then reborn as Deep Space 9’s spearpoint in the Dominion War.",
+  "AtAGlance": {
+    "WhatFansRemember": [
+      "The compact, armored “tough little ship” silhouette that looks like it was designed to fight",
+      "Pulse phasers and torpedoes firing like a starship-sized autocannon",
+      "The prototype’s early instability: power and engines that nearly tore the ship apart",
+      "Assigned to Deep Space 9 as the Gamma Quadrant becomes a front line",
+      "A Romulan cloaking device and the political strings attached to using it",
+      "Worf taking the tactical seat and the ship becoming a moving extension of DS9’s command team",
+      "Defiant’s cameo in the Battle of Sector 001",
+      "Destruction at Chin’toka—one of the Dominion War’s sharpest gut-punches"
+    ],
+    "CrewComplement": "Small by Starfleet standards; on screen, the ship runs as a lean warship with a tight bridge team and a station-based support ecosystem.",
+    "TopSpeed": "Not stated consistently on screen; portrayed as extremely fast and maneuverable for its size once its systems are brought under control.",
+    "FleetRole": "Defiant-class escort / tactical strike ship designed for high-intensity combat and rapid response."
   },
+  "WhyItMatters": {
+    "InUniverse": "Defiant represents Starfleet admitting a hard lesson: sometimes exploration ships are not enough. Built in the shadow of the Borg threat and then thrown into the Dominion conflict, it is a ship shaped by fear and necessity. Its existence signals a shift toward concentrated firepower, survivability, and tactical agility—a vessel designed to protect the Federation when diplomacy fails.",
+    "InFranchiseHistory": "Defiant changes what a “hero ship” can be. It’s not a flying city, and it isn’t meant to be comfortable. It’s a combat craft with a bridge crew you already know from the station, which makes every fight feel personal. The ship’s presence also helps DS9’s tone: when Defiant shows up, the story language shifts from exploration to war footing."
+  },
+  "SignatureLook": {
+    "SilhouetteAndDetails": "A flattened, armored wedge with broad shoulders and a compact footprint—no long pylons, no graceful separation of sections. The ship reads as dense and reinforced, with recessed bays and panel breaks that suggest armor and service access rather than decorative styling. The dorsal superstructure gives it a “spine” and a recognizable centerline profile.",
+    "InteriorsAndMood": "Defiant feels like a working combat platform: tight spaces, direct layouts, and a bridge that prioritizes tactical flow. The ship’s mood is operational. Even at rest, it reads as a vessel built to launch, strike, and return."
+  },
+  "OnScreenCanon": {
+    "FirstOnScreenUse": "Introduced when Starfleet assigns the prototype Defiant to Deep Space 9 for operations connected to the Gamma Quadrant and the rising Dominion threat.",
+    "NotableCanonWindows": [
+      "2370–2371: the prototype’s early deployment and integration with DS9’s command team",
+      "2371–2375: sustained combat operations during escalating conflict and the Dominion War",
+      "2375: destroyed in battle during the Dominion War"
+    ],
+    "AnchorMomentsForFans": [
+      {
+        "Moment": "The ship’s arrival at DS9 and immediate identity as a warship rather than a cruiser.",
+        "Where": "DS9: “The Search”",
+        "WhyItSticks": "It’s a tonal pivot: the station gets teeth, and the Gamma Quadrant stops being an abstract mystery."
+      },
+      {
+        "Moment": "The cloak and its conditions, with a Romulan operator onboard.",
+        "Where": "DS9: “The Search”",
+        "WhyItSticks": "It makes the ship feel politically dangerous as well as tactically dangerous."
+      },
+      {
+        "Moment": "Defiant in the Battle of Sector 001.",
+        "Where": "Star Trek: First Contact",
+        "WhyItSticks": "A rare crossover that sells the ship as part of the wider Federation war posture."
+      },
+      {
+        "Moment": "The loss at Chin’toka.",
+        "Where": "DS9: “The Changing Face of Evil”",
+        "WhyItSticks": "Because the ship had become part of the cast, and its destruction lands like losing a character."
+      }
+    ]
+  },
+  "RoleAndDoctrine": {
+    "StrategicRole": "A compact strike escort designed to engage larger threats through concentrated firepower, strong defenses for its mass, and extreme maneuverability. In practice, it operates as a rapid-response warship that can be based near a conflict zone and deployed on short notice.",
+    "TypicalMissions": "Front-line patrol; convoy escort; strike raids; reconnaissance under cloak; rapid reinforcement; high-risk special missions where speed and firepower matter more than endurance and comfort."
+  },
+  "SystemsAndCapabilities": {
+    "Weapons": {
+      "Primary": [
+        "Pulse phasers as the ship’s signature close-to-mid range punch",
+        "Torpedoes (including quantum torpedoes in DS9-era combat)"
+      ],
+      "HowItFights": "Defiant fights like a brawler. It closes distance, stays on a target, and unloads in tight bursts rather than trading slow salvos. The ship’s small size and aggressive handling are part of the tactic: it is harder to hit cleanly, and it can keep pressure on an enemy’s shields with sustained fire."
+    },
+    "Defenses": {
+      "Shields": "Heavy shielding for its size; portrayed as able to take punishment that would overwhelm smaller craft, while still being vulnerable to specialized weapons and concentrated fleet fire.",
+      "DamageAndVulnerability": "The ship’s defining weakness is also its defining strength: pushing too much power through too small a frame creates stress. The narrative repeatedly treats Defiant as a ship that works because its crew manages margins—power, heat, and structural load."
+    },
+    "Propulsion": {
+      "Warp": "High-performance warp capability for a ship of its mass; framed as fast and responsive once its early issues are corrected.",
+      "Impulse": "Exceptional tactical agility; the ship’s close-range maneuvering is a core part of its on-screen identity."
+    },
+    "MissionFlex": {
+      "CloakUse": "Equipped with a Romulan cloaking device under specific political conditions, making stealth missions possible while creating ongoing oversight and tension.",
+      "WarPlatform": "Designed around combat integration: sensors, targeting, and weapons output feel like one system rather than separate departments."
+    }
+  },
+  "LifeAboard": {
+    "DailyLife": "Defiant is not built to be a floating community. It’s a deployment tool: crew up, launch, execute, recover. Because it’s often operated in direct support of Deep Space 9, the ship’s “home” is partly the station—Defiant is the blade, DS9 is the hand.\n\nThat relationship shapes crew life. Rotations, briefings, and mission prep feel more like a forward base than a deep-space cruise.",
+    "CrisisMode": "In a fight, Defiant becomes a single-purpose machine. The bridge runs on compressed decisions and rapid tactical adjustment. Damage control is immediate and localized, and the crew’s success is often about staying just stable enough to keep the guns and engines online."
+  },
+  "NotableShipsAndSightings": [
+    {
+      "Name": "USS Defiant (NX-74205) — prototype assignment to DS9",
+      "ClaimToFame": "Assigned to Deep Space 9 as Starfleet increases its operational reach into the Gamma Quadrant and prepares for conflict.",
+      "PeopleConnected": [
+        "Benjamin Sisko",
+        "Miles O'Brien",
+        "Kira Nerys"
+      ],
+      "WhyFansCare": "Because it transforms DS9 from a station that endures to a station that can strike."
+    },
+    {
+      "Name": "USS Defiant (NX-74205) — Dominion War service",
+      "ClaimToFame": "Serves as a front-line escort and strike platform through the war’s most dangerous phases.",
+      "PeopleConnected": [
+        "Benjamin Sisko",
+        "Worf"
+      ],
+      "WhyFansCare": "Because the ship’s fights become the show’s war heartbeat."
+    },
+    {
+      "Name": "USS Defiant (NX-74205) — loss at Chin’toka",
+      "ClaimToFame": "Destroyed in battle during the Dominion War, marking a major escalation in stakes and consequences.",
+      "WhyFansCare": "Because it’s one of the war arc’s most memorable emotional blows."
+    }
+  ],
+  "BehindTheScenes": {
+    "DesignIntent": "The ship was conceived to look and feel like a combat escort rather than a cruiser—dense, armored, and compact, with a visual language closer to a strike craft than a flagship.",
+    "ActionLanguage": "Pulse phasers and tight maneuvering were used to make space battles feel more kinetic, with Defiant functioning as the camera-friendly “fighter” of DS9’s fleet scenes.",
+    "StoryFunction": "Defiant gives DS9 mobility. It lets the station’s cast take the war to the front while keeping the station as the political and emotional center."
+  },
+  "FanNotes": {
+    "IfYouOnlyReadOneThing": "Defiant is Starfleet’s clenched fist: small enough to be underestimated, engineered to make that mistake costly.",
+    "WatchFor": "How the ship’s fights are staged as close-range brawls—tight angles, sustained bursts, and constant course corrections."
+  },
+  "Review": "Defiant is the rare Starfleet ship that looks like it was built with a single sentence on the drafting table: survive the first hit, land the next ten. Everything about the hull says reinforcement and access, not elegance. It is compact, dense, and unapologetically tactical, and that makes it instantly legible in a franchise where many ships communicate openness through broad, graceful lines.\n\nWhat makes Defiant work in Deep Space Nine is that it does not replace the station; it complements it. The station is politics, community, and consequence. Defiant is reach. It lets the same ensemble that debates ethics and treaties also execute patrols, raids, rescues, and battles where those debates turn into split-second decisions.\n\nThe ship’s on-screen personality is defined by aggression and control. It does not trade long, theatrical broadsides. It closes, sticks, and pours on sustained bursts. That fighting style makes battles feel more kinetic and more dangerous, because the camera language shifts toward tight ranges and rapid changes.\n\nDefiant also carries a thematic weight: it is Starfleet admitting that the galaxy can force you into a posture you would rather not adopt. The ship exists because of threats that could not be talked down. Yet it is still flown by people who care about rules, restraint, and the cost of violence. That tension is why Defiant feels like more than a set piece. It becomes a character in the war story—one whose loss hits because the audience has watched it do the hard work of protecting everyone else.",
+  "Notes": "Defiant’s canon identity is tied tightly to the Dominion era: a prototype escort created in response to major threats and then deployed when the Gamma Quadrant becomes a front line. On screen, its defining features are concentrated firepower, extreme agility, and the political complication of a Romulan cloaking device.\n\nIn a ship library, Defiant is the clearest example of Starfleet design shifting toward compact, specialized combat platforms. It contrasts sharply with exploration cruisers because comfort and endurance are not the point. The point is getting to the fight and surviving long enough to finish it.\n\nIf you want Defiant entries to stay canon-clean, keep the focus on what is shown: it is a tough little ship, built to hit hard, flown by DS9’s core team, and ultimately lost in the Dominion War. The replacement vessel that later carries the Defiant name is a separate ship and should be treated as its own object.",
+  "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Defiant%20(Sample%201).jpg"
+},
   {
-    "ID": "uss-excelsior-ncc-2000",
-    "Name": "USS Excelsior (NCC-2000)",
-    "Affiliation": "Federation",
-    "Category": "Starship",
-    "Era": "23rd–24th century",
-    "Tagline": "",
-    "Review": "",
-    "Notes": "",
-    "ImageURL": ""
+  "ID": "uss-excelsior-ncc-2000",
+  "Name": "USS Excelsior (NCC-2000)",
+  "Affiliation": "Federation",
+  "Category": "Starship",
+  "Era": "23rd–24th century",
+  "Tagline": "Starfleet’s ‘Great Experiment’: a transwarp prototype that went from embarrassing stumble to century-spanning workhorse—and the ship Captain Sulu made legendary.",
+  "AtAGlance": {
+    "CrewComplement": "Not stated on screen.",
+    "TopSpeed": "Not stated on screen; introduced as a transwarp prototype (the transwarp trial fails).",
+    "FleetRole": "Prototype heavy cruiser / next-generation exploration and fleet response hull; later emblematic of the Excelsior-class ‘workhorse’ era.",
+    "WhatFansRemember": [
+      "‘The Great Experiment’ transwarp demo that immediately goes wrong—while Scotty quietly smiles",
+      "Captain Styles’ smug confidence turning into disbelief when Excelsior can’t go to warp",
+      "The sleek movie-era silhouette: thin saucer, long ‘boat’ secondary hull, wide aft nacelles",
+      "Captain Hikaru Sulu in command—an Enterprise veteran finally getting his own ship",
+      "Riding out the Praxis shockwave and racing toward Khitomer in *The Undiscovered Country*",
+      "Voyager’s ‘Flashback’ framing where Excelsior becomes a living bridge between eras"
+    ]
   },
+  "WhyItMatters": {
+    "InUniverse": "Excelsior marks a Starfleet inflection point: the Federation is no longer just refining Constitution-era thinking, it’s attempting a generational leap. On screen, that leap is embodied in the transwarp experiment—bold enough to be demonstrated publicly, and consequential enough that its failure becomes an instant lesson.\n\nJust as important is what comes after. The ship’s identity doesn’t collapse when the headline breakthrough stumbles. Excelsior keeps serving, and later becomes a symbol of a Starfleet that can field large, capable cruisers as routine assets—ships that can patrol, escort, and respond at scale without always leaning on the Enterprise.\n\nBy the time Captain Sulu is in the center seat, Excelsior reads as a mature fleet instrument: a ship trusted with crisis response, diplomatic stakes, and the kind of ‘be there now’ urgency that defines Starfleet at its best.",
+    "InFranchiseHistory": "Excelsior is the movie-era ‘future Starfleet’ design that stuck. Built to make the refit Enterprise look older by contrast, it became a template for decades of Starfleet silhouettes, and its class turned into the franchise’s go-to background workhorse for the late-23rd through late-24th century. It’s also one of Trek’s most efficient pieces of storytelling design: a single ship that can sell technological transition, generational change, and fleet scale at a glance."
+  },
+  "SignatureLook": {
+    "Silhouette": "A broad, thin saucer with clean segmentation, paired to a long, elegant secondary hull that tapers like a ship’s stern—an Excelsior-class profile that feels faster and more modern than Constitution lines.\n\nThe wide, aft-set nacelles on slim pylons give the ship a ‘cruiser’ stance: stable, confident, and ready to surge forward the moment it gets a lock.",
+    "PaintAndMarkings": "Movie-era Starfleet off-white/gray with subtle aztec-style paneling and restrained striping accents. The ship’s registry/markings are typically present in canon shots, but the design reads even without them—pure outline and proportion do the recognition work."
+  },
+  "OnScreenCanon": {
+    "FirstOnScreenUse": "Introduced in *Star Trek III: The Search for Spock* as the prototype NX-2000—‘the Great Experiment’—assigned to pursue the Enterprise after Kirk’s theft of the ship.",
+    "NotableCanonWindows": [
+      "2285: NX-2000 transwarp trial and pursuit mission (Scotty aboard; Captain Styles in command) — *Star Trek III*",
+      "2293: commanded by Captain Hikaru Sulu during the Praxis crisis and Khitomer rescue attempt — *Star Trek VI: The Undiscovered Country*",
+      "2290s (framing): appears as the setting for key ‘Flashback’ events recounted in *Star Trek: Voyager*"
+    ],
+    "AnchorMomentsForFans": [
+      {
+        "Moment": "‘Up your shaft.’ Excelsior’s transwarp demo fails as the Enterprise slips away.",
+        "WhyItSticks": "It’s the perfect Scotty punchline: the future ship is impressive, but the old engineer still knows how to win the moment."
+      },
+      {
+        "Moment": "Sulu’s Excelsior absorbs the Praxis shockwave.",
+        "WhyItSticks": "A gorgeous ‘space weather’ beat that sells the crisis as physical and immediate, not just political."
+      },
+      {
+        "Moment": "Excelsior races to Khitomer as the clock runs out.",
+        "WhyItSticks": "It’s Starfleet urgency at its best—heroic, procedural, and heartbreaking when ‘almost in time’ isn’t enough."
+      }
+    ]
+  },
+  "RoleAndDoctrine": {
+    "StrategicRole": "A transitional flagship-adjacent cruiser: the kind of hull Starfleet can send when it needs capability, authority, and range—without deploying the Enterprise every time. In practice, Excelsior reads as the template for a fleet that’s expanding, patrolling wider borders, and running more simultaneous crises.",
+    "TypicalMissions": "Prototype trials and shakedown operations; long-range patrol and escort; rapid-response dispatch during major incidents; high-priority transport and support missions where a heavy cruiser’s sensors and endurance matter as much as its weapons."
+  },
+  "SystemsAndCapabilities": {
+    "Weapons": {
+      "Primary": [
+        "Phaser banks typical of late-23rd-century Starfleet cruisers (used for sustained exchanges and precision shots)",
+        "Photon torpedoes (the era’s standard escalation tool)"
+      ],
+      "HowItFights": "On screen, Excelsior is framed less as a duelist and more as a fleet asset: it closes, holds a solution, and applies pressure with disciplined, ship-of-the-line confidence. The ship’s most memorable ‘weapon’ is presence—arriving fast enough to matter and large enough to change the room."
+    },
+    "Defenses": {
+      "Shields": "Deflector shields consistent with movie-era Starfleet combat—strong enough to trade blows, vulnerable enough that hits feel consequential.",
+      "DamageAndVulnerability": "Excelsior’s key early vulnerability is procedural and experimental: a bold propulsion idea that can fail at the worst possible time."
+    },
+    "Propulsion": {
+      "Warp": "Introduced as a transwarp-equipped prototype; the transwarp trial fails on screen and the ship is later portrayed operating as a conventional warp-capable cruiser.",
+      "Impulse": "Movie-era handling that sells mass and momentum—graceful turns, deliberate acceleration, and a ‘big ship’ feel."
+    },
+    "MissionFlex": {
+      "PrototypeLessons": "The ship embodies Starfleet’s willingness to test major tech leaps in operational conditions—and to keep the hull useful even when the headline breakthrough doesn’t pan out.",
+      "Longevity": "The Excelsior-class silhouette’s long on-screen lifespan implies refits and incremental modernization as the fleet’s needs evolve."
+    }
+  },
+  "LifeAboard": {
+    "DailyLife": "Excelsior reads as a serious, professional Starfleet cruiser: less ‘living city’ than a disciplined working ship designed for long duty rotations, departmental specialization, and sustained operations away from home ports.\n\nThe bridge tone in its key appearances is crisp and procedural—an officer corps that expects competence, routine, and chain-of-command clarity.",
+    "CrisisMode": "In crisis, the ship is portrayed as a responder: stabilize, assess, close distance, and try to be the cavalry. The drama often comes from timing—doing everything right, and still arriving just short of the moment that matters."
+  },
+  "NotableShipsAndSightings": [
+    {
+      "Name": "USS Excelsior — NX-2000 prototype",
+      "ClaimToFame": "Starfleet’s transwarp testbed and ‘Great Experiment,’ dispatched to pursue the Enterprise after Kirk’s theft.",
+      "PeopleConnected": [
+        "Hikaru Sulu",
+        "Montgomery Scott",
+        "Captain Styles"
+      ],
+      "WhyFansCare": "It’s the franchise’s best ‘new ship vs old ship’ flex—then the funniest failure—wrapped into one iconic sequence."
+    },
+    {
+      "Name": "USS Excelsior — Captain Sulu’s command",
+      "ClaimToFame": "Commanded by Hikaru Sulu during the Praxis crisis and the race to Khitomer.",
+      "PeopleConnected": [
+        "Hikaru Sulu",
+        "Demora Sulu"
+      ],
+      "WhyFansCare": "Because it’s the payoff for years of Enterprise crew history: Sulu finally gets the center chair, and the ship carries it."
+    },
+    {
+      "Name": "USS Excelsior — ‘Flashback’ era",
+      "ClaimToFame": "Featured in *Voyager*’s ‘Flashback’ as a living memory of the movie era aboard a later-24th-century show.",
+      "PeopleConnected": [
+        "Hikaru Sulu",
+        "Tuvok"
+      ],
+      "WhyFansCare": "It turns the ship into a bridge between eras—proof that Starfleet history isn’t lore, it’s lived experience."
+    }
+  ],
+  "BehindTheScenes": {
+    "DesignIntent": "Created for the feature films to look like the ‘next’ Starfleet—sleeker, more modern, and visually capable of making the refit Enterprise feel older by comparison.",
+    "VisualInspiration": "ILM’s movie-era surface language: fine paneling, subtle aztecing, and clean, readable forms that hold up under cinematic lighting.",
+    "ProductionTriviaForFans": [
+      "Concept work for the Excelsior was developed by Nilo Rodis and Bill George at ILM for *Star Trek III*.",
+      "The Excelsior-class miniature (and its refits) became a frequent background workhorse across later Star Trek productions, helping populate the fleet with a consistent ‘Starfleet’ design vocabulary."
+    ]
+  },
+  "FanNotes": {
+    "IfYouOnlyReadOneThing": "Excelsior is the ship where Starfleet’s future first shows up—and immediately stumbles—before earning its legend under Captain Sulu.",
+    "WhyItStillWorksToday": [
+      "It’s the clearest visual transition between the classic Enterprise lines and later Starfleet aesthetics.",
+      "It can play comedy (Scotty’s sabotage) and high-stakes tragedy (Praxis/Khitomer) without ever feeling like a different ship.",
+      "The silhouette reads instantly even in a still frame—thin saucer, long hull, wide nacelles: ‘movie-era Starfleet.’",
+      "Its class became the franchise’s dependable fleet background, so it feels like a real Starfleet workhorse rather than a one-off."
+    ]
+  },
+  "Review": "The USS Excelsior is Star Trek’s cleanest visual shorthand for time moving forward. One look at the hull and the refit Enterprise suddenly feels like yesterday’s hero ship—still gorgeous, still capable, but no longer the newest idea in the room. Excelsior’s proportions are confident and cinematic: a thin saucer, a long ‘boat’ secondary hull, and wide aft nacelles that make the entire ship look like it was built to cruise.\n\nThen Trek does the smartest thing possible: it makes the future ship fail. The transwarp demo is both a character beat (Scotty being Scotty) and a franchise beat (progress is real, but it’s messy). That single sequence gives Excelsior a personality—ambitious, formidable, and briefly humiliated—without changing a single line of its design.\n\nLater, under Captain Sulu, the ship earns its legend in a different register: calm professionalism and crisis timing. Whether absorbing the Praxis shockwave or racing toward Khitomer, Excelsior is framed as the kind of Starfleet cruiser you want arriving on scene—steady, serious, and built for the long haul.",
+  "Notes": "Excelsior is a keystone for tracking Starfleet’s on-screen evolution. It was introduced to make the Enterprise look older by contrast, and that narrative purpose became a long-term franchise asset: a hull that signals ‘late 23rd century’ instantly.\n\nWatch how Excelsior is used as a timing engine. Its biggest beats are often about arrival—catching Kirk, responding to Praxis, racing to a diplomatic crisis. The ship is rarely treated as a show-off duelist; it’s the cavalry, the responder, the fleet’s competent middle weight.\n\nCanon note for your library: the ship is introduced with the registry NX-2000 during the transwarp program and is later associated with NCC-2000. If you’re keeping registries consistent across your project, that prototype-to-service shift is part of the ship’s story, not a footnote.",
+  "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Excelsior%20(Final).png"
+},
   {
   "ID": "uss-reliant-ncc-1864",
   "Name": "USS Reliant (NCC-1864)",
@@ -1804,16 +2165,126 @@
     "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/D'Kora%20(Final).png"
   },
   {
-    "ID": "vulcan-cruiser",
-    "Name": "Vulcan cruiser",
-    "Affiliation": "Vulcan High Command",
-    "Category": "Vessel type",
-    "Era": "22nd–23rd century",
-    "Tagline": "",
-    "Review": "",
-    "Notes": "",
-    "ImageURL": ""
+  "ID": "vulcan-cruiser",
+  "Name": "Vulcan cruiser",
+  "Affiliation": "Vulcan High Command",
+  "Category": "Vessel type",
+  "Era": "22nd–24th century",
+  "Tagline": "Vulcan’s long-range ring-hulled cruiser: a disciplined, science-forward starship that can still throw serious weight when High Command decides the time for patience is over.",
+  "AtAGlance": {
+    "CrewComplement": "Not stated on screen.",
+    "TopSpeed": "Varies by configuration on screen: science vessel operations are associated with warp 6.5, while a combat cruiser configuration is associated with warp 7.",
+    "FleetRole": "Long-range science cruiser and diplomatic/strategic presence ship; can be configured and armed for combat operations when required.",
+    "WhatFansRemember": [
+      "The unmistakable Vulcan ‘ring ship’ silhouette: a long spear-like hull anchored to a massive circular ring",
+      "Deep maroon/red metallic finish that reads as Vulcan—precise, restrained, and alien without being ornate",
+      "A calm, studio-lit presence in space: the ship looks like it was engineered to be stable and deliberate",
+      "Vulcan High Command’s ‘we were out here first’ energy—advanced ships in the pre-Federation era",
+      "That sense of controlled power: a vessel that feels scientific until it decides to be a warship"
+    ]
   },
+  "WhyItMatters": {
+    "InUniverse": "The Vulcan cruiser exists in the Enterprise era to make a point that doesn’t require dialogue: Earth’s NX program is impressive, but it is not the benchmark. Vulcan High Command can field large, long-range vessels with mature systems and a distinct engineering lineage—ships that project authority simply by being present.\n\nThe design also supports a core Vulcan theme. The cruiser reads as scientific and deliberate by default—an analysis platform built for long-duration missions and controlled operations. But canon references describe the type operating as both a science vessel and a combat cruiser, underscoring that Vulcan restraint is a choice, not a limitation.\n\nIn stories where Vulcans become obstructive or coercive, the cruiser becomes policy made physical: calm, logical pressure backed by the quiet certainty of superior capability.",
+    "InFranchiseHistory": "This design became the signature look for Vulcan starships in the early-22nd-century live-action era: instantly readable, culturally specific, and distinct from Starfleet’s nacelle-and-saucer language. It’s a strong piece of worldbuilding: Vulcans don’t just have different policies—they have different engineering aesthetics, and you can see it in one shot."
+  },
+  "SignatureLook": {
+    "Silhouette": "A needle-like forward hull that feels more like a crafted instrument than a ‘boat,’ paired with a massive circular ring that dominates the aft profile. The central pylon and ribbed lower structure make the ship feel anchored and structural—like a rigid framework built to keep the ring perfectly aligned.\n\nThe ring reads as the design’s thesis: Vulcan engineering prioritizing stability, field geometry, and deliberate control over the more ‘aircraft-like’ lines of early Starfleet.",
+    "SurfaceCharacter": "Smooth maroon-metallic plating with fine seams and restrained greeble detail. Windows appear as sparse pinpricks—suggesting a ship built for function and focus, not for display."
+  },
+  "OnScreenCanon": {
+    "FirstOnScreenUse": "Introduced in *Star Trek: Enterprise* as a Vulcan ‘Suurok-class’ vessel type used by the Vulcan High Command during the mid-22nd century.",
+    "NotableCanonWindows": [
+      "2130s–2150s: active Vulcan High Command operations during Enterprise’s early years",
+      "Mid-22nd century: appears in multiple Enterprise-era crisis and escort contexts",
+      "2380s: the type remains in service into the late 24th century per canon references"
+    ],
+    "AnchorMomentsForFans": [
+      {
+        "Moment": "A ring-hulled Vulcan cruiser looms near early Starfleet assets.",
+        "WhyItSticks": "It’s visual storytelling: Vulcan advancement and authority made tangible next to NX-era humanity."
+      },
+      {
+        "Moment": "The ship type’s shift from ‘science vessel’ to ‘combat cruiser’ framing.",
+        "WhyItSticks": "It reinforces a key Vulcan theme: restraint is a choice, not a lack of capability."
+      }
+    ]
+  },
+  "RoleAndDoctrine": {
+    "StrategicRole": "A long-range presence ship for a civilization that prefers control through knowledge. The cruiser’s default posture reads as scientific and diplomatic—survey, observation, escorted operations—but it can be fielded as a coercive instrument when policy hardens.",
+    "TypicalMissions": "Deep-space survey and exploration; long-duration patrol and monitoring; diplomatic conveyance and escort; retrieval and inspection missions under High Command authority; combat deployments when Vulcan leadership deems force ‘logical.’"
+  },
+  "SystemsAndCapabilities": {
+    "Weapons": {
+      "Primary": [
+        "Particle beam weapons (Vulcan shipboard energy weapons used on screen)",
+        "Photonic weapons (torpedo-like ordnance referenced for the type)"
+      ],
+      "HowItFights": "When portrayed in a combat posture, the cruiser fights like a disciplined line ship: hold distance, apply controlled fire, and leverage superior systems stability rather than reckless maneuvers. The narrative implication is that Vulcans don’t ‘brawl’—they execute."
+    },
+    "Defenses": {
+      "Shields": "Deflector shielding is implied by its survivability and status as a major High Command asset; on-screen framing treats it as technologically mature for the era.",
+      "TacticalPosture": "The ship’s intimidation factor comes from calm certainty: it doesn’t need to posture loudly because it assumes advantage."
+    },
+    "Propulsion": {
+      "Warp": "Associated with warp 6.5 as a science vessel and warp 7 as a combat cruiser configuration on screen.",
+      "Impulse": "Sublight handling is portrayed as steady and deliberate—less ‘fighter craft’ and more ‘instrument platform.’"
+    },
+    "MissionFlex": {
+      "ScienceToCombatSwing": "Canon references describe both ‘science vessel’ and ‘combat cruiser’ roles for the type, suggesting configuration and mission-fit flexibility under a shared hull architecture.",
+      "SupportSystems": "Associated on screen with tractor beam usage and mature shipboard systems typical of Vulcan long-range operations."
+    }
+  },
+  "LifeAboard": {
+    "DailyLife": "Everything about the cruiser implies Vulcan operating culture: quiet efficiency, disciplined routines, and a focus on analysis and long-term objectives over immediate drama. The ship feels designed for sustained missions where the crew expects time, stability, and methodical work.\n\nEven the exterior presentation supports that story—clean lines, restrained lighting, and minimal ‘look at me’ ornamentation.",
+    "CrisisMode": "In conflict, the cruiser’s vibe is controlled escalation: it doesn’t panic, it doesn’t chase hero shots, and it doesn’t waste motion. The tension comes from realizing that a calm ship can still be a dangerous ship."
+  },
+  "NotableShipsAndSightings": [
+    {
+      "Name": "Ni'Var",
+      "ClaimToFame": "A named Suurok-class Vulcan ship associated with Enterprise-era operations.",
+      "PeopleConnected": [
+        "Vulcan High Command"
+      ],
+      "WhyFansCare": "It grounds the ‘Vulcan cruiser’ type as a real fleet asset with named hulls, not just a one-off alien design."
+    },
+    {
+      "Name": "Sh'Raan",
+      "ClaimToFame": "A named Suurok-class ship referenced as a combat cruiser configuration.",
+      "PeopleConnected": [
+        "Vulcan High Command"
+      ],
+      "WhyFansCare": "Because the name becomes shorthand for the type’s ‘Vulcans can fight if they choose to’ side."
+    },
+    {
+      "Name": "Ti'Mur",
+      "ClaimToFame": "A named Suurok-class vessel associated with Vulcan operations into later centuries.",
+      "PeopleConnected": [
+        "Vulcan High Command"
+      ],
+      "WhyFansCare": "It reinforces the ship type’s implied longevity: the design persists well beyond the Enterprise era."
+    }
+  ],
+  "BehindTheScenes": {
+    "DesignIntent": "Designed for *Star Trek: Enterprise* to visually separate Vulcan engineering from early Starfleet: smooth, disciplined forms anchored by a striking ring structure.",
+    "VisualInspiration": "A culturally coded aesthetic—measured geometry, minimal ornamentation, and a ‘crafted instrument’ feel rather than a naval ‘boat’ feel.",
+    "ProductionTriviaForFans": [
+      "The ring-hulled Vulcan ship silhouette became the defining visual shorthand for Vulcans in the Enterprise era.",
+      "The design is commonly associated in canon references with the Suurok-class designation."
+    ]
+  },
+  "FanNotes": {
+    "IfYouOnlyReadOneThing": "This cruiser is Vulcan policy in metal: calm, precise, and quietly capable of turning from observation to force the instant logic demands it.",
+    "WhyItStillWorksToday": [
+      "The silhouette is unmistakable—no other major Trek faction has a ring ship that reads this cleanly.",
+      "It worldbuilds without dialogue: Vulcans feel older, steadier, and more advanced next to NX-era Starfleet.",
+      "The red/maroon finish is instantly ‘Vulcan’ and holds up under stark lighting.",
+      "It supports multiple story tones: scientific oversight, diplomatic pressure, or controlled combat escalation."
+    ]
+  },
+  "Review": "The Vulcan cruiser’s silhouette is cultural worldbuilding in one stroke. It doesn’t look like a Starfleet ship with different paint; it looks like a different civilization’s idea of what a starship should be. The long spear-like forward hull reads like an instrument, while the massive ring reads like a structural commitment to stability and field geometry.\n\nOn screen, that shape does immediate narrative work. Place it near the NX-01 and the power dynamic becomes a visual fact. The cruiser feels older, steadier, and more advanced—exactly what Enterprise needs Vulcan to feel like in its early seasons.\n\nMost importantly, it carries dual meanings without changing form. In a calm scene it looks like science and oversight. In a tense scene, the same disciplined geometry looks like control. That’s why the ship lands: it’s Vulcan logic expressed as architecture.",
+  "Notes": "If you’re building a coherent ship lineup for the Enterprise era, this cruiser is one of the key visual anchors for ‘pre-Federation’ space. It makes Vulcan feel like a peer power with its own engineering tradition, not simply a mentor civilization borrowing Starfleet-adjacent hardware.\n\nCanon note: this ship type is commonly identified as the Suurok-class in reference material, and is associated with warp factors around 6.5 (science vessel) and 7 (combat cruiser), plus particle beam and photonic weapons, shields, and tractor beams.\n\nPresentation tip: the ship reads best with restraint—near-black space, clean specular highlights on maroon metal, and minimal glow—because the silhouette and ring do almost all the recognition work.",
+  "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Vulcan%20Cruiser%20(Final).png"
+},
   {
   "ID": "andorian-battle-cruiser",
   "Name": "Andorian Battle Cruiser",
