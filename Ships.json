@@ -819,7 +819,7 @@
   },
   "Review": "Defiant is the rare Starfleet ship that looks like it was built with a single sentence on the drafting table: survive the first hit, land the next ten. Everything about the hull says reinforcement and access, not elegance. It is compact, dense, and unapologetically tactical, and that makes it instantly legible in a franchise where many ships communicate openness through broad, graceful lines.\n\nWhat makes Defiant work in Deep Space Nine is that it does not replace the station; it complements it. The station is politics, community, and consequence. Defiant is reach. It lets the same ensemble that debates ethics and treaties also execute patrols, raids, rescues, and battles where those debates turn into split-second decisions.\n\nThe ship’s on-screen personality is defined by aggression and control. It does not trade long, theatrical broadsides. It closes, sticks, and pours on sustained bursts. That fighting style makes battles feel more kinetic and more dangerous, because the camera language shifts toward tight ranges and rapid changes.\n\nDefiant also carries a thematic weight: it is Starfleet admitting that the galaxy can force you into a posture you would rather not adopt. The ship exists because of threats that could not be talked down. Yet it is still flown by people who care about rules, restraint, and the cost of violence. That tension is why Defiant feels like more than a set piece. It becomes a character in the war story—one whose loss hits because the audience has watched it do the hard work of protecting everyone else.",
   "Notes": "Defiant’s canon identity is tied tightly to the Dominion era: a prototype escort created in response to major threats and then deployed when the Gamma Quadrant becomes a front line. On screen, its defining features are concentrated firepower, extreme agility, and the political complication of a Romulan cloaking device.\n\nIn a ship library, Defiant is the clearest example of Starfleet design shifting toward compact, specialized combat platforms. It contrasts sharply with exploration cruisers because comfort and endurance are not the point. The point is getting to the fight and surviving long enough to finish it.\n\nIf you want Defiant entries to stay canon-clean, keep the focus on what is shown: it is a tough little ship, built to hit hard, flown by DS9’s core team, and ultimately lost in the Dominion War. The replacement vessel that later carries the Defiant name is a separate ship and should be treated as its own object.",
-  "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Defiant%20(Sample%201).jpg"
+  "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Defiant%20(Final).png"
 },
   {
   "ID": "uss-excelsior-ncc-2000",
@@ -1637,16 +1637,144 @@
   "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/K't'inga%20(Final).png"
 },
   {
-    "ID": "klingon-vorcha",
-    "Name": "Vor'cha-class attack cruiser",
-    "Affiliation": "Klingon Empire",
-    "Category": "Ship class",
-    "Era": "24th century (TNG/DS9 era)",
-    "Tagline": "",
-    "Review": "",
-    "Notes": "",
-    "ImageURL": ""
+  "ID": "klingon-vorcha",
+  "Name": "Vor'cha-class attack cruiser",
+  "Affiliation": "Klingon Empire",
+  "Category": "Ship class",
+  "Era": "24th century (TNG/DS9 era)",
+  "Tagline": "The Klingon Empire’s late‑24th‑century prestige cruiser—armored, heavily armed, cloaked, and built to project authority as much as firepower.",
+  "AtAGlance": {
+    "WhatFansRemember": [
+      "The first truly “new era” Klingon capital ship for TNG: unmistakably Klingon, but sleeker than the old D7 lineage",
+      "A bird‑of‑prey lineage silhouette: forward “head,” swept wings, and nacelles embedded in the wings",
+      "The forward disruptor cannon punch—Klingon aggression expressed as a single big muzzle up front",
+      "Flagship status for a time, before the Negh'Var arrives in DS9",
+      "Big DS9 fleet moments: lines of Vor'chas moving as capital ships in battles and blockade operations"
+    ],
+    "CrewComplement": "Not stated on screen.",
+    "TopSpeed": "Not stated on screen; depicted as a high‑performance Klingon capital ship of its era.",
+    "FleetRole": "Attack cruiser / battlecruiser and prestige command ship; used for high‑authority transport early on, then general KDF capital‑ship duties."
   },
+  "WhyItMatters": {
+    "InUniverse": "The Vor'cha class marks a Klingon pivot from “honorable predator” to “imperial power with a modern fleet.” Introduced as a prestige platform for the Chancellor and other top officials, it quickly expands into general Defense Force service—meaning the Empire isn’t just fielding raiders and legacy cruisers, but purpose-built capital ships that can lead operations.\n\nOn screen, a Vor'cha in the scene often means the stakes just rose: it’s a ship built to arrive with authority, cloak when it chooses, and hit hard enough that diplomacy feels like a courtesy rather than a requirement.",
+    "InFranchiseHistory": "The Vor'cha (and later the Negh'Var) are the moment TNG gives the Klingons a true “era identity” in ships—no more relying solely on film‑era reuses. The design keeps the classic avian Klingon lineage while feeling modern and muscular for 1990s television.\n\nIt’s also a rare visual story in hardware: the ship’s slightly cleaner lines and warp‑engine styling were conceived (in production intent) to hint at détente-era influence between Klingon and Federation technologies—an idea you can feel even if you never read a tech manual."
+  },
+  "SignatureLook": {
+    "Silhouette": "A heavy forward “head” and central neck flowing into broad swept wings with the nacelles integrated into the wing structures. A triangular dorsal superstructure and a stout, armored belly give it the posture of a raptor mid‑dive—wide, predatory, and built for presence.",
+    "PaintAndMarkings": "Typically reads as dark Klingon green/green‑gray with recessed grime and hot highlights on armor edges. In DS9-era appearances, portions of raised paneling often read warmer (burgundy/red-brown) under the lighting, with red/orange engine accents and window clusters glittering like embedded cities."
+  },
+  "OnScreenCanon": {
+    "FirstOnScreenUse": "Debuts in TNG’s “Reunion,” initially framed as a high‑status Klingon warship tied to the Chancellor’s circle—prestige hardware before it becomes general fleet muscle.",
+    "NotableCanonWindows": [
+      "2367: class appears and is treated as elite/high‑authority transport and command hardware",
+      "2369: expands into general Klingon Defense Force duties",
+      "2371: replaced as imperial flagship by the Negh'Var, but remains a major fleet presence",
+      "2372–2373: heavily present in Klingon-Cardassian and Federation‑Klingon conflicts (including major DS9 confrontations)",
+      "2374–2375: serves as one of the Klingon capital‑ship backbones through the Dominion War"
+    ],
+    "AnchorMomentsForFans": [
+      {
+        "Moment": "The first reveal: a new Klingon heavy cruiser arrives in TNG with a silhouette that immediately reads “modern Klingon.”",
+        "WhyItSticks": "It’s the franchise telling you the Klingons evolved—bigger, faster, and more dangerous than the recycled film shapes."
+      },
+      {
+        "Moment": "DS9 fleet imagery—Vor'chas in formation as capital ships during large‑scale operations.",
+        "WhyItSticks": "They become the visual shorthand for Klingon hard power: when the Empire commits, these are the ships you see."
+      },
+      {
+        "Moment": "The ‘soften their defenses’ line—Vor'cha battlecruisers cited as the opening punch in a planned strike.",
+        "WhyItSticks": "It reinforces their narrative role: you lead with Vor'chas when you want the other side to feel the Empire’s weight immediately."
+      }
+    ]
+  },
+  "RoleAndDoctrine": {
+    "HowKlingonsUseIt": "A Vor'cha is a Klingon answer to a multi‑role capital ship: it can escort, patrol, intimidate, lead strikes, and carry VIPs when politics demands a visible symbol of power.\n\nIn fleet terms, it reads as the Empire’s “line cruiser”—the ship you can build a task force around without needing a one‑off flagship every time.",
+    "WhatItSignalsWhenItShowsUp": [
+      "High authority is involved (or wants to look involved)",
+      "Klingon policy has shifted from posture to action",
+      "Diplomacy is happening under a cloaked blade"
+    ]
+  },
+  "SystemsAndCapabilities": {
+    "Weapons": {
+      "Primary": [
+        "Forward disruptor cannon for heavy frontal strikes (solid or pulsed fire depending on scene)",
+        "Additional disruptor banks for broad engagement arcs",
+        "Torpedoes used in fleet and strike contexts"
+      ],
+      "HowItFights": "The Vor'cha is built to close, pressure, and overwhelm. It favors decisive forward‑arc punishment, then uses maneuverability (for its size) to keep targets inside the danger envelope. In battle scenes it often reads as a “lead bruiser”—the ship that commits early and stays in the fight."
+    },
+    "Defenses": {
+      "Shields": "Depicted as robust for a Klingon capital ship, enabling it to trade volleys in fleet engagements rather than rely purely on ambush.",
+      "CloakingDevice": "Standard Klingon cloaking capability for its era, used for approach, repositioning, and tactical withdrawal.",
+      "HullAndArmor": "Armored plating language is part of the design: trenches, raised panels, and dense seams that visually sell a warship built to take hits."
+    },
+    "Propulsion": {
+      "Warp": "High‑performance warp capability for a capital ship of the late 24th century, suited to pursuit, interception, and long‑range operations.",
+      "Impulse": "Strong sublight handling and turn authority for a ship of its mass—shown maneuvering aggressively in combat scenarios."
+    },
+    "SensorsAndControl": {
+      "FireControl": "Weapons placement and scene blocking consistently frame it as a confident shooter—capable of coordinated disruptor and torpedo fire in fleet action.",
+      "InternalSecurity": "Equipped with internal security sensors able to detect weapons fire from within the ship."
+    },
+    "MissionFlex": {
+      "PrestigeAndWar": "Introduced as a high‑status transport/command ship for top officials, then becomes a general-duty battlecruiser—one of the clearest on‑screen examples of a ‘VIP platform’ graduating into a fleet workhorse."
+    }
+  },
+  "LifeAboard": {
+    "Tone": "Martial and status-driven—Klingon warship austerity, but with enough space and ceremony to host power.",
+    "Recreation": "When shown, comfort is secondary to honor and readiness. The ship’s internal spaces emphasize trophies, weapons, and authority rather than leisure.",
+    "BridgeCulture": "Command-forward and theatrical: a captain’s presence matters, with layouts that make rank and control feel visible to everyone on the deck."
+  },
+  "NotableShipsAndSightings": [
+    {
+      "Name": "Chancellor K'mpec’s Vor'cha-class cruiser",
+      "ClaimToFame": "A prestige-configured ship used to transport the Klingon Chancellor in TNG-era politics.",
+      "PeopleConnected": [
+        "K'mpec"
+      ],
+      "WhyFansCare": "It’s the Vor'cha’s first narrative role: not just a warship, but a moving throne that makes Klingon succession drama feel bigger and more dangerous."
+    },
+    {
+      "Name": "IKS Drovana",
+      "ClaimToFame": "A Vor'cha-class ship heavily damaged after triggering a cloaked mine, central to Worf’s DS9-era Klingon storyline.",
+      "PeopleConnected": [
+        "Worf",
+        "Martok"
+      ],
+      "WhyFansCare": "It’s one of the best ‘inside the ship’ Vor'cha showcases—damage, doctrine, and Klingon politics colliding in a very practical way."
+    },
+    {
+      "Name": "IKS Bortas (Vor'cha-class)",
+      "ClaimToFame": "A named Vor'cha-class cruiser associated with high-level Klingon command presence in the era.",
+      "PeopleConnected": [
+        "Gowron"
+      ],
+      "WhyFansCare": "Because the name shows up where Klingon authority and fleet power are being staged—exactly the narrative niche Vor'chas were built to occupy."
+    }
+  ],
+  "BehindTheScenes": {
+    "DesignIntent": "Created so TNG would have a distinctive Klingon capital ship style of its own—no more relying only on recycled film-era models.",
+    "VisualInspiration": "Designed by Rick Sternbach as an evolutionary descendant of the classic Klingon D7 lineage, keeping the avian posture while modernizing the forms for the TNG era.",
+    "ProductionTriviaForFans": [
+      "The primary physical studio model was built by Greg Jein’s team and became one of the most-used Klingon ‘hero’ miniatures of the 1990s.",
+      "The ship’s look was conceived (in production notes) to hint at détente-era technology influence between Klingon and Federation design languages, visible in the cleaner lines and warp-engine styling.",
+      "For DS9’s large-scale battles, additional filming models and later CGI versions expanded the fleet shots while maintaining the recognizable Vor'cha silhouette."
+    ]
+  },
+  "FanNotes": {
+    "IfYouOnlyReadOneThing": "The Vor'cha is the Klingon Empire’s “power looks like this” ship for the TNG/DS9 era—part war machine, part political theater.",
+    "WhyItStillWorksToday": [
+      "It feels like a true evolution of the classic Klingon bird-lineage rather than a total redesign",
+      "Its forward cannon and broad wings sell aggression even in a still frame",
+      "It reads as a capital ship without being a flying brick—sleek enough to feel modern, heavy enough to feel dangerous",
+      "It became the default Klingon fleet ‘backbone’ on DS9, so it carries the era’s war-story weight"
+    ]
+  },
+  "Review": "The Vor'cha-class attack cruiser is what happens when the Klingon Empire decides it’s done being underestimated. It keeps the cultural DNA—wide wings, predatory posture, a forward “head” that looks ready to strike—but it modernizes the whole package into a ship that can credibly lead an armada. It doesn’t just look like it can win a fight; it looks like it expects to.\n\nWhat makes it especially effective on screen is that it plays double duty. In TNG it arrives wrapped in politics—Chancellors, succession, authority. In DS9 it becomes fleet muscle—lines of Vor'chas moving like capital ships because the story has become a war. Either way, the silhouette does the work: this is the Empire showing up in force.\n\nAnd then there’s the aura of control. The ship can cloak, it can hit hard, and it carries itself like an institution. When a Vor'cha enters the frame, it doesn’t feel like a random patrol craft. It feels like a decision—someone, somewhere, chose to make the situation serious.",
+  "Notes": "Rewatch tip: pay attention to how often Vor'chas are used as ‘authority framing’ even when they aren’t the only Klingon ships in the shot. The camera tends to treat them as the ship you look at first—the one that carries the story’s Klingon point of view.\n\nAlso worth noticing: the design’s subtle “blended” vibe. It’s still unmistakably Klingon, but compared to earlier ships it feels a touch cleaner and more engineered—an on-screen reminder that empires adapt, borrow, and modernize even when they insist they’re doing everything the ‘Klingon’ way.",
+  "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Vor'Cha%20(Final).png"
+},
  {
   "ID": "romulan-warbird",
   "Name": "Romulan Warbird (D'deridex-class)",
