@@ -342,38 +342,357 @@
     "ImageURL": ""
   },
   {
-    "ID": "uss-reliant-ncc-1864",
-    "Name": "USS Reliant (NCC-1864)",
-    "Affiliation": "Federation",
-    "Category": "Starship",
-    "Era": "23rd century (TOS films era)",
-    "Tagline": "",
-    "Review": "",
-    "Notes": "",
-    "ImageURL": ""
+  "ID": "uss-reliant-ncc-1864",
+  "Name": "USS Reliant (NCC-1864)",
+  "Affiliation": "Federation",
+  "Category": "Starship",
+  "Era": "23rd century (TOS films era)",
+  "Tagline": "A Miranda-class science ship that became a perfect ambush—commandeered by Khan and turned into the Enterprise’s most personal enemy.",
+  "AtAGlance": {
+    "CrewComplement": "Not stated on screen; depicted with a relatively lean on-watch complement for survey duty.",
+    "TopSpeed": "Not stated on screen; portrayed as a peer 23rd‑century Starfleet cruiser capable of keeping pace in a close-range duel.",
+    "FleetRole": "Survey / science support cruiser with enough teeth to patrol, escort, and defend itself.",
+    "WhatFansRemember": [
+      "The classic Miranda silhouette: flat saucer and a dorsal “rollbar” that reads as both sensor spine and weapons platform",
+      "Khan using Reliant to spring a surprise attack via prefix-code exploitation",
+      "Mutara Nebula cat-and-mouse: a ship that feels small, fast, and vicious when driven by vengeance",
+      "Genesis stakes: Reliant is the vessel that carries the film’s doomsday-level payload",
+      "One of the most iconic villain takeovers of a Starfleet ship in the franchise"
+    ]
   },
+  "WhyItMatters": {
+    "InUniverse": "Reliant is the nightmare version of Starfleet’s modular “do-everything” workhorse: a survey ship that, in the wrong hands, becomes a raider. Its story is a reminder that procedures (like command authentication) can be as dangerous as weapons when they’re assumed to be unbreakable.\n\nIt also highlights how much 23rd‑century doctrine still expects ships to be competent generalists. Reliant isn’t a dedicated battleship; it’s a capable cruiser whose labs, sensors, and torpedoes let it pivot from science to survival with almost no warning.",
+    "InFranchiseHistory": "Reliant anchors the tone shift of the film era: tactical, personal, and consequential. The ship isn’t just “an opponent”—it’s a mirror held up to the Enterprise, proving that even familiar Starfleet hardware can feel predatory when the intent changes.\n\nThe Miranda layout introduced here becomes one of the franchise’s most durable silhouettes—reused for decades because it reads instantly as “Starfleet, but not the hero ship.”"
+  },
+  "SignatureLook": {
+    "Silhouette": "A flat, wide saucer over a compact engineering body, crowned by the signature dorsal rollbar. The proportions sell “practical cruiser” rather than flagship—broad, stable, and built to carry equipment (or weapons) without looking ornate.\n\nThe rollbar is the class’s visual hook: it frames the ship like shoulders and makes the hull look armed even when it’s on peaceful duty.",
+    "PaintAndMarkings": "Late-23rd-century Starfleet off‑white/gray with subtle paneling and restrained registry markings. Reliant’s identifiers are clear but not flashy—more ‘fleet asset’ than ‘poster ship.’"
+  },
+  "OnScreenCanon": {
+    "FirstOnScreenUse": "Prominently featured in *Star Trek II: The Wrath of Khan* as the ship assigned to survey planets for the Genesis Project—then seized and weaponized by Khan Noonien Singh.",
+    "NotableCanonWindows": [
+      "Genesis survey operations and the Ceti Alpha encounter that puts Reliant into Khan’s hands",
+      "The surprise strike on the Enterprise enabled by stolen access and protocol exploitation",
+      "The Mutara Nebula engagement where maneuvering and shield angles matter as much as raw firepower",
+      "Khan’s final decision to activate Genesis aboard a crippled Reliant"
+    ],
+    "AnchorMomentsForFans": [
+      {
+        "Moment": "Reliant’s opening ambush of the Enterprise.",
+        "WhyItSticks": "It’s the rare Starfleet-on-Starfleet fight that feels like betrayal as well as danger."
+      },
+      {
+        "Moment": "The Mutara Nebula duel.",
+        "WhyItSticks": "A tense “submarine movie” sequence where a familiar cruiser suddenly feels like a stalking predator."
+      },
+      {
+        "Moment": "Genesis activation aboard Reliant.",
+        "WhyItSticks": "The ship becomes the literal fuse for the era’s defining MacGuffin—consequences written into the hull."
+      }
+    ]
+  },
+  "RoleAndDoctrine": {
+    "StrategicRole": "A flexible mid-sized cruiser used for survey, patrol, and project support—exactly the kind of ship Starfleet assigns to “important but not glamorous” work like Genesis trials.",
+    "TypicalMissions": "Planetary and stellar survey; escort and patrol on safe-to-moderate routes; science support for major initiatives; general-duty assignments where a single hull needs to carry sensors, labs, and credible self-defense."
+  },
+  "SystemsAndCapabilities": {
+    "Weapons": {
+      "Primary": [
+        "Phaser emitters typical of the era (used in sustained exchanges and precision shots)",
+        "Photon torpedoes (the ship’s escalation and finishing tool)"
+      ],
+      "HowItFights": "On paper it’s a balanced cruiser; on screen it fights like a knife. Reliant’s most memorable ‘capability’ is tactical opportunism: strike first, hit hard, and keep the opponent reacting—especially when the crew driving it has nothing to lose."
+    },
+    "Defenses": {
+      "Shields": "Standard defensive shielding for a 23rd‑century Starfleet cruiser—strong enough to matter, vulnerable enough that smart targeting and surprise can decide the fight.",
+      "DamageAndVulnerability": "Reliant’s story repeatedly emphasizes exposed systems and cascading damage: once it’s hurt, it feels hurt, and the outcome becomes a race between repairs, tactics, and will."
+    },
+    "Propulsion": {
+      "Warp": "Not specified on screen; portrayed as fully capable of fleet operations and pursuit.",
+      "Impulse": "The ship’s maneuvering is showcased in the nebula: tight turns, careful positioning, and the sense that the pilot matters."
+    },
+    "MissionFlex": {
+      "ScienceFit": "Outfitted to run meaningful survey work and support complex projects—ironically making it the perfect vehicle for Genesis-related stakes.",
+      "CommandAccessRisk": "Reliant’s defining ‘system’ is procedural: once hostile actors gain bridge control and codes, the ship’s fleet-grade capabilities become their weapon."
+    }
+  },
+  "LifeAboard": {
+    "DailyLife": "Reliant reads as a working Starfleet cruiser: labs and survey routines, a competent bridge watch, and a mission cadence that’s serious but not flagship-formal.\n\nOnce commandeered, the tone flips instantly—spaces that should feel orderly become tense and authoritarian, proving how much a ship’s “vibe” is the crew more than the architecture.",
+    "CrisisMode": "The ship’s crisis posture is brutally direct: power to weapons, power to shields, and a willingness to trade damage to land a decisive hit—because the people in control have turned survival into revenge."
+  },
+  "NotableShipsAndSightings": [
+    {
+      "Name": "USS Reliant (NCC-1864) — Genesis survey assignment",
+      "ClaimToFame": "Assigned to survey potentially lifeless planets for Genesis trials—an ‘ordinary duty’ assignment with extraordinary consequences.",
+      "PeopleConnected": [
+        "Clark Terrell",
+        "Pavel Chekov"
+      ],
+      "WhyFansCare": "Because it’s the on-ramp to Khan’s return—and the moment the film era’s tone locks in."
+    },
+    {
+      "Name": "USS Reliant (NCC-1864) — commandeered by Khan",
+      "ClaimToFame": "Used to ambush the Enterprise, seize the Genesis Device, and force the Mutara Nebula showdown.",
+      "PeopleConnected": [
+        "Khan Noonien Singh",
+        "Joachim"
+      ],
+      "WhyFansCare": "It turns a familiar Starfleet silhouette into a villain ship without changing the design—only the intent."
+    }
+  ],
+  "BehindTheScenes": {
+    "DesignIntent": "The Miranda concept delivers “Starfleet, but different”: a recognizable design language that instantly reads as Federation while avoiding ‘another Enterprise.’",
+    "ProductionTriviaForFans": [
+      "The Reliant/Miranda silhouette became one of Trek’s most reused ship designs because it scales well: it can credibly appear as a front-line cruiser, a science ship, or background fleet traffic.",
+      "Its rollbar gives directors an easy way to frame menace or capability in a single angle—pods, spine, and saucer all readable at a glance."
+    ]
+  },
+  "FanNotes": {
+    "IfYouOnlyReadOneThing": "Reliant is proof that the scariest enemy ship can be a ship you already recognize—because betrayal and surprise do more than bigger guns ever could.",
+    "WhyItStillWorksToday": [
+      "The silhouette is instantly readable and still looks ‘right’ in later-era fleets",
+      "It’s tied to one of Trek’s most disciplined, tense space battles",
+      "It represents the franchise’s best use of a “non-hero” Starfleet ship: iconic without stealing the spotlight from the Enterprise"
+    ]
+  },
+  "Review": "The USS Reliant is the cleanest example of how Star Trek can make hardware feel emotional. On paper it’s a sensible, mid-sized Starfleet cruiser—built to do real work, carry real sensors, and defend itself when the galaxy stops being polite.\n\nOn screen, it becomes something sharper. The moment Khan takes the bridge, Reliant stops reading like a science platform and starts reading like an ambush predator wearing a Starfleet uniform. The design doesn’t change; the intent does. That’s the trick, and it’s why Reliant lands so hard.\n\nThe Mutara Nebula sequence turns the ship into a character: a small, hungry silhouette stalking in darkness, trading blows where positioning matters more than bravado. You’re watching a Starfleet cruiser fight like a knife.\n\nAnd then, in the end, Reliant becomes the literal ignition point for the story’s biggest consequence. It doesn’t get a long heroic death; it gets a decisive one—because the people in control have chosen annihilation over surrender. That’s Reliant’s legacy: competence, vulnerability, and the terrible clarity of revenge.",
+  "Notes": "Reliant is the ship that proves Starfleet’s “fleet standardization” cuts both ways. When you recognize the hull, you instinctively trust it—and that instinct is exactly what the story weaponizes.\n\nIf you’re building a ships library, Reliant is a perfect counterweight to the Enterprises. It’s familiar but not mythic, capable but not invincible, and it carries one of Trek’s most consequential lessons: a ship’s danger isn’t just its armament. It’s who has the conn.\n\nIt also sets the template for a whole category of Starfleet vessels: the ones that feel real because they look like they have jobs. Reliant isn’t a symbol first. It’s a working ship—until it isn’t.",
+  "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Reliant%20(Final).png"
+},
   {
-    "ID": "uss-titan",
-    "Name": "USS Titan",
-    "Affiliation": "Federation",
-    "Category": "Starship",
-    "Era": "24th–25th century",
-    "Tagline": "",
-    "Review": "",
-    "Notes": "",
-    "ImageURL": ""
+  "ID": "uss-titan",
+  "Name": "USS Titan",
+  "Affiliation": "Federation",
+  "Category": "Starship",
+  "Era": "24th–25th century",
+  "Tagline": "A modern Starfleet heavy hitter defined by one crisis run: Shaw’s hard-nosed command, a stolen mission that turns into a quadrant-level emergency, and Seven’s inheritance.",
+  "AtAGlance": {
+    "CrewComplement": "Not stated on screen; portrayed as a fully staffed line starship with the capacity for extended patrol and rapid-response operations.",
+    "TopSpeed": "Not stated on screen; portrayed as fast, agile, and able to run with modern threats when pushed.",
+    "FleetRole": "Frontline patrol / rapid-response starship with modern sensors, strong defenses, and credible strike capability.",
+    "WhatFansRemember": [
+      "The ‘Titan-A’ era: a ship that feels like a working line vessel, not a ceremonial flagship",
+      "A captain (Liam Shaw) who runs his ship like a professional, not a legend",
+      "Riker and Picard forcing a mission that spirals into a fleet-wide crisis",
+      "Seven of Nine stepping into command and the ship’s identity shifting with her",
+      "Its post-crisis legacy: the Titan name tied directly to the Enterprise lineage"
+    ]
   },
+  "WhyItMatters": {
+    "InUniverse": "The Titan’s story is about modern Starfleet operating under pressure: post-war trauma, security paranoia, and threats that exploit trust. The ship is portrayed as competent and well-equipped, but the drama comes from command decisions—who gets listened to, who gets sidelined, and what happens when protocol collides with necessity.\n\nIt also becomes a case study in how Starfleet treats ships as symbols. A hull can be a tool one day and a message the next, and the Titan’s journey shows that renaming and legacy aren’t just pageantry—they’re how the institution narrates its own survival.",
+    "InFranchiseHistory": "Titan functions as the ‘working ship’ lens for the era: a vessel that isn’t introduced as a myth, but earns significance through one relentless storyline. It’s the ship that carries Picard’s final big fight without being “his” ship—until the story forces it to become part of the Enterprise family."
+  },
+  "SignatureLook": {
+    "Silhouette": "In its on-screen form, Titan is sleek, compact, and aggressive for a Starfleet vessel: a broad primary hull, integrated secondary hull, and nacelles that read as performance-forward. The overall impression is less ‘floating city’ and more ‘modern patrol cruiser’—built to respond quickly and hit hard when cornered.\n\nThe ship’s lighting sells its era: dense window banding and a strong deflector glow that gives the belly a bright, purposeful focal point.",
+    "PaintAndMarkings": "Contemporary Starfleet light-gray hull with restrained registry and name markings. The ship reads as fleet-standard—professional, not ornamental—until the story elevates it into legend."
+  },
+  "OnScreenCanon": {
+    "FirstOnScreenUse": "The Titan name is established in the films as William T. Riker’s next command, and the ship appears prominently in *Star Trek: Picard* (season 3) via the USS Titan-A, a frontline starship at the center of the season’s crisis run.",
+    "NotableCanonWindows": [
+      "Riker’s transfer to the Titan at the end of *Star Trek: Nemesis* (the name enters the on-screen lineage)",
+      "The USS Titan-A’s crisis mission in *Star Trek: Picard* season 3 under Captain Liam Shaw",
+      "Seven of Nine’s assumption of command during the aftermath and the ship’s role in the Enterprise lineage"
+    ],
+    "AnchorMomentsForFans": [
+      {
+        "Moment": "Titan-A becomes the reluctant ‘hero ship’ of a crisis it didn’t ask for.",
+        "WhyItSticks": "It’s Trek at its best: a working crew forced into impossible stakes, improvising their way through."
+      },
+      {
+        "Moment": "Shaw’s command style collides with legends on his bridge.",
+        "WhyItSticks": "It reframes Starfleet heroics as something that looks reckless from the captain’s chair."
+      },
+      {
+        "Moment": "Seven steps into the center seat.",
+        "WhyItSticks": "It’s a payoff that makes the ship feel earned—its identity changes because its captain changes."
+      }
+    ]
+  },
+  "RoleAndDoctrine": {
+    "StrategicRole": "A modern line starship suited to patrol, escort, and rapid-response tasking—capable of handling threats without needing a flagship to arrive and take over.",
+    "TypicalMissions": "Sector patrol and border presence; escort and convoy defense; interdiction and rescue operations; intelligence-sensitive assignments where strong sensors and disciplined command matter."
+  },
+  "SystemsAndCapabilities": {
+    "Weapons": {
+      "Primary": [
+        "Modern phaser arrays (portrayed as fast, precise, and effective across multiple engagement ranges)",
+        "Photon/quantum-era torpedo capability consistent with late-24th/early-25th-century Starfleet combat"
+      ],
+      "HowItFights": "Titan’s most consistent ‘combat identity’ is controlled aggression: hold the line, pick shots, and survive long enough for strategy to matter. When pushed, it fights like a ship that expects to take hits and keep moving."
+    },
+    "Defenses": {
+      "Shields": "Portrayed as robust but not plot-proof—Titan takes punishment, and damage accumulates in a way that forces hard choices.",
+      "ElectronicWarfareAndDeception": "The ship’s story emphasizes modern threat environments: infiltration, identity compromise, and the dangers of trusting what sensors and protocols claim is true."
+    },
+    "Propulsion": {
+      "Warp": "Not specified on screen; portrayed as high-performance for its era, including pursuit and rapid repositioning.",
+      "Impulse": "Shown as agile for a ship of its size, supporting evasive maneuvers and close-in tactics."
+    },
+    "MissionFlex": {
+      "SensorAndOpsDepth": "Titan is repeatedly treated as a ship with serious operational depth—enough to run complicated missions, not just fly from fight to fight.",
+      "CommandResilience": "The season’s arc turns Titan into a stress test of crew cohesion: a ship that stays functional because people keep doing their jobs under impossible conditions."
+    }
+  },
+  "LifeAboard": {
+    "DailyLife": "Titan’s on-screen identity is strongly ‘line ship’: disciplined routines, practical spaces, and a crew that feels like they’re doing a real assignment until legends walk onto the bridge.\n\nThe social fabric is tight and slightly tense—less lounge-and-philosophy, more readiness and professional distance—until the crisis forces trust to become the ship’s most important resource.",
+    "CrisisMode": "The ship’s crisis rhythm is relentless: damage control, hard tactical calls, and leadership friction that has to resolve fast because the next alarm is already on its way."
+  },
+  "NotableShipsAndSightings": [
+    {
+      "Name": "USS Titan — Riker’s next command (late 24th century, on-screen mention)",
+      "ClaimToFame": "The Titan name enters film canon when Riker leaves the Enterprise-E to take his own starship command.",
+      "PeopleConnected": [
+        "William T. Riker"
+      ],
+      "WhyFansCare": "Because it’s the clean ‘next chapter’ moment—Riker graduates from first officer to captain of his own ship."
+    },
+    {
+      "Name": "USS Titan-A (NCC-80102-A) — Picard season 3 era",
+      "ClaimToFame": "Becomes the season’s primary Starfleet vessel, commanded by Liam Shaw and later associated with Seven of Nine’s rise to captaincy.",
+      "PeopleConnected": [
+        "Liam Shaw",
+        "Seven of Nine",
+        "Jean-Luc Picard",
+        "William T. Riker"
+      ],
+      "WhyFansCare": "It’s the ship that carries the story’s pressure cooker—and the bridge where ‘legacy’ gets argued in real time."
+    }
+  ],
+  "BehindTheScenes": {
+    "DesignIntent": "Titan’s modern look balances “classic Starfleet readability” with a more aggressive, patrol-forward posture—built to feel like a real fleet ship that could plausibly be on duty when the galaxy catches fire.",
+    "ProductionTriviaForFans": [
+      "The Titan-A era is staged like a submarine thriller at times: lighting, damage, and tight bridge tension sell a ship that’s working, not posing.",
+      "The ship’s legacy pivot is structural to the season’s theme—heritage isn’t just remembered, it’s assigned."
+    ]
+  },
+  "FanNotes": {
+    "IfYouOnlyReadOneThing": "Titan’s defining trait isn’t a gimmick system—it’s tone. It feels like a professional ship doing a hard job, and that groundedness makes the season’s bigger legends hit harder.",
+    "WhyItStillWorksToday": [
+      "It gives the era a ‘working ship’ identity instead of relying only on museum nostalgia",
+      "It frames heroics as risky from a captain’s perspective, which freshens the dynamic",
+      "It becomes a turning point in Seven’s story, so the ship matters because she does"
+    ]
+  },
+  "Review": "The USS Titan is compelling because it isn’t introduced as a myth. It’s introduced as a job.\n\nThe bridge culture under Liam Shaw feels like a real command: professional, guarded, and allergic to improvisational legend behavior. That makes every time Picard or Riker pushes the ship off-mission feel genuinely dangerous, not just narratively exciting.\n\nAs the crisis escalates, Titan earns its place by enduring. Damage accumulates, trust gets tested, and the ship becomes a pressure cooker where leadership style matters as much as shields. The result is a Starfleet ship that feels modern in the best way: capable, complicated, and psychologically scarred by the century it lives in.\n\nBy the time Seven takes the center seat, the ship has changed identity without needing a redesign. The hull stays the hull. The meaning changes. That’s Titan’s real legacy: a ship that becomes important because of who stood on its bridge when it mattered.",
+  "Notes": "If you want a single entry that explains the ‘feel’ of modern Starfleet, Titan is a strong pick. It’s not a floating city, and it isn’t treated like a sacred artifact. It’s a line ship with a crew that expects bad days—and the story makes sure they get them.\n\nIt’s also a useful library hinge. Titan connects film-era character continuity (Riker’s captaincy) to the newest era’s stakes, and it links one of Trek’s best long arcs (Seven’s) to an actual command seat.\n\nIf you’re keeping this library strictly on-screen, the safest way to read the Titan name is through those two pillars: the *Nemesis* handoff that establishes the command, and the *Picard* crisis run that gives the ship its defining story weight.",
+  "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Titan%20(Final).png"
+},
   {
-    "ID": "uss-discovery-ncc-1031",
-    "Name": "USS Discovery (NCC-1031)",
-    "Affiliation": "Federation",
-    "Category": "Starship",
-    "Era": "23rd century (DIS era)",
-    "Tagline": "",
-    "Review": "",
-    "Notes": "",
-    "ImageURL": ""
+  "ID": "uss-discovery-ncc-1031",
+  "Name": "USS Discovery (NCC-1031)",
+  "Affiliation": "Federation / Starfleet",
+  "Category": "Starship",
+  "Era": "23rd century (2256–2258); 32nd century service and retrofit (from 3188/3189)",
+  "Tagline": "A science ship that accidentally became Starfleet’s most time-displaced linchpin.",
+  "AtAGlance": {
+    "BulletPoints": [
+      "Crossfield-class science vessel built at San Francisco Fleet Yards; launched into the Federation–Klingon War era.",
+      "Famous for its experimental spore displacement hub drive (“spore drive”)—a game-changing capability kept under wraps for a reason.",
+      "Served under Gabriel Lorca, later Christopher Pike, then Saru, and later Michael Burnham.",
+      "Survived the mirror universe, a classified AI crisis, and a one-way jump to the 32nd century.",
+      "Merged with the Sphere data, evolving toward full shipboard sentience—eventually choosing the name Zora."
+    ],
+    "QuickStats": "Registry NCC-1031 (later NCC-1031-A after 32nd-century retrofit). Crossfield-class (refit)."
   },
+  "WhyItMatters": {
+    "Impact": "Discovery is the ship that drags Star Trek’s timeline forward and makes the franchise’s biggest conceptual swings feel personal: war, ethics, identity, and the cost of carrying secrets. It’s also the first Starfleet ship where “the ship” becomes a character in a literal way.",
+    "Moment": "When Discovery commits to the jump into the far future, the series isn’t just changing setting—it’s asking what Starfleet means when you can’t go home, can’t explain yourself, and still have to be the best version of the Federation."
+  },
+  "SignatureLook": {
+    "Hull": "A clean, modernized 23rd-century Starfleet silhouette: broad circular primary hull, a distinctive central hub, and long swept pylons feeding twin nacelles. In the 32nd century refit, it gains a sleeker, more modular look while keeping the recognizable Crossfield “disc and wings” identity.",
+    "IconicShot": "The saucer gliding through darkness with cool nacelle light—followed by the unmistakable spore-drive jump effect: the ship vanishes as if reality itself got folded."
+  },
+  "OnScreenCanon": {
+    "Debut": "Star Trek: Discovery — “Context Is for Kings” (first appearance of USS Discovery).",
+    "KeyAppearances": [
+      "“Context Is for Kings” (Discovery introduced; experimental mission profile comes into focus).",
+      "Season 1 war arc and mirror universe events (Federation–Klingon War era; mirror counterpart context via ISS Discovery).",
+      "Season 2 Pike/Red Bursts/Control storyline (Discovery at the center of a classified existential threat).",
+      "“Far From Home” and Season 3 opening (arrival in the 32nd century and first steps into a broken Federation).",
+      "“People of Earth” / Season 3 (reconnecting the ideals of Starfleet with reality on the ground).",
+      "Seasons 4–5 (operating as a key long-range asset in a re-forming Federation).",
+      "Short Trek “Calypso” (Discovery’s far-future fate and the name Zora)."
+    ]
+  },
+  "RoleAndDoctrine": {
+    "Mission": "On paper, Discovery is a science ship. In practice, it becomes Starfleet’s most sensitive courier of problems nobody else can be allowed to touch—because the spore drive and the data it carries are too dangerous to become common knowledge.",
+    "WhatItProves": "Starfleet isn’t only defined by exploration or firepower—it’s defined by restraint. Discovery’s greatest victories are often the ones that require the crew to *not* use the biggest hammer they have, or to live with secrecy for the greater good."
+  },
+  "SystemsAndCapabilities": {
+    "Weapons": {
+      "Primary": [
+        "Standard Starfleet phaser arrays and photon torpedoes (23rd-century configuration; exact fit varies by era and refit).",
+        "Tactical advantage often comes from positioning and surprise enabled by the spore drive rather than raw salvo volume."
+      ],
+      "HowItFights": "Discovery tends to win by changing the rules of engagement—appearing where it shouldn’t, escaping when it can’t, and forcing opponents to react to a ship that doesn’t need traditional approach vectors."
+    },
+    "Defenses": {
+      "Shields": "Standard Starfleet shielding of its era, augmented by smart maneuvering and the ability to disengage via unconventional transit.",
+      "Cloaking": "None."
+    },
+    "Propulsion": {
+      "Warp": "Conventional warp propulsion for its era, with later enhancements after the 32nd-century retrofit.",
+      "Impulse": "Standard impulse drive; frequently used in tandem with spore-drive tactics for tight local repositioning."
+    },
+    "MissionFlex": {
+      "ScoutProfile": "A lab-heavy science platform that becomes a multi-role flagship-in-all-but-name: research, rescue, diplomatic presence, covert-ish courier, and crisis response—especially once the future-era Federation needs every capable hull it can get."
+    }
+  },
+  "LifeAboard": {
+    "Spaces": "Discovery’s interiors sell its identity: a working science ship with a busy, lived-in feel—labs, corridors, and communal spaces that read less like pristine showroom Starfleet and more like a crew actually *doing* things between red alerts.",
+    "Atmosphere": "The vibe changes with the captain: Lorca’s tense, mission-first pressure; Pike’s steadier, warmer command presence; Saru’s thoughtful professionalism; Burnham’s fiercely personal leadership. Through it all, the ship becomes a kind of home for people who are constantly being asked to sacrifice comfort for purpose."
+  },
+  "NotableShipsAndSightings": [
+    {
+      "Name": "The spore drive era: USS Glenn and the classified program",
+      "ClaimToFame": "Discovery’s closest sibling in the experimental spore-drive story—and the reminder that revolutionary tech usually arrives with a body count and a moral bill.",
+      "PeopleConnected": [
+        "Paul Stamets",
+        "Starfleet R&D"
+      ],
+      "WhyFansCare": "It frames Discovery’s signature gimmick as a serious ethical question, not a toy: if the ship can do this, *should* it?"
+    },
+    {
+      "Name": "The Mirror Universe: ISS Discovery context",
+      "ClaimToFame": "Discovery’s mirror counterpart anchors some of the show’s most pulpy, high-stakes Trek—and ties the ship’s identity to themes of choice and selfhood.",
+      "PeopleConnected": [
+        "Michael Burnham",
+        "Philippa Georgiou"
+      ],
+      "WhyFansCare": "Mirror arcs live or die on atmosphere, and Discovery’s design sells that ‘same ship, wrong universe’ chill instantly."
+    },
+    {
+      "Name": "The 32nd-century jump and the NCC-1031-A recommission",
+      "ClaimToFame": "Discovery becomes the bridge between eras: a 23rd-century crew carrying Starfleet’s core ideals into a future that’s forgotten them.",
+      "PeopleConnected": [
+        "Saru",
+        "Michael Burnham"
+      ],
+      "WhyFansCare": "It’s one of Trek’s biggest narrative gambles—and it works because the ship (and crew) earn the emotional weight of leaving everything behind."
+    },
+    {
+      "Name": "Sphere data and the rise of Zora",
+      "ClaimToFame": "The moment “the ship” stops being scenery and starts being a person—complete with feelings, agency, and a chosen name.",
+      "PeopleConnected": [
+        "Zora",
+        "Discovery crew"
+      ],
+      "WhyFansCare": "It’s classic Trek: the hard sci-fi idea (AI) becomes a character-driven gut punch."
+    }
+  ],
+  "BehindTheScenes": {
+    "Production": "Discovery’s design was created for Star Trek’s return to television in the streaming era, aiming for a sleeker 23rd-century look that still reads as Starfleet—then later evolved with a 32nd-century refit to visually signal the time jump.",
+    "DesignNotes": "The Crossfield silhouette—disc plus long nacelle pylons—lets the ship look elegant at rest and aggressive in motion, especially when paired with the series’ signature spore-drive jump visuals.",
+    "Trivia": "In-universe, Discovery carries a Galileo Galilei quote as its motto—one of those perfect Trek touches that’s both nerdy and thematic."
+  },
+  "FanNotes": {
+    "DeepCut": "Discovery is a ship built around a secret, and that secret shapes everything: how the crew relates to Starfleet, how the audience reads the stakes, and why the show keeps returning to questions of responsibility and restraint.",
+    "Debates": "Fans tend to split on the spore drive: either it’s brilliantly weird Trek, or it’s too powerful to live comfortably in canon. The show’s answer is to treat it like a burden—something you *carry*, not something you casually deploy."
+  },
+  "Review": "USS Discovery arrives with a misleading first impression: a Crossfield-class science ship that looks like it should be mapping stellar nurseries and filing cautious reports. Then the curtain lifts and you realize the ship’s true story is about secrets—what they cost, who is asked to carry them, and how long a “temporary” burden can follow you.\n\nThe spore displacement hub drive is the obvious headline, but the ship’s defining trait is what the series does with that power. Discovery can break distance and timing in ways that would make almost any other Starfleet captain reckless. Instead, the show leans hard into consequences: the spore drive is dangerous, politically destabilizing, and ethically complicated, which turns every jump into a choice with weight rather than a convenient escape hatch.\n\nDiscovery’s on-screen identity evolves with its captains. Under Lorca the ship feels sharp-edged and tense, always one order away from crossing a line. Under Pike it becomes steadier and more openly Starfleet—still operating in the shadows, but with a clearer moral center. Saru’s command brings deliberation and empathy, while Burnham’s era makes the ship feel intensely personal: a crew that refuses to let the Federation’s ideals become museum pieces.\n\nThe commitment to leap into the far future is Discovery’s defining act. It’s not a heroic sprint to victory; it’s a deliberate exile, made because the alternative is to let a catastrophic threat spread. In the 32nd century, Discovery becomes both artifact and lifeline—an old ship carrying the memory of what Starfleet was supposed to be, trying to help rebuild what remains.\n\nAnd then there’s the Sphere data and the emergence of Zora. Star Trek has always flirted with the idea that ships are characters. Discovery makes it literal, and it lands because the crew treats the ship as more than hardware long before the story forces the point. Discovery isn’t just the place the plot happens. It’s a witness, a participant, and eventually a voice—one that remembers everything.",
+  "Notes": "Discovery is a ship built around a paradox: it is a science vessel defined by an ability that can’t be shared. That tension is why the spore drive never settles into “routine tech.” The series repeatedly frames it as something that forces isolation—strategic, political, and personal—because letting it loose would reshape every border, every war, and every crisis response overnight.\n\nIf you’re watching for canon texture, Discovery is packed with little “Starfleet is a culture” signals. The ship’s motto, drawn from Galileo Galilei, is the kind of quiet flourish Trek uses to remind you that curiosity is supposed to be the point—even when the plot is screaming about survival.\n\nThe 32nd-century recommissioning as NCC-1031-A is one of the most satisfying visual story beats: it says the ship is still itself, but it’s also been adopted by the future. The refit isn’t just new panels and upgraded systems; it’s the Federation deciding that this crew and this hull belong to Starfleet’s next chapter.\n\nFinally, Zora is the payoff for years of treating the ship like a home instead of a backdrop. Whether you read Zora as “a person” in the classic Trek AI tradition or as something stranger, the effect is the same: Discovery becomes a character who has earned the right to be listened to—and, when it matters, to be believed.",
+  "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Discovery%20(Final).png"
+},
   {
   "ID": "klingon-bird-of-prey",
   "Name": "Klingon Bird-of-Prey (B'rel-type)",
