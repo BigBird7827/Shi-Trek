@@ -375,16 +375,109 @@
     "ImageURL": ""
   },
   {
-    "ID": "klingon-bird-of-prey",
-    "Name": "Klingon Bird-of-Prey",
-    "Affiliation": "Klingon Empire",
-    "Category": "Vessel type",
-    "Era": "23rd–24th century",
-    "Tagline": "",
-    "Review": "",
-    "Notes": "",
-    "ImageURL": ""
+  "ID": "klingon-bird-of-prey",
+  "Name": "Klingon Bird-of-Prey (B'rel-type)",
+  "Affiliation": "Klingon Empire",
+  "Category": "Vessel type",
+  "Era": "23rd–24th century",
+  "Tagline": "Small enough to lurk in the shadows—mean enough to make a starship captain sweat.",
+  "AtAGlance": {
+    "Bullets": [
+      "First seen in the late 23rd century, then becomes the Klingon workhorse raider through the TNG/DS9 era.",
+      "Cloaking-capable predator: shows up when it wants, leaves when it chooses—unless you can pin it down.",
+      "Flexible role: scout, raider, escort, hit‑and‑run attacker, and—occasionally—political dagger.",
+      "Iconic named example: the captured Bird‑of‑Prey refit as **HMS Bounty** (Star Trek IV).",
+      "Its reputation is built less on “bigger gun” and more on timing, nerve, and aggressive piloting."
+    ]
   },
+  "WhyItMatters": {
+    "Paragraphs": [
+      "The Bird‑of‑Prey is the Klingon Empire’s most recognizable expression of a simple idea: a ship doesn’t have to be large to be dangerous if it can choose the terms of engagement. On screen it’s the craft that turns a quiet starfield into a trap—the moment the cloak drops, you’re already behind the curve.",
+      "It’s also a cross‑era visual bridge. The same basic silhouette connects the late‑movie Klingons to the power politics of The Next Generation and the wartime Klingons of Deep Space Nine, making it one of the franchise’s most enduring “continuity ships.”"
+    ]
+  },
+  "SignatureLook": {
+    "Paragraphs": [
+      "Wings spread wide like a raptor in glide: that’s the Bird‑of‑Prey’s calling card. The forward ‘beak’ command pod is compact and predatory, feeding into a long neck that opens out into broad, angular wings.",
+      "On screen, Birds‑of‑Prey often look lived‑in—dark green‑gray hull, ribbed structures, and a utilitarian, almost industrial underside that reads as ‘built to fight, not to impress.’"
+    ]
+  },
+  "OnScreenCanon": {
+    "Paragraphs": [
+      "The Bird‑of‑Prey enters live‑action canon in **Star Trek III: The Search for Spock**, where Kruge’s ship becomes the point of the spear at Genesis. It returns immediately as the stolen Klingon craft refit as **HMS Bounty** in **Star Trek IV: The Voyage Home**—the rare enemy ship that becomes a hero vehicle and stays memorable.",
+      "By the 24th century, Birds‑of‑Prey are everywhere the Empire’s interests collide with the Federation’s: ambushes, border pressure, internal Klingon politics, and—most notably—the Dominion War years where a Bird‑of‑Prey can be a quick strike option or a patrol ship that’s suddenly asked to do far more than it was designed for.",
+      "The class also supplies one of the franchise’s most famous ‘rule‑breaker’ moments: in **Star Trek VI: The Undiscovered Country**, General Chang’s Bird‑of‑Prey is equipped to **fire while cloaked**, turning a familiar threat into a near‑unfair one."
+    ]
+  },
+  "RoleAndDoctrine": {
+    "Paragraphs": [
+      "In Klingon hands, the Bird‑of‑Prey reads as doctrine made metal: strike first, strike hard, and keep moving. It’s the ship you send when you want plausible deniability, a fast response, or a bite that forces negotiations to start from fear.",
+      "Because it’s compact, it’s also a ship of specialists. On screen, Birds‑of‑Prey are frequently tied to commanders with a personal stake—honor‑hungry captains, political operators, or warriors proving themselves. The ship becomes an extension of its captain’s temperament: bold, impatient, and allergic to retreat… right up until retreat is the smart play."
+    ]
+  },
+  "SystemsAndCapabilities": {
+    "Paragraphs": [
+      "The **cloaking device** is the Bird‑of‑Prey’s defining system. Even when it’s not the biggest gun in the room, the ability to appear, fire, and vanish reshapes every tactical decision around it—especially in crowded political situations where a single torpedo can become a message.",
+      "Birds‑of‑Prey are shown with disruptor weaponry and torpedoes, but their ‘special’ capability on screen is less about raw yield and more about angles—coming in low, attacking from an unexpected vector, and using the ship’s agility to stay in the enemy’s blind spot.",
+      "Internally, we see the Bird‑of‑Prey as a real working craft: cramped medical facilities, functional cargo space (famously repurposed for whales on the HMS Bounty), and an engine room set‑piece that sells the ship as something crewed by hands‑on warriors rather than pristine technicians."
+    ]
+  },
+  "LifeAboard": {
+    "Paragraphs": [
+      "Life aboard a Bird‑of‑Prey is portrayed as tight and martial. The medical ward seen on Kruge’s ship is notably cramped and dim—more ‘patch the warrior up’ than ‘comfort the patient.’ The mess and common spaces that appear later in the franchise feel similarly utilitarian: low light, hard surfaces, and an atmosphere that emphasizes readiness over relaxation.",
+      "The ship can carry serious cargo for its size (the HMS Bounty’s hold becomes an improvised whale tank), but it never feels like a freighter. Even the corridors and doors read like a warship’s: quick access, short distances, and a layout built around getting to the bridge, weapons stations, or engineering fast."
+    ]
+  },
+  "NotableShipsAndSightings": [
+    {
+      "Name": "Kruge’s Bird-of-Prey → HMS Bounty",
+      "ClaimToFame": "From Genesis raid (Star Trek III) to time‑jumping whale rescue (Star Trek IV).",
+      "PeopleConnected": [
+        "Kruge",
+        "James T. Kirk",
+        "Spock",
+        "Montgomery Scott",
+        "Leonard McCoy"
+      ],
+      "WhyFansCare": "It’s the Bird‑of‑Prey that becomes a ‘main character’—and the one that proves a Klingon ship can steal the spotlight in a Federation story."
+    },
+    {
+      "Name": "General Chang’s Bird-of-Prey",
+      "ClaimToFame": "A cloaked shooter in Star Trek VI, turning a familiar threat into a nightmare.",
+      "PeopleConnected": [
+        "Chang",
+        "Hikaru Sulu",
+        "James T. Kirk"
+      ],
+      "WhyFansCare": "The ‘fire while cloaked’ gimmick is pure tension: it breaks expectations and forces the heroes to improvise under pressure."
+    },
+    {
+      "Name": "IKS Rotarran",
+      "ClaimToFame": "Martok’s command in DS9’s wartime Klingon arc.",
+      "PeopleConnected": [
+        "Martok",
+        "Worf",
+        "Jadzia Dax"
+      ],
+      "WhyFansCare": "It’s one of the best ‘crew ships’ outside Starfleet—where a Bird‑of‑Prey becomes a home, a workplace, and a political stage."
+    }
+  ],
+  "BehindTheScenes": {
+    "Paragraphs": [
+      "The Bird‑of‑Prey becomes a franchise staple because the design plays well in almost any story: it can be menacing, stealthy, heroic (HMS Bounty), or even tragic depending on who’s in the captain’s chair.",
+      "Star Trek VI’s ‘cloaked firing’ twist is a great example of how the same physical ship model can feel completely different just by changing one rule and the way it’s lit, edited, and scored."
+    ]
+  },
+  "FanNotes": {
+    "Paragraphs": [
+      "If the D7 is the Klingon ‘line officer’ ship, the Bird‑of‑Prey is the knife—smaller, quicker, and often closer to the dirty work. It’s the ship that shows up when someone wants a problem solved quietly.",
+      "For many fans, the Bird‑of‑Prey is also the ultimate Klingon vibe-check: if a story wants to feel like ‘Klingons are dangerous again,’ dropping one of these out of cloak is the fastest way to get there."
+    ]
+  },
+  "Review": "The Bird‑of‑Prey has one of the simplest power fantasies in Star Trek: control the moment. Where bigger ships fight battles, this one creates ambushes. The cloak isn’t just a gadget—it’s a narrative lever. A Bird‑of‑Prey can enter a scene already holding the advantage, and the story’s tension rises before the first shot is fired.\n\nIts debut in The Search for Spock nails the tone: predatory, personal, and brutally pragmatic. The ship feels like a tool for a captain who wants glory and doesn’t care what gets broken on the way. And then The Voyage Home flips the script. Suddenly the Bird‑of‑Prey is the heroes’ ride, and we see how flexible the design is—still dangerous, still alien, but also oddly practical when you need a stealthy way in and out of trouble.\n\nBy the 24th century, Birds‑of‑Prey stop being ‘the new scary thing’ and become a constant strategic background hum. That’s not a downgrade; it’s a sign the design has become believable as a real fleet asset. When DS9 leans into Klingon politics and wartime alliances, the Bird‑of‑Prey is the ship that can be a patrol craft one week and a personal command the next. It’s small enough to feel intimate, but capable enough to matter.\n\nAnd then there’s Chang’s Bird‑of‑Prey in The Undiscovered Country—Star Trek’s reminder that a single clever modification can tilt an entire conflict. Cloaked firing turns a known silhouette into an impossible opponent, and the film squeezes every drop of suspense out of it. That’s the Bird‑of‑Prey at its best: not the biggest ship, but the one that makes everyone else play its game.",
+  "Notes": "A neat on‑screen contrast: when we actually visit Bird‑of‑Prey interiors, they skew cramped and utilitarian—especially the medical ward and engineering spaces—reinforcing that this is a combat craft first. Even when it’s carrying whales, it feels like a warship improvising, not a ship designed for comfort.\n\nBird‑of‑Prey appearances span decades of Star Trek storytelling, so you’ll see variations in bridge layouts and set dressing depending on era and budget. The franchise often uses those differences to quietly signal ‘this is a different ship’ even when the exterior silhouette is instantly recognizable.\n\nIf you’re building a fleet roster in your head: think of Birds‑of‑Prey as the Klingon Empire’s flexible light/medium combatant—ships that show up in twos and threes, strike fast, and either vanish or swarm once the opening is made.",
+  "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/BirdofPrey%20(Final).png"
+},
   {
     "ID": "klingon-neghvar",
     "Name": "Negh'Var-class warship",
@@ -418,17 +511,103 @@
     "Notes": "",
     "ImageURL": ""
   },
-  {
-    "ID": "romulan-warbird",
-    "Name": "Romulan Warbird",
-    "Affiliation": "Romulan Star Empire",
-    "Category": "Vessel type",
-    "Era": "24th century (TNG era)",
-    "Tagline": "",
-    "Review": "",
-    "Notes": "",
-    "ImageURL": ""
+ {
+  "ID": "romulan-warbird",
+  "Name": "Romulan Warbird (D'deridex-class)",
+  "Affiliation": "Romulan Star Empire",
+  "Category": "Vessel type",
+  "Era": "24th century (TNG/DS9/VOY era)",
+  "Tagline": "A crescent of intimidation—half warship, half political statement.",
+  "AtAGlance": {
+    "Bullets": [
+      "First appears when the Romulans return to the galactic stage in **TNG: “The Neutral Zone.”**",
+      "Defining feature: the enormous split ‘crescent’ hull with an open central void and emerald internal glow.",
+      "Often portrayed as the Star Empire’s heavyweight line ship—used for brinkmanship as much as battle.",
+      "Uses a **cloaking device** and is associated on‑screen with an **artificial quantum singularity** power source.",
+      "Signature vibe: cold patience, huge leverage, and the sense you’re being evaluated even during ‘peaceful’ talks."
+    ]
   },
+  "WhyItMatters": {
+    "Paragraphs": [
+      "The D'deridex‑class warbird is the ship that makes The Next Generation’s Romulans feel like a superpower instead of a mystery. When one of these slides out of the void, it doesn’t just threaten your hull—it threatens your assumptions about who controls the Neutral Zone today.",
+      "It’s also the Romulan fleet’s most iconic silhouette in live‑action. The open ‘crescent’ shape isn’t merely stylish; it reads as alien engineering philosophy: massive, sculpted, and psychologically weaponized."
+    ]
+  },
+  "SignatureLook": {
+    "Paragraphs": [
+      "Two sweeping wings arc forward like a raptor poised to strike, bridged by a thick central body that frames an unmistakable hollow core. The ship’s internal green glow—often seen spilling out from the central void—turns the warbird into a moving omen.",
+      "Unlike the Borg’s cluttered industrial chaos, the warbird’s surface feels deliberate: ridges, grooves, and layered geometry that suggests ornate engineering without looking ornamental for its own sake."
+    ]
+  },
+  "OnScreenCanon": {
+    "Paragraphs": [
+      "The warbird’s live‑action ‘arrival’ is **TNG: “The Neutral Zone”**, where Romulan ships reappear after decades and immediately reshape the strategic map. From there, D'deridex‑class vessels become recurring instruments of pressure: patrols, stand‑offs, rescue‑as‑leverage, and carefully staged encounters meant to test Federation resolve.",
+      "Key TNG moments include the tense chess match of **“The Defector”**, where warbirds arrive precisely when they’ll make the most noise, and later political stories like **“Unification”** where the class reinforces that Romulan diplomacy is never unarmed.",
+      "The ship remains active across the broader live‑action era, appearing in **Deep Space Nine** during high‑stakes intelligence and wartime arcs, and even cropping up in **Voyager** via Romulan encounters tied to broader Alpha Quadrant politics."
+    ]
+  },
+  "RoleAndDoctrine": {
+    "Paragraphs": [
+      "On screen, the D'deridex reads as a strategic multi‑tool: a heavy cruiser that can fight, intimidate, and ‘negotiate’ simply by being present. Romulan doctrine around these ships feels like controlled exposure—arrive under cloak, reveal yourself when it gains leverage, and keep the other side guessing about what you’re actually willing to do.",
+      "Warbirds are also framed as instruments of statecraft. They show up with admirals, commanders, and Tal Shiar involvement in stories where the *mission* is often political: extract information, apply pressure, demonstrate reach, or force the Federation (or the Klingons) to make the first mistake."
+    ]
+  },
+  "SystemsAndCapabilities": {
+    "Paragraphs": [
+      "The most famous operational system is the **cloaking device**, which Romulan commanders use as both tactical advantage and psychological theater—sometimes remaining unseen until the moment a reveal will have maximum effect.",
+      "In‑universe dialogue and Memory Alpha’s canon tracking associate the class with an **artificial quantum singularity** as a power source, reinforcing the Romulan theme of ‘dangerous sophistication’—a ship that feels like it’s running on something the Federation respects but doesn’t quite trust.",
+      "Weapons are portrayed as heavy ship‑to‑ship armament suitable for a line warship, but the class’s real on‑screen ‘capability’ is leverage: the ability to threaten, blockade, and escalate faster than most captains would like."
+    ]
+  },
+  "LifeAboard": {
+    "Paragraphs": [
+      "Warbird interiors shown in live‑action lean austere and militarized. Crew quarters depicted in DS9’s Romulan stories are sparse, functional, and built for discipline rather than comfort—an atmosphere that matches the Empire’s presentation of strength and secrecy.",
+      "The ship often feels like it has layers: public-facing command decisions on the bridge, and deeper agendas in the shadows—especially in episodes where Romulan intelligence services are involved. Even when the warbird is ‘an ally,’ it rarely feels truly relaxed."
+    ]
+  },
+  "NotableShipsAndSightings": [
+    {
+      "Name": "IRW Khazara",
+      "ClaimToFame": "A key player in the standoff and deception of TNG: “The Defector.”",
+      "PeopleConnected": [
+        "Tomalak",
+        "Jean-Luc Picard"
+      ],
+      "WhyFansCare": "It’s the warbird as pure brinkmanship—arriving like a checkmate that still leaves room for one more move."
+    },
+    {
+      "Name": "IRW Haakona",
+      "ClaimToFame": "A recurring named warbird tied to Romulan operations in the TNG era.",
+      "PeopleConnected": [
+        "Romulan command staff"
+      ],
+      "WhyFansCare": "A named hull makes the class feel real—like a standing fleet, not a one‑off ‘episode ship.’"
+    },
+    {
+      "Name": "Tebok’s warbird",
+      "ClaimToFame": "The ship that helps reintroduce the Romulans as an active power in “The Neutral Zone.”",
+      "PeopleConnected": [
+        "Tebok"
+      ],
+      "WhyFansCare": "It’s the moment the Romulans stop being a backstory and become a present-tense threat."
+    }
+  ],
+  "BehindTheScenes": {
+    "Paragraphs": [
+      "Designer Andrew Probert’s work is often discussed as the warbird’s secret weapon: a silhouette that’s instantly readable at a glance and still feels unlike any Federation design language.",
+      "The class becomes a storytelling shortcut: show a D'deridex on screen and the audience immediately expects espionage, leverage, and a conversation where someone is smiling while holding a knife."
+    ]
+  },
+  "FanNotes": {
+    "Paragraphs": [
+      "The D'deridex isn’t just ‘big Romulan ship.’ It’s the Star Empire’s stagecraft: cloak, reveal, posture, and only then—maybe—fire. Even when it’s outnumbered, it can still win the scene by controlling the tone.",
+      "The green internal glow is doing a lot of narrative work. It’s not just pretty lighting; it makes the warbird look alive in a way that’s unsettling—like a predator breathing in the dark."
+    ]
+  },
+  "Review": "The D'deridex‑class warbird is Star Trek’s masterclass in intimidation design. It doesn’t show up like a ship passing by; it arrives like a statement. The split crescent silhouette frames empty space the way a predator frames prey—your eye goes to the void first, and then to the green light inside it, and only then to the hull around it. You’re already uneasy before anyone speaks.\n\nThat first big impression matters because the Romulans in The Next Generation aren’t usually written as blunt-force antagonists. They’re strategists. The warbird fits them perfectly: massive enough to be credible in a straight fight, but most effective as a pressure tool. In episode after episode, the ship’s true weapon is uncertainty—how many are there, what are they doing under cloak, what are they *really* here for?\n\nWhen warbirds appear in stories like “The Defector,” they become the physical embodiment of a diplomatic trap: arrive late, arrive under cloak, and arrive in numbers that force the other side to reveal their own intentions. Even when no shots are fired, the warbird has already done its job—it has made the room colder.\n\nAcross DS9 and Voyager-era appearances, the class keeps its core identity: an imperial heavyweight that’s equal parts warship and political theatre. It’s the kind of ship that makes ‘peace talks’ feel like a battlefield and makes a quiet border sector feel like the center of the galaxy.",
+  "Notes": "The D'deridex’s association with an artificial quantum singularity is one of those pieces of Romulan flavor that sticks: it signals ‘advanced, dangerous, and different’ without needing a lecture. When you pair that with a cloaking device, the ship’s whole vibe becomes: power you can’t fully see.\n\nIf you’re mapping where the class shows up, it’s a tour of Romulan intent—Neutral Zone pressure, espionage-heavy plots, uneasy alliances, and the kind of wartime cooperation that never stops being transactional.\n\nBecause the warbird is so visually distinctive, even a brief shot can carry a lot of story weight. It’s one of the few non‑Federation ships that can ‘steal’ a scene from the Enterprise just by arriving.",
+  "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Romulan%20Warbird%20(Final).png"
+},
   {
   "ID": "borg-cube",
   "Name": "Borg Cube",
