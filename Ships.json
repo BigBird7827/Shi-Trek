@@ -128,27 +128,287 @@
     "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Klingon%20D7%20(Final).png"
   },
   {
-    "ID": "uss-enterprise-ncc-1701",
-    "Name": "USS Enterprise (NCC-1701)",
-    "Affiliation": "Federation",
-    "Category": "Starship",
-    "Era": "23rd century (TOS era)",
-    "Tagline": "",
-    "Review": "",
-    "Notes": "",
-    "ImageURL": ""
+  "ID": "uss-enterprise-ncc-1701",
+  "Name": "USS Enterprise (NCC-1701)",
+  "Affiliation": "Federation",
+  "Category": "Starship",
+  "Era": "23rd century (TOS era)",
+  "Tagline": "The original Constitution-class Enterprise: a five-year mission workhorse turned Federation flagship—Pike’s and Kirk’s ship, later refit for the movie era, and finally scuttled over Genesis.",
+  "AtAGlance": {
+    "WhatFansRemember": [
+      "The iconic Constitution-class silhouette: saucer, secondary hull, and twin nacelles—Star Trek’s defining starship shape",
+      "Pike’s command era and the ship’s ‘explore’ ethos as a lived mission statement",
+      "Kirk’s five-year mission as the franchise’s baseline for frontier exploration and first contact",
+      "The 2270s refit that transforms the ship into the sleek movie-era Enterprise",
+      "The V’ger emergency launch and shakedown problems that make the refit feel real and unfinished",
+      "The Mutara Nebula duel with the hijacked USS Reliant—submarine tactics in space",
+      "The final choice over Genesis: self-destruction as a deliberate tactical and moral act"
+    ],
+    "CrewComplement": "Varies across eras and depictions; portrayed as a several-hundred-person Starfleet crew with specialist departments for deep-space operation.",
+    "TopSpeed": "Not consistently stated on screen; depicted as a premier mid‑23rd‑century deep-space cruiser capable of long-duration, high-warp missions.",
+    "FleetRole": "Constitution-class heavy cruiser / deep-space explorer / Federation flagship (at points in its service life)."
   },
+  "WhyItMatters": {
+    "InUniverse": "NCC‑1701 is the ship Starfleet points to when it wants to prove the Federation idea works on the frontier. It’s designed for long-duration exploration with minimal support, which means the ship isn’t just a vehicle—it’s a moving institution: science, diplomacy, and crisis response all under one registry. Its career also shows Starfleet’s habit of evolving a proven hull rather than replacing it outright: refit, recommission, repurpose, and keep the mission alive until the ship is spent.",
+    "InFranchiseHistory": "This is the template. The Enterprise isn’t just a setting; it’s a visual and narrative language that every later Star Trek hero ship riffs on. The original TV version establishes the ‘bridge crew as family’ model, while the refit cements the cinematic look of Starfleet hardware. Between those two versions, NCC‑1701 becomes the franchise’s most recognizable object—instantly readable even as the era, tone, and production scale change."
+  },
+  "SignatureLook": {
+    "SilhouetteAndDetails": "A clean, balanced planform that reads as purposeful rather than militaristic: wide saucer, compact secondary hull, and nacelles spaced for symmetry. The TOS version is smooth and minimal; the movie-era refit adds layered paneling, recessed details, and a more ‘industrial’ sense of scale while keeping the same unmistakable outline.",
+    "InteriorsAndMood": "The TOS Enterprise feels like a fast, efficient exploratory vessel: tight corridors, utilitarian workspaces, and a bridge built around immediate decision-making. The later refit shifts toward a brighter, more spacious ‘future navy’ vibe—more open volumes, more visible systems, and a sense that the ship is a major investment the Federation is proud to show off."
+  },
+  "OnScreenCanon": {
+    "FirstOnScreenUse": "Debuts as the hero ship of Star Trek’s original era, with its earliest story set under Captain Christopher Pike (TOS pilot material later incorporated into canon presentation).",
+    "NotableCanonWindows": [
+      "2245–2250: launched and commanded by Captain Robert April (launch date confirmed on-screen in later-era material)",
+      "2250s–2260s: commanded by Captain Christopher Pike, including key early missions and the ship’s pre‑Kirk reputation",
+      "2265–2270: Kirk’s five-year mission era—primary exploration and first-contact stories across the TOS run",
+      "2270s: major refit and return to frontline duty for the V’ger crisis",
+      "2285: used as a training vessel; fights Khan; later scuttled over Genesis"
+    ],
+    "AnchorMomentsForFans": [
+      {
+        "Moment": "Five-year mission era and the ‘Enterprise as frontier’ storytelling model.",
+        "Where": "Star Trek: The Original Series",
+        "WhyItSticks": "It’s the baseline: a single ship, a small command team, and the sense that the galaxy is wide enough for wonder and danger in the same hour."
+      },
+      {
+        "Moment": "Emergency launch after refit to confront V’ger.",
+        "Where": "Star Trek: The Motion Picture",
+        "WhyItSticks": "The refit turns the Enterprise into a cinematic object—then immediately grounds it with shakedown problems and unfinished systems."
+      },
+      {
+        "Moment": "Mutara Nebula duel and the cost of victory.",
+        "Where": "Star Trek II: The Wrath of Khan",
+        "WhyItSticks": "It’s the franchise’s most famous ship-on-ship fight, and it treats a starship like a tactical arena rather than a backdrop."
+      },
+      {
+        "Moment": "Self-destruct over Genesis.",
+        "Where": "Star Trek III: The Search for Spock",
+        "WhyItSticks": "The ship doesn’t ‘lose’—it chooses its ending, and that makes the moment feel like character rather than spectacle."
+      }
+    ]
+  },
+  "RoleAndDoctrine": {
+    "StrategicRole": "A premier exploration cruiser built for independent operations—able to serve as a scientific platform, diplomatic venue, and credible defensive asset on the frontier.",
+    "TypicalMissions": "Long-range exploration; first contact; scientific survey; frontier patrol and deterrence; rapid-response support for colonies and outposts; flagship representation when Starfleet wants a symbol on the scene."
+  },
+  "SystemsAndCapabilities": {
+    "Weapons": {
+      "Primary": [
+        "Phaser systems appropriate to the mid‑23rd century (upgraded in the 2270s refit)",
+        "Photon torpedoes as the ship’s heavy-hitting escalation option"
+      ],
+      "HowItFights": "On screen, Enterprise fights like an explorer forced into combat: it prefers maneuver, positioning, and controlled volleys over brute exchanges. Its most memorable battles emphasize tactics, improvisation, and the crew’s ability to turn knowledge of systems into leverage."
+    },
+    "Defenses": {
+      "Shields": "Deflector shields typical of its era—strong enough to matter, vulnerable enough that damage and subsystem failures drive story stakes.",
+      "DamageAndVulnerability": "The ship’s narratives repeatedly hinge on cascading failures: compromised shields, damaged warp systems, and the reality that even a flagship can be one bad hit away from a fight becoming a survival problem."
+    },
+    "Propulsion": {
+      "Warp": "Designed for extended deep-space cruises; later refit introduces new warp engines that are notably tested during shakedown under crisis conditions.",
+      "Impulse": "Sublight handling is portrayed as responsive and piloting-dependent, especially in close-range maneuvers and tactical set pieces."
+    },
+    "MissionFlex": {
+      "ScienceFit": "A full-spectrum exploratory platform with labs and sensors used as often for problem-solving as for discovery.",
+      "DiplomacyFit": "Built to host negotiations and official encounters—bridge and briefing spaces function as decision hubs, not just command-and-control."
+    }
+  },
+  "LifeAboard": {
+    "DailyLife": "The ship reads as a disciplined, shift-driven exploratory workplace: departments running around the clock, tight living spaces, and a command culture that expects competence under uncertainty.\n\nWhat makes it feel uniquely ‘Enterprise’ is how quickly routine work can pivot into first contact or crisis. The daily rhythm is normal until it suddenly isn’t—then the ship’s systems and crew snap into a practiced red-alert cadence.",
+    "CrisisMode": "In emergencies, Enterprise becomes a ship of procedures: damage control, power reroutes, shield management, and constant cross-department coordination. The show and films repeatedly frame the ship as something you keep alive with judgment and teamwork as much as with hardware."
+  },
+  "NotableShipsAndSightings": [
+    {
+      "Name": "USS Enterprise (NCC-1701) — launch and early service",
+      "ClaimToFame": "Launched in 2245 and enters service as a Constitution-class heavy cruiser under Captain Robert April; later commanded by Captain Christopher Pike.",
+      "PeopleConnected": [
+        "Robert April",
+        "Christopher Pike"
+      ],
+      "WhyFansCare": "Because it anchors the ship’s legacy before Kirk—an established, respected explorer with history already on its hull."
+    },
+    {
+      "Name": "USS Enterprise (NCC-1701) — Kirk’s five-year mission",
+      "ClaimToFame": "The primary Enterprise era of Star Trek’s original adventures, defined by exploration, diplomacy, and repeated high-stakes anomalies and adversaries.",
+      "PeopleConnected": [
+        "James T. Kirk",
+        "Spock",
+        "Leonard McCoy"
+      ],
+      "WhyFansCare": "Because this is the ‘classic’ Enterprise experience: the archetype that later Trek ships echo."
+    },
+    {
+      "Name": "USS Enterprise (NCC-1701) — 2270s refit and V’ger crisis",
+      "ClaimToFame": "Undergoes major refit and is pressed into service ahead of schedule to respond to V’ger, with systems tested under real mission stress.",
+      "PeopleConnected": [
+        "James T. Kirk",
+        "Will Decker"
+      ],
+      "WhyFansCare": "Because the refit is a defining visual transformation—and the story treats the ship like a complex machine, not a magic set."
+    },
+    {
+      "Name": "USS Enterprise (NCC-1701) — Mutara Nebula battle",
+      "ClaimToFame": "Fights the hijacked USS Reliant in a close-range duel and survives at significant cost during the Genesis crisis.",
+      "PeopleConnected": [
+        "James T. Kirk",
+        "Khan Noonien Singh"
+      ],
+      "WhyFansCare": "Because it’s Star Trek’s most iconic ship-vs-ship confrontation and one of the franchise’s most personal stakes."
+    },
+    {
+      "Name": "USS Enterprise (NCC-1701) — Genesis scuttling",
+      "ClaimToFame": "Destroyed by self-destruct over Genesis in 2285 to prevent capture and ensure the crew’s survival.",
+      "PeopleConnected": [
+        "James T. Kirk",
+        "Spock"
+      ],
+      "WhyFansCare": "Because it’s the rare starship death that feels like agency—an ending chosen, not merely suffered."
+    }
+  ],
+  "BehindTheScenes": {
+    "DesignLineage": "The original Enterprise exterior design became Star Trek’s most influential visual template, with later Enterprises and Starfleet ship language repeatedly echoing its core geometry and proportions.",
+    "ModelHistory": "The ship’s look splits into two iconic production eras: the clean-lined television Enterprise and the heavily detailed refit created for the feature films—both treated by fans as definitive in their own way.",
+    "LegacyFootprint": "Enterprise’s registry and silhouette became pop-culture shorthand for ‘future exploration,’ with the ship’s identity repeatedly invoked whenever Star Trek wants to reconnect to its roots."
+  },
+  "FanNotes": {
+    "IfYouOnlyReadOneThing": "NCC‑1701 is Trek’s north star: not the biggest ship, not the newest ship, but the one that defined what Starfleet is supposed to do when nobody’s watching.",
+    "WatchFor": "How different eras use the same hull to signal tone: the TV Enterprise feels brisk and immediate; the refit feels monumental and ceremonial—yet it’s still the same ship at heart."
+  },
+  "Review": "The USS Enterprise (NCC‑1701) is the rare fictional object that functions like a myth and a machine at the same time. In its TV form, it’s fast, clean, and almost abstract—a set built to move stories quickly. That simplicity is part of its power: the ship is a stage where big ideas get tested, and the silhouette becomes an instant promise that tonight’s problem will be solved with curiosity as much as courage.\n\nWhat’s remarkable is how the franchise then lets the same registry grow up. The 2270s refit doesn’t just add detail—it changes the feeling of the Enterprise. Suddenly the ship has weight, texture, and a sense of expensive reality. The films treat it like an institution: you don’t just board it, you return to it.\n\nThe ship’s best moments aren’t only about victories. They’re about decisions. The Enterprise routinely becomes the place where ethics meets physics: when to fire, when to negotiate, when to risk the ship for strangers, and when to sacrifice the ship to save the people. That’s why its final act over Genesis lands so hard. The Enterprise doesn’t die in a blaze of random damage—it’s deliberately spent to protect the mission and the crew.\n\nIf later Enterprises are variations on a theme, this one is the theme. It’s the ship that taught Star Trek how to be Star Trek.",
+  "Notes": "A useful way to read NCC‑1701 across its life is as a story about continuity. Starfleet doesn’t discard its identity when the era changes; it refits, upgrades, and keeps going. The Enterprise is the clearest example of that—one registry spanning a clean TV future, a cinematic refit future, and a final phase where the ship is old enough to become a training platform.\n\nAlso worth noticing: the Enterprise’s ‘capability’ on screen is often less about raw power than about flexibility. It’s the ship that can do diplomacy one day and fight a running battle the next, and that versatility becomes a kind of narrative superpower.\n\nRewatch tip: track the ship’s spaces as storytelling. The same bridge, corridors, and briefing areas become the arena for wildly different genres—mystery, horror, politics, war—without losing the feeling that this is still a working exploratory vessel.",
+  "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Enterprise%20NCC%201701%20(Sample%202).webp"
+},
   {
-    "ID": "uss-enterprise-ncc-1701-a",
-    "Name": "USS Enterprise (NCC-1701-A)",
-    "Affiliation": "Federation",
-    "Category": "Starship",
-    "Era": "23rd century (films era)",
-    "Tagline": "",
-    "Review": "",
-    "Notes": "",
-    "ImageURL": ""
+  "ID": "uss-enterprise-ncc-1701-a",
+  "Name": "USS Enterprise (NCC-1701-A)",
+  "Affiliation": "Federation",
+  "Category": "Starship",
+  "Era": "23rd century (TOS films era)",
+  "Tagline": "The movie-era Enterprise: a Constitution II-class successor assigned to Kirk’s crew after Genesis—famous for shakedown chaos, big final-era adventures, and retirement after Khitomer.",
+  "AtAGlance": {
+    "WhatFansRemember": [
+      "The reveal at the end of The Voyage Home—Kirk’s crew given a new Enterprise as they ‘come home’",
+      "The shakedown problems and command misfires that make the ship feel fresh, unfinished, and very human",
+      "The “marshmellons” and ‘bring her in’ awkwardness—classic early Enterprise‑A vibes",
+      "The Sha Ka Ree mission and Sybok’s takeover in The Final Frontier",
+      "The Praxis/Khitomer crisis and Kirk’s last log in The Undiscovered Country",
+      "The notion that the A is almost the refit Enterprise, but subtly different in finish and personality",
+      "Retirement and museum fate: a ship that becomes an artifact rather than a wreck"
+    ],
+    "CrewComplement": "Not stated on screen; portrayed as a standard Starfleet heavy cruiser complement under Kirk’s command crew.",
+    "TopSpeed": "Not stated on screen; treated as a frontline-capable Constitution II refit-era cruiser.",
+    "FleetRole": "Constitution II-class heavy cruiser serving as a high-visibility command assignment and flagship-level symbol for major missions."
   },
+  "WhyItMatters": {
+    "InUniverse": "The Enterprise‑A is Starfleet’s way of saying ‘the name matters.’ After Genesis, Kirk’s crew is punished and then immediately entrusted with the Federation’s most famous legacy registry—because Starfleet needs the Enterprise myth as much as it needs the crew’s competence. The A’s service also shows the late-23rd-century transition: diplomacy and détente become as central as exploration, and the ship’s final voyages are as political as they are adventurous.",
+    "InFranchiseHistory": "The A is the ship of the classic film ensemble. It’s where the original cast’s later-era identities get locked in: older, sharper, more reflective, and increasingly tied to the Federation’s politics. If NCC‑1701 is the franchise’s origin, the A is its farewell tour—an era of character closure and big-screen ceremony."
+  },
+  "SignatureLook": {
+    "SilhouetteAndDetails": "Externally nearly identical to the refit Enterprise, with the same Constitution II profile: crisp lines, dense paneling, and a more ‘naval’ sense of scale than the TV-era ship. On screen it reads as slightly darker in finish—more gun-metal than pearlescent—while keeping the unmistakable Enterprise geometry.",
+    "InteriorsAndMood": "Movie-era Starfleet interiors: larger spaces, more visible tech surfaces, and a bridge that feels like a real control room. The ship’s personality early on is defined by ‘new ship problems’—systems that aren’t fully dialed in and a crew re-learning how to fly the same legend in a slightly different body."
+  },
+  "OnScreenCanon": {
+    "FirstOnScreenUse": "Assigned to Captain James T. Kirk and his command crew in 2286 following the Genesis incident, as seen at the conclusion of Star Trek IV: The Voyage Home.",
+    "NotableCanonWindows": [
+      "2286: commissioned/assigned to Kirk’s crew and departs Spacedock after a notably bumpy shakedown",
+      "2287: involved in the Sybok/Sha Ka Ree crisis",
+      "2293: final voyage during the Praxis/Khitomer events; scheduled to be stood down and later decommissioned after the Khitomer Conference"
+    ],
+    "AnchorMomentsForFans": [
+      {
+        "Moment": "The ‘new Enterprise’ reveal and Spacedock departure.",
+        "Where": "Star Trek IV: The Voyage Home",
+        "WhyItSticks": "It’s a reward, a reset, and a statement that the Enterprise name will outlive any single hull."
+      },
+      {
+        "Moment": "Shakedown chaos and the ship feeling ‘new’ in the funniest possible way.",
+        "Where": "Star Trek V: The Final Frontier",
+        "WhyItSticks": "Because it’s one of the franchise’s best reminders that starships are complicated—even legends have bad days."
+      },
+      {
+        "Moment": "Kirk’s final captain’s log and the passing of an era.",
+        "Where": "Star Trek VI: The Undiscovered Country",
+        "WhyItSticks": "It’s the emotional endpoint of the original crew’s journey, with the Enterprise‑A as their last stage."
+      }
+    ]
+  },
+  "RoleAndDoctrine": {
+    "StrategicRole": "A refit-era heavy cruiser used for high-visibility missions—part exploratory vessel, part diplomatic platform, part crisis-response ship for an increasingly complex Federation-Klingon relationship.",
+    "TypicalMissions": "Long-range deployments; special assignments under senior command crews; diplomatic escort and negotiation support; anomaly investigation; high-stakes crisis response in politically sensitive regions."
+  },
+  "SystemsAndCapabilities": {
+    "Weapons": {
+      "Primary": [
+        "Movie-era refit phaser systems",
+        "Photon torpedoes as standard heavy-cruiser armament"
+      ],
+      "HowItFights": "Enterprise‑A is portrayed as a capable refit cruiser, but its most memorable ‘capability’ is context: it’s a famous ship with a famous crew, often operating under political pressure. When it fights, it’s decisive and tactical—but the films increasingly frame combat as a last resort rather than the point."
+    },
+    "Defenses": {
+      "Shields": "Standard defensive shielding for the late-23rd-century refit era—credible protection, but not invulnerability.",
+      "DamageAndVulnerability": "The A’s stories emphasize readiness gaps and operational stress as much as physical damage—new-ship quirks and mission constraints can be as dangerous as enemy fire."
+    },
+    "Propulsion": {
+      "Warp": "Refit-era warp systems consistent with Constitution II performance; portrayed as a fully fleet-capable cruiser.",
+      "Impulse": "Handles like a large ship: steady, powerful, and more about controlled approach than twitchy maneuvering."
+    },
+    "MissionFlex": {
+      "DiplomacyFit": "Frequently used as a platform for politically sensitive missions, culminating in the Praxis/Khitomer era détente storyline.",
+      "CrewCultureFactor": "Unusually, the ship carries multiple officers of captain’s rank within its command team, reinforcing the sense that this is a legacy assignment built around a legendary crew."
+    }
+  },
+  "LifeAboard": {
+    "DailyLife": "Enterprise‑A feels like a ship with a seasoned crew and a new hull: routines are practiced, but the vessel itself occasionally surprises everyone. That contrast gives the ship a distinct personality—less the polished confidence of a mature flagship and more the ‘we’ll get her sorted’ energy of a recommissioned legend.\n\nThe ship also reads as a more political Enterprise. Briefings, negotiations, and long conversations about duty, compromise, and legacy take up as much oxygen as exploration.",
+    "CrisisMode": "When crisis hits, the A runs on experience—Kirk’s crew knows how to improvise under pressure. The films repeatedly show the crew using judgment, deception, and timing as much as raw systems power to survive situations where the ship is outmatched or boxed in by politics."
+  },
+  "NotableShipsAndSightings": [
+    {
+      "Name": "USS Enterprise (NCC-1701-A) — 2286 assignment",
+      "ClaimToFame": "Assigned to Captain James T. Kirk and his command crew in 2286, shortly after the loss of the original Enterprise over Genesis.",
+      "PeopleConnected": [
+        "James T. Kirk",
+        "Spock",
+        "Montgomery Scott"
+      ],
+      "WhyFansCare": "Because it’s Starfleet honoring a name and a crew at the same time—an ending that feels like a new beginning."
+    },
+    {
+      "Name": "USS Enterprise (NCC-1701-A) — Sha Ka Ree crisis",
+      "ClaimToFame": "Central Starfleet asset during the Sybok/Sha Ka Ree events, including a takeover and recovery under Kirk’s command.",
+      "PeopleConnected": [
+        "James T. Kirk",
+        "Sybok"
+      ],
+      "WhyFansCare": "Because it’s one of the A’s defining ‘messy’ missions—high stakes, high emotion, and a ship that’s still finding its footing."
+    },
+    {
+      "Name": "USS Enterprise (NCC-1701-A) — Praxis/Khitomer era final voyage",
+      "ClaimToFame": "Participates in the crisis leading to the Khitomer Conference and the broader turning point in Federation-Klingon relations.",
+      "PeopleConnected": [
+        "James T. Kirk",
+        "Hikaru Sulu"
+      ],
+      "WhyFansCare": "Because it’s the original crew’s closing chapter, with the ship serving as the last home for their era."
+    },
+    {
+      "Name": "USS Enterprise (NCC-1701-A) — retirement and preservation",
+      "ClaimToFame": "Scheduled to be stood down in 2293; decommissioned after Khitomer and maintained as an exhibit at the Fleet Museum.",
+      "WhyFansCare": "Because the A doesn’t end as debris—it becomes history, a preserved symbol rather than a casualty."
+    }
+  ],
+  "BehindTheScenes": {
+    "DesignContinuity": "Enterprise‑A preserves the refit Enterprise look, letting the film series maintain a consistent Starfleet visual identity across multiple stories and tones.",
+    "ProductionUse": "The ship’s role across the later films shifts from pure exploration into politics, diplomacy, and legacy—mirroring how the original cast’s stories evolve over time.",
+    "SetAndPropFlavor": "The A’s lounge and mess set dressing includes strong ‘heritage’ signals—maritime antiques and portraits that underline the ship as a vessel with tradition, not just technology."
+  },
+  "FanNotes": {
+    "IfYouOnlyReadOneThing": "Enterprise‑A is the ‘last Enterprise’ of the original crew: a familiar silhouette carrying a more reflective era, where the biggest battles are often political and personal rather than purely tactical.",
+    "WatchFor": "How the films use the ship’s age and quirks as character texture—shakedown problems, imperfect systems, and the sense that legends are maintained, not magically perfect."
+  },
+  "Review": "The Enterprise‑A is Trek’s most elegant kind of sequel: it looks like the refit Enterprise, it feels like the refit Enterprise, and yet it plays a different role. Where NCC‑1701 is about becoming the myth, the A is about living inside the myth—being the ship that has to carry a famous name while the galaxy changes around it.\n\nIts signature flavor is contradiction. The crew is seasoned, even legendary, but the ship is new enough to misbehave. That tension gives the A a distinct identity: not the pristine ‘new flagship’ fantasy, but the reality of commissioning a complex starship and immediately hurling it into headline missions.\n\nThe A’s era also shifts what an Enterprise story is. Exploration is still there, but the films increasingly care about diplomacy, sacrifice, and the long shadow of past decisions. By the time the ship reaches its final voyage, the Enterprise‑A isn’t just a vehicle for adventure—it’s the stage for an entire generation’s goodbye.\n\nThat’s why its retirement lands. The Enterprise‑A isn’t destroyed; it’s preserved. The franchise treats the ship the way the story treats the name: as something worth keeping, even when the crew has moved on.",
+  "Notes": "Canon framing for Enterprise‑A is unusually tidy: it’s assigned in 2286 and serves for seven years before being stood down in 2293, then decommissioned after the Khitomer Conference and maintained as a Fleet Museum exhibit.\n\nA small but fun visual/cultural detail is how the ship leans into ‘naval heritage’—including a ship’s wheel in the crew lounge tied to the famous ‘to boldly go’ motto, and prominent historical portraits in the officers’ mess.\n\nRewatch tip: treat the A as a tone barometer for the film era. When it launches from Spacedock, you’re in classic ensemble adventure. By its final voyage, the same ship is carrying a story about reconciliation, aging, and what it means to keep going when your era is ending.",
+  "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Enterprise-A%20(Sample%201).webp"
+},
   {
     "ID": "uss-enterprise-ncc-1701-d",
     "Name": "USS Enterprise (NCC-1701-D)",
@@ -297,18 +557,7 @@
     "Notes": "Some ships in Trek are remembered for being fast or deadly. Enterprise-D is remembered for being inhabited. It’s the first hero ship that routinely shows the Federation’s ‘everyday future’—kids in school, people off duty, friends meeting for a drink—so when the episode turns dark, you feel the cost immediately.\n\nIf you want a quick litmus test for what makes the D special, watch how often the important scenes aren’t in Engineering or on the bridge. They’re in lounges, conference rooms, sickbay, and quiet corridors. The ship’s power is that it creates space for conversations, not just confrontations.\n\nThe other enduring trick is contrast. In alternate timelines (“Yesterday’s Enterprise”) the same hull suddenly feels oppressive and grim, and the show doesn’t need exposition to sell it—you already know what the ship is ‘supposed’ to feel like. When the D is wrong, you notice.\n\nFinally, the Enterprise-D has one of Trek’s best ‘afterlives.’ The destruction in Generations is definitive, but the later restoration doesn’t cheapen it; it treats the ship the way fans do: as something with a past worth preserving, and a presence powerful enough that, when it shows up again, the room gets quiet.",
     "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Shi-Trek/main/Images/Enterprise-D%20(Final).png"
   },
-  {
-    "ID": "uss-enterprise-ncc-1701-e",
-    "Name": "USS Enterprise (NCC-1701-E)",
-    "Affiliation": "Federation",
-    "Category": "Starship",
-    "Era": "24th century (TNG films era)",
-    "Tagline": "",
-    "Review": "",
-    "Notes": "",
-    "ImageURL": ""
-  },
-  {
+    {
     "ID": "uss-voyager-ncc-74656",
     "Name": "USS Voyager (NCC-74656)",
     "Affiliation": "Federation",
