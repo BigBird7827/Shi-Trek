@@ -283,14 +283,51 @@
       .kv{ grid-template-columns: 1fr; }
     }
   </style>
-<style id="mainConsoleInlineStyle">
-  .main-console-inline{
+<style id="mainConsoleLeftStyle">
+  .mainConsoleLeftWrap{
     display:flex;
-    justify-content:center;
-    align-items:center;
+    justify-content:flex-start;
+    margin-top: 10px;
   }
-  .main-console-inline a{
+  .mainConsoleLeftWrap a,
+  .mainConsoleLeftWrap button{
+    cursor:pointer;
+  }
+
+  .mainConsoleLeftWrap .mcConsoleBtn{
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    width:auto;
+    padding:10px 16px;
+    border-radius:14px;
+    font-weight:800;
+    letter-spacing:.08em;
+    text-transform:uppercase;
+    font-size:12px;
+    color: rgba(255,255,255,.92);
+    background: rgba(18,22,32,.72);
+    border: 1px solid rgba(255,255,255,.22);
+    box-shadow: 0 10px 22px rgba(0,0,0,.35);
     text-decoration:none;
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    transition: transform .12s ease, box-shadow .12s ease, background .12s ease;
+  }
+  .mainConsoleLeftWrap .mcConsoleBtn:hover{
+    transform: translateY(-1px);
+    background: rgba(26,33,46,.82);
+    box-shadow: 0 12px 26px rgba(0,0,0,.42);
+  }
+  .mainConsoleLeftWrap .mcConsoleBtn--s15{
+    padding:9px 14px;
+    border-radius:13px;
+    font-size:11px;
+  }
+  .mainConsoleLeftWrap .mcConsoleBtn--s25{
+    padding:8px 12px;
+    border-radius:12px;
+    font-size:10px;
   }
 </style>
 </head>
@@ -298,10 +335,10 @@
   <div class="app">
     <header>
       <h1>Shi‑Trek</h1>
+      <div class="mainConsoleLeftWrap" style="margin: 10px 0;"><button class="mcConsoleBtn mcConsoleBtn--s15" type="button" onclick="window.location.href='https://bigbird7827.github.io/Main-Console/'">MAIN CONSOLE</button></div>
+
       <div class="subtitleRow">
         <div class="subtitle">Iconic ships from across live-action Star Trek—key moments, signature details, and the stories fans remember.</div>
-      <div class="main-console-inline" style="margin-top: 12px;"><a class="btn" href="https://bigbird7827.github.io/Main-Console/">MAIN CONSOLE</a></div>
-
         <div class="headerActions">
           <button class="btn" id="randomBtn" type="button">Random</button>
           <button class="btn" id="aboutBtn" type="button">About</button>
